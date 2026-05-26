@@ -290,6 +290,12 @@
                             <select id="producto-categoria" required>
                                 <option value="">SELECCIONE CATEGORÍA</option>
                             </select>
+                            <div style="margin: 10px 0;">
+    <label style="display:flex; align-items:center; gap:8px; cursor:pointer;">
+        <input type="checkbox" id="producto-novedad">
+        ⭐ Mostrar en novedades
+    </label>
+</div>
                             <div style="display: flex; gap: 10px;">
                                 <button type="submit" id="btn-guardar-producto">GUARDAR PRODUCTO</button>
                                 <button type="button" id="btn-cancelar-edicion" style="display: none; background-color: #6c757d; color: white; border: none; padding: 10px; border-radius: 4px; cursor: pointer;">CANCELAR</button>
@@ -668,6 +674,7 @@
                 precio: parseFloat(document.getElementById('producto-precio').value),
                 foto: document.getElementById('producto-foto').value,
                 categoria: document.getElementById('producto-categoria').value,
+                novedad: document.getElementById('producto-novedad').checked,
                 suspendido: idEdicion ? productos.find(p => p.id === parseInt(idEdicion)).suspendido : false
             };
 
