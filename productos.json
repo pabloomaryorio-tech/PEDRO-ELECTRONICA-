@@ -53,6 +53,7 @@
     "precio": 4100,
     "foto": "https://i.postimg.cc/vHRNJ8fX/CAR-53001.jpg",
     "categoria": "CARGADORES",
+    "novedad": true,
     "suspendido": true
   },
   {
@@ -1085,6 +1086,7 @@
     "precio": 8400,
     "foto": "https://i.postimg.cc/NGSx80dt/IMG-8173.jpg",
     "categoria": "NIÑOS",
+    "novedad": true,
     "suspendido": false
   },
   {
@@ -1341,6 +1343,7 @@
     "precio": 4800,
     "foto": "https://i.postimg.cc/RhC5DZRr/IMG-8026.jpg",
     "categoria": "AURICULARES VINCHA",
+    "novedad": false,
     "suspendido": false
   },
   {
@@ -1821,6 +1824,7 @@
     "precio": 8900,
     "foto": "https://i.postimg.cc/fLtxJCWQ/IMG-8113.jpg",
     "categoria": "HERRAMIENTAS",
+    "novedad": true,
     "suspendido": false
   },
   {
@@ -2493,6 +2497,7 @@
     "precio": 14000,
     "foto": "https://i.postimg.cc/J4RZ1WFz/d9b99bc1-a446-43ef-a38a-b8af90af2128.jpg",
     "categoria": "VARIOS",
+    "novedad": true,
     "suspendido": false
   },
   {
@@ -2709,6 +2714,7 @@
     "precio": 19500,
     "foto": "https://i.postimg.cc/Zq51wtxz/99be78ff-748f-4870-b5b6-09e7a0a6c403.jpg",
     "categoria": "TERMOS Y VASOS",
+    "novedad": true,
     "suspendido": false
   },
   {
@@ -2877,6 +2883,7 @@
     "precio": 6500,
     "foto": "https://i.postimg.cc/4d0xpSXJ/IMG-8948.png",
     "categoria": "PARLANTES",
+    "novedad": true,
     "suspendido": false
   },
   {
@@ -2925,6 +2932,7 @@
     "precio": 12600,
     "foto": "https://i.postimg.cc/50Zp7xQR/c640f682-713d-4c0b-b5b3-f858a556cae7.jpg",
     "categoria": "MUNDIAL",
+    "novedad": true,
     "suspendido": false
   },
   {
@@ -3389,6 +3397,7 @@
     "precio": 9100,
     "foto": "https://i.postimg.cc/Ghg8VCJt/aa60f668-e853-418b-90e7-1d894667bb85.jpg",
     "categoria": "COMPUTACION",
+    "novedad": true,
     "suspendido": false
   },
   {
@@ -3413,6 +3422,7 @@
     "precio": 4400,
     "foto": "https://i.postimg.cc/MpjTLjpB/62ba990c-3271-4e72-b748-9f60f1f18343.jpg",
     "categoria": "CARGADORES",
+    "novedad": true,
     "suspendido": false
   }
 ]
