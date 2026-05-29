@@ -370,7 +370,7 @@
         return;
     }
 
-    const novedades = productosParaMostrar.filter(p => p.novedad);
+    const nuevos  = productosParaMostrar.filter(p => p.nuevos);
     const resto = productosParaMostrar.filter(p => !p.novedad);
 
     const categoriasProductos = resto.reduce((acc, producto) => {
@@ -381,12 +381,12 @@
     }, {});
 
     if (novedades.length > 0) {
-        categoriasProductos["⭐ NOVEDADES"] = novedades;
+        categoriasProductos["⭐ NUEVOS INGRESOS"] = novedades;
     }
 
     const categoriasOrdenadas = Object.keys(categoriasProductos).sort((a, b) => {
-        if (a === "⭐ NOVEDADES") return -1;
-        if (b === "⭐ NOVEDADES") return 1;
+        if (a === "⭐ NUEVOS INGRESOS") return -1;
+        if (b === "⭐ NUEVOS INGRESOS") return 1;
         return a.localeCompare(b);
     });
 
