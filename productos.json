@@ -304,14 +304,6 @@
     "suspendido": false
   },
   {
-    "id": 75,
-    "nombre": "CAÑO PARA DUCHA 50CM AV2640",
-    "precio": 3200,
-    "foto": "https://i.postimg.cc/3RPY7XYW/B1050.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": true
-  },
-  {
     "id": 77,
     "nombre": "DUCHA CUADRADA  20 CM X 20 CM",
     "precio": 5500,
@@ -706,7 +698,7 @@
   {
     "id": 177,
     "nombre": "LUZ DE BICI X 2 PIEZAS",
-    "precio": 2100,
+    "precio": 1900,
     "foto": "https://i.postimg.cc/ZYfHfLXq/luz-bici.png",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -1793,8 +1785,8 @@
   },
   {
     "id": 400,
-    "nombre": "CUTTER REFORZADO",
-    "precio": 1450,
+    "nombre": "CUTTER + REPUESTRO ",
+    "precio": 1300,
     "foto": "https://i.postimg.cc/kX9n45wG/IMG-8110.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1997,7 +1989,7 @@
     "precio": 3450,
     "foto": "https://i.postimg.cc/7ZzdTF93/IMG-8149.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 430,
@@ -2120,14 +2112,6 @@
     "suspendido": false
   },
   {
-    "id": 450,
-    "nombre": "CALCULADORA COLORES 8 DIGITOS",
-    "precio": 1850,
-    "foto": "https://i.postimg.cc/QxSNBW6F/IMG-8163.jpg",
-    "categoria": "LIBRERIA",
-    "suspendido": true
-  },
-  {
     "id": 452,
     "nombre": "PIZARRA LCD A COLOR DE 16 PULGADAS",
     "precio": 6100,
@@ -2140,14 +2124,6 @@
     "nombre": "PIZARRA LCD A COLOR DE 12 PULGADAS",
     "precio": 4550,
     "foto": "https://i.postimg.cc/SRN5HjWb/IMG-8165.jpg",
-    "categoria": "LIBRERIA",
-    "suspendido": false
-  },
-  {
-    "id": 455,
-    "nombre": "FIBRONES CAJA X 10",
-    "precio": 3600,
-    "foto": "https://i.postimg.cc/NfZJkdPY/IMG-8167.jpg",
     "categoria": "LIBRERIA",
     "suspendido": false
   },
@@ -2237,7 +2213,7 @@
     "precio": 11500,
     "foto": "https://i.postimg.cc/L6ScSR1p/IMG-8177.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 467,
@@ -2275,13 +2251,13 @@
     "id": 471,
     "nombre": "ABRELATAS",
     "precio": 2700,
-    "foto": "https://i.postimg.cc/Hkc4P8kL/IMG-8202.jpg",
+    "foto": "https://i.postimg.cc/HsMh6Dm9/18dcc93e-8678-475c-a725-f3c1c859111d.jpg",
     "categoria": "HOGAR",
     "suspendido": false
   },
   {
     "id": 472,
-    "nombre": "CUCHILLO 7 PULGADAS 20 CM",
+    "nombre": "CUCHILLA DE 20 CM",
     "precio": 2900,
     "foto": "https://i.postimg.cc/gJDv6vgz/IMG-8203.jpg",
     "categoria": "HOGAR",
@@ -3065,7 +3041,7 @@
   },
   {
     "id": 1777558837392,
-    "nombre": "ALARGUE REFORZADO CON CORTE DE CORRIENTE",
+    "nombre": "ZAPATILLA REFORZADO CON CORTE DE CORRIENTE",
     "precio": 10500,
     "foto": "https://i.postimg.cc/zXZRYF8s/855d6868-b81c-4564-b19e-9082196a7f7d.jpg",
     "categoria": "ELECTRICIDAD ",
@@ -3290,7 +3266,7 @@
   {
     "id": 1779820061450,
     "nombre": "PELOTA DE VOLEY ",
-    "precio": 7499.98,
+    "precio": 7500,
     "foto": "https://i.postimg.cc/MKPsc79N/ba33f383-bd34-4909-9006-415afc598bd3.jpg",
     "categoria": "NIÑOS",
     "suspendido": false
@@ -3445,6 +3421,46 @@
     "precio": 1900,
     "foto": "https://i.postimg.cc/0QfKn44P/d69cbc99-7d75-4472-891f-2ddca186ff5a.jpg",
     "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 1780342909259,
+    "nombre": "SERVILLETERO DE MADERA ",
+    "precio": 1100,
+    "foto": "https://i.postimg.cc/XNphyBzN/45acdd65-6923-4be2-b126-c486dce57f81.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1780342976603,
+    "nombre": "FRUTERO GRANDE ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/SKg943yD/3b25e808-df9d-4d01-9f61-f3b1bebc153b.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1780343008321,
+    "nombre": "FRUTERO REDONDO 16 CM ",
+    "precio": 1000,
+    "foto": "https://i.postimg.cc/bJM2DnSy/c6cbbfdd-352d-4497-81e3-beb3a159f0ab.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1780343075257,
+    "nombre": "FRUTERO REDONDO GRANDE 34 CM ",
+    "precio": 1400,
+    "foto": "https://i.postimg.cc/L4DXh7GH/90a2bda3-ca9b-4908-850c-0a1ca94e10e7.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1780343111552,
+    "nombre": "PLATO PARA BEBE CON DIVISIONES ",
+    "precio": 1200,
+    "foto": "https://i.postimg.cc/RF9SZQT2/189e9fdd-fee4-40f4-8565-de6d93752919.jpg",
+    "categoria": "HOGAR",
     "suspendido": false
   }
 ]
