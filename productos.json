@@ -53,13 +53,12 @@
     "precio": 4100,
     "foto": "https://i.postimg.cc/vHRNJ8fX/CAR-53001.jpg",
     "categoria": "CARGADORES",
-    "novedad": true,
     "suspendido": true
   },
   {
     "id": 14,
     "nombre": "CARGADOR PUXIDA IPHONE 4.2",
-    "precio": 5300,
+    "precio": 5450,
     "foto": "https://i.postimg.cc/MH2rXtkX/Whats-App-Image-2025-09-10-at-20-57-10-2.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -1086,7 +1085,6 @@
     "precio": 8400,
     "foto": "https://i.postimg.cc/NGSx80dt/IMG-8173.jpg",
     "categoria": "NIÑOS",
-    "novedad": true,
     "suspendido": false
   },
   {
@@ -1211,7 +1209,7 @@
   },
   {
     "id": 305,
-    "nombre": "LUZ PLACARD SET X 5 LUCES A PILA",
+    "nombre": "LUZ PLACARD SET X 3 LUCES A PILA",
     "precio": 7900,
     "foto": "https://i.postimg.cc/ydJccg9P/setplacadluz.jpg",
     "categoria": "ILUMINACION",
@@ -1343,7 +1341,6 @@
     "precio": 4800,
     "foto": "https://i.postimg.cc/RhC5DZRr/IMG-8026.jpg",
     "categoria": "AURICULARES VINCHA",
-    "novedad": false,
     "suspendido": false
   },
   {
@@ -1501,7 +1498,7 @@
   {
     "id": 359,
     "nombre": "CABLE AUXILIAR A I PHONE",
-    "precio": 2400,
+    "precio": 2550,
     "foto": "https://i.postimg.cc/XvYp5dm9/IMG-8053.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -1517,7 +1514,7 @@
   {
     "id": 361,
     "nombre": "CABLE AUXILIAR A TIPO C",
-    "precio": 2400,
+    "precio": 2550,
     "foto": "https://i.postimg.cc/Xvrn38tm/IMG-8055.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -1742,7 +1739,7 @@
     "id": 393,
     "nombre": "SET DE DESTORNILLADOR X 6",
     "precio": 3600,
-    "foto": "https://i.postimg.cc/fRNMVRKJ/IMG-8091.jpg",
+    "foto": "https://i.postimg.cc/TYPg7Rfp/badfbff9-2aef-46ea-bdb9-5b99bb379a7d.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
@@ -1812,7 +1809,7 @@
   },
   {
     "id": 402,
-    "nombre": "GAS PARA ENCENDEDORES  160CM",
+    "nombre": "GAS PARA ENCENDEDORES  250 CM",
     "precio": 4500,
     "foto": "https://i.postimg.cc/bwxkndjP/IMG-8115.jpg",
     "categoria": "HERRAMIENTAS",
@@ -1824,7 +1821,6 @@
     "precio": 8900,
     "foto": "https://i.postimg.cc/fLtxJCWQ/IMG-8113.jpg",
     "categoria": "HERRAMIENTAS",
-    "novedad": true,
     "suspendido": false
   },
   {
@@ -2286,7 +2282,7 @@
   {
     "id": 472,
     "nombre": "CUCHILLO 7 PULGADAS 20 CM",
-    "precio": 3200,
+    "precio": 2900,
     "foto": "https://i.postimg.cc/gJDv6vgz/IMG-8203.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -2358,10 +2354,10 @@
   {
     "id": 481,
     "nombre": "ANAFE ELECTRICO 1 HORNALLA",
-    "precio": 17900,
+    "precio": 15800,
     "foto": "https://i.postimg.cc/qBKNYcsd/IMG-8188.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 482,
@@ -2497,7 +2493,6 @@
     "precio": 14000,
     "foto": "https://i.postimg.cc/J4RZ1WFz/d9b99bc1-a446-43ef-a38a-b8af90af2128.jpg",
     "categoria": "VARIOS",
-    "novedad": true,
     "suspendido": false
   },
   {
@@ -2714,7 +2709,6 @@
     "precio": 19500,
     "foto": "https://i.postimg.cc/Zq51wtxz/99be78ff-748f-4870-b5b6-09e7a0a6c403.jpg",
     "categoria": "TERMOS Y VASOS",
-    "novedad": true,
     "suspendido": false
   },
   {
@@ -2883,7 +2877,6 @@
     "precio": 6500,
     "foto": "https://i.postimg.cc/4d0xpSXJ/IMG-8948.png",
     "categoria": "PARLANTES",
-    "novedad": true,
     "suspendido": false
   },
   {
@@ -2908,7 +2901,7 @@
     "precio": 27000,
     "foto": "https://i.postimg.cc/tTXV9Xhg/57ec98a5-e94c-4f78-9e7f-6d33ad39dd61.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1776437703890,
@@ -2932,7 +2925,6 @@
     "precio": 12600,
     "foto": "https://i.postimg.cc/50Zp7xQR/c640f682-713d-4c0b-b5b3-f858a556cae7.jpg",
     "categoria": "MUNDIAL",
-    "novedad": true,
     "suspendido": false
   },
   {
@@ -3081,8 +3073,8 @@
   },
   {
     "id": 1777558859216,
-    "nombre": "TERMO MATE LISTO DE ACERO , 750 ML BOMBILLA METAL ",
-    "precio": 21900,
+    "nombre": "TERMO MATE LISTO DE ACERO , 500 ML BOMBILLA METAL ",
+    "precio": 18900,
     "foto": "https://i.postimg.cc/9QcRrX44/2b78f996-e09e-44fd-97e7-fca412f55faa.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
@@ -3202,7 +3194,7 @@
   {
     "id": 1778686038377,
     "nombre": "ZAPATILLA REFORZADA SICILIA X 5 MTS CON FICHA DE CORTE ",
-    "precio": 5900,
+    "precio": 6150,
     "foto": "https://i.postimg.cc/Nj4gVYQZ/bfa01d8f-5199-4e15-bf46-1afabc154e43.jpg",
     "categoria": "ELECTRICIDAD ",
     "suspendido": false
@@ -3210,7 +3202,7 @@
   {
     "id": 1778686085617,
     "nombre": "ZAPATILLA REFORZADA SICILIA X 3 MTS CON FICHA DE CORTE ",
-    "precio": 4950,
+    "precio": 5150,
     "foto": "https://i.postimg.cc/Nj4gVYQZ/bfa01d8f-5199-4e15-bf46-1afabc154e43.jpg",
     "categoria": "ELECTRICIDAD ",
     "suspendido": false
@@ -3397,7 +3389,6 @@
     "precio": 9100,
     "foto": "https://i.postimg.cc/Ghg8VCJt/aa60f668-e853-418b-90e7-1d894667bb85.jpg",
     "categoria": "COMPUTACION",
-    "novedad": true,
     "suspendido": false
   },
   {
@@ -3422,7 +3413,38 @@
     "precio": 4400,
     "foto": "https://i.postimg.cc/MpjTLjpB/62ba990c-3271-4e72-b748-9f60f1f18343.jpg",
     "categoria": "CARGADORES",
-    "novedad": true,
+    "suspendido": false
+  },
+  {
+    "id": 1780338045015,
+    "nombre": "GAS BUTANO CARTUCHO 227G",
+    "precio": 4600,
+    "foto": "https://i.postimg.cc/yYnnxQ6w/b3332c94-7d98-4d58-b6bb-de5788b939a3.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1780338100509,
+    "nombre": "AURICULAR MANOS LIBRE SAMSUNG COLOR ",
+    "precio": 1650,
+    "foto": "https://i.postimg.cc/htkmtTxm/add814bf-f385-43a4-9e2a-5f8131d2d9e1.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1780338128558,
+    "nombre": "PINTURA ARGENTINA ",
+    "precio": 2700,
+    "foto": "https://i.postimg.cc/vBM6Wy3S/202f28ea-eae8-43bf-b322-837826a253a4.jpg",
+    "categoria": "MUNDIAL",
+    "suspendido": false
+  },
+  {
+    "id": 1780338149158,
+    "nombre": "LABIAL ARGENTINA ",
+    "precio": 1900,
+    "foto": "https://i.postimg.cc/0QfKn44P/d69cbc99-7d75-4472-891f-2ddca186ff5a.jpg",
+    "categoria": "MUNDIAL",
     "suspendido": false
   }
 ]
