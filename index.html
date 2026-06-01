@@ -290,12 +290,6 @@
                             <select id="producto-categoria" required>
                                 <option value="">SELECCIONE CATEGORÍA</option>
                             </select>
-                            <div style="margin: 10px 0;">
-    <label style="display:flex; align-items:center; gap:8px; cursor:pointer;">
-        <input type="checkbox" id="producto-novedad">
-        ⭐ Mostrar en nuevos ingresos 
-    </label>
-</div>
                             <div style="display: flex; gap: 10px;">
                                 <button type="submit" id="btn-guardar-producto">GUARDAR PRODUCTO</button>
                                 <button type="button" id="btn-cancelar-edicion" style="display: none; background-color: #6c757d; color: white; border: none; padding: 10px; border-radius: 4px; cursor: pointer;">CANCELAR</button>
@@ -314,7 +308,7 @@
         </div>
     </main>
 
-    <a href="https://wa.me/5492478413652" class="whatsapp-float" target="_blank">
+    <a href="https://wa.me/5492478422323" class="whatsapp-float" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" />
     </a>
 
@@ -326,7 +320,7 @@
         let categorias = [];
         let carrito = JSON.parse(localStorage.getItem('carritoPY')) || [];
         const CLAVE_ADMIN = "MM2025";
-        const TELEFONO_WHATSAPP = "5492478413653"; 
+        const TELEFONO_WHATSAPP = "5492478422323"; 
 
         // =================================================================
         // 2. CARGA DE DATOS (FETCH)
@@ -356,82 +350,65 @@
         // =================================================================
         // 3. LÓGICA DE LA TIENDA
         // =================================================================
-       const renderizarProductos = (productosParaMostrar) => {
-    const productosSeccion = document.getElementById('productos-seccion');
+        const renderizarProductos = (productosParaMostrar) => {
+            const productosSeccion = document.getElementById('productos-seccion');
+            
+            const contenedoresAnteriores = productosSeccion.querySelectorAll('div:not([style*="margin-bottom"])');
+            contenedoresAnteriores.forEach(c => c.remove());
 
-    const contenedoresAnteriores = productosSeccion.querySelectorAll('div:not([style*="margin-bottom"])');
-    contenedoresAnteriores.forEach(c => c.remove());
+            if (productosParaMostrar.length === 0) {
+                const emptyMsg = document.createElement('p');
+                emptyMsg.style.textAlign = 'center';
+                emptyMsg.innerText = "NO SE ENCONTRARON PRODUCTOS.";
+                productosSeccion.appendChild(emptyMsg);
+                return;
+            }
 
-    if (productosParaMostrar.length === 0) {
-        const emptyMsg = document.createElement('p');
-        emptyMsg.style.textAlign = 'center';
-        emptyMsg.innerText = "NO SE ENCONTRARON PRODUCTOS.";
-        productosSeccion.appendChild(emptyMsg);
-        return;
-    }
+            const categoriasProductos = productosParaMostrar.reduce((acc, producto) => {
+                const categoriaNombre = producto.categoria || 'SIN CATEGORÍA';
+                if (!acc[categoriaNombre]) acc[categoriaNombre] = [];
+                acc[categoriaNombre].push(producto);
+                return acc;
+            }, {});
 
-    const nuevos  = productosParaMostrar.filter(p => p.nuevos);
-    const resto = productosParaMostrar.filter(p => !p.novedad);
+            const categoriasOrdenadas = Object.keys(categoriasProductos).sort();
 
-    const categoriasProductos = resto.reduce((acc, producto) => {
-        const categoriaNombre = producto.categoria || 'SIN CATEGORÍA';
-        if (!acc[categoriaNombre]) acc[categoriaNombre] = [];
-        acc[categoriaNombre].push(producto);
-        return acc;
-    }, {});
+            categoriasOrdenadas.forEach(categoria => {
+                const divCategoria = document.createElement('div');
+                divCategoria.innerHTML = `<h3 class="categoria-titulo">${categoria}</h3><div class="contenedor-productos"></div>`;
+                const contenedor = divCategoria.querySelector('.contenedor-productos');
+                
+                // ORDEN ALFABÉTICO AUTOMÁTICO
+                categoriasProductos[categoria].sort((a, b) => a.nombre.localeCompare(b.nombre));
 
-    if (NUEVOS INGRESOS.length > 0) {
-        categoriasProductos["⭐ NUEVOS INGRESOS"] = INGRESOS;
-    }
+                categoriasProductos[categoria].forEach(producto => {
+                    const esAgotado = producto.suspendido === true;
+                    const card = document.createElement('div');
+                    card.className = `producto-card ${esAgotado ? 'producto-sin-stock' : ''}`;
+                    
+                    card.innerHTML = `
+                        ${esAgotado ? '<div class="cartel-agotado">SIN STOCK</div>' : ''}
+                        <img src="${producto.foto}" alt="${producto.nombre}" onerror="this.onerror=null; this.src='https://placehold.co/300x300?text=Sin+Imagen';">
+                        <h4>${producto.nombre}</h4>
+                        <p class="precio">$${producto.precio.toFixed(2)}</p>
+                        <button onclick="agregarAlCarrito(${producto.id})" ${esAgotado ? 'disabled' : ''}>
+                            ${esAgotado ? 'AGOTADO' : 'AGREGAR AL CARRITO'}
+                        </button>
+                    `;
+                    contenedor.appendChild(card);
+                });
+                productosSeccion.appendChild(divCategoria);
+            });
+        };
 
-    const categoriasOrdenadas = Object.keys(categoriasProductos).sort((a, b) => {
-        if (a === "⭐ NUEVOS INGRESOS") return -1;
-        if (b === "⭐ NUEVOS INGRESOS") return 1;
-        return a.localeCompare(b);
-    });
-
-    categoriasOrdenadas.forEach(categoria => {
-        const divCategoria = document.createElement('div');
-        divCategoria.innerHTML = `<h3 class="categoria-titulo">${categoria}</h3><div class="contenedor-productos"></div>`;
-        const contenedor = divCategoria.querySelector('.contenedor-productos');
-
-        categoriasProductos[categoria].sort((a, b) => a.nombre.localeCompare(b.nombre));
-
-        categoriasProductos[categoria].forEach(producto => {
-            const esAgotado = producto.suspendido === true;
-            const card = document.createElement('div');
-            card.className = `producto-card ${esAgotado ? 'producto-sin-stock' : ''}`;
-
-            card.innerHTML = `
-                ${esAgotado ? '<div class="cartel-agotado">SIN STOCK</div>' : ''}
-                <img src="${producto.foto}" alt="${producto.nombre}" onerror="this.onerror=null; this.src='https://placehold.co/300x300?text=Sin+Imagen';">
-                <h4>${producto.nombre}</h4>
-                <p class="precio">$${producto.precio.toFixed(2)}</p>
-                <button onclick="agregarAlCarrito(${producto.id})" ${esAgotado ? 'disabled' : ''}>
-                    ${esAgotado ? 'AGOTADO' : 'AGREGAR AL CARRITO'}
-                </button>
-            `;
-            contenedor.appendChild(card);
-        });
-
-        productosSeccion.appendChild(divCategoria);
-    });
-};
-
-      const filtrarProductos = (categoria) => {
-    let productosMostrar;
-
-    if (categoria === 'TODOS') {
-        const NUEVOS = productos.filter(p => p.novedad);
-        const resto = productos.filter(p => !p.novedad);
-
-        productosMostrar = [...NUEVOS INGRESOS, ...resto];
-    } else {
-        productosMostrar = productos.filter(p => p.categoria === categoria);
-    }
-
-    renderizarProductos(productosMostrar);
-};
+        const filtrarProductos = (categoria) => {
+            if (categoria === 'TODOS') {
+                renderizarProductos(productos);
+            } else {
+                const filtrados = productos.filter(p => p.categoria === categoria);
+                renderizarProductos(filtrados);
+            }
+        };
 
         const renderizarFiltros = () => {
             const selectFiltros = document.getElementById('select-filtros-tienda');
@@ -691,7 +668,6 @@
                 precio: parseFloat(document.getElementById('producto-precio').value),
                 foto: document.getElementById('producto-foto').value,
                 categoria: document.getElementById('producto-categoria').value,
-                novedad: document.getElementById('producto-novedad').checked,
                 suspendido: idEdicion ? productos.find(p => p.id === parseInt(idEdicion)).suspendido : false
             };
 
