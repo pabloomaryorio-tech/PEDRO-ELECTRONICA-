@@ -2210,10 +2210,10 @@
   {
     "id": 466,
     "nombre": "SACA CORCHO RECARGABLE",
-    "precio": 11500,
+    "precio": 11900,
     "foto": "https://i.postimg.cc/L6ScSR1p/IMG-8177.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 467,
@@ -2789,7 +2789,7 @@
     "precio": 6500,
     "foto": "https://i.postimg.cc/g0BgqzRm/IMG-8945.png",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1775837732415,
@@ -3049,8 +3049,8 @@
   },
   {
     "id": 1777558859216,
-    "nombre": "TERMO MATE LISTO DE ACERO , 500 ML BOMBILLA METAL ",
-    "precio": 18900,
+    "nombre": "BOTELLA TERMICA + MATE LISTO 500ML ",
+    "precio": 17900,
     "foto": "https://i.postimg.cc/9QcRrX44/2b78f996-e09e-44fd-97e7-fca412f55faa.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
@@ -3461,6 +3461,86 @@
     "precio": 1200,
     "foto": "https://i.postimg.cc/RF9SZQT2/189e9fdd-fee4-40f4-8565-de6d93752919.jpg",
     "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1781185864416,
+    "nombre": "JUEGO SET DE POKER COMPLETO ",
+    "precio": 15800,
+    "foto": "https://i.postimg.cc/SRYKmZLt/a9fbf8f8-df16-42db-abe8-2db027b71a5b.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1781185962686,
+    "nombre": "BOTELLA TERMICA + MATE LISTO 750ML ",
+    "precio": 20800,
+    "foto": "https://i.postimg.cc/9XDSW3Th/859cc2bd-fc5d-479e-a8e2-7e15016424d3.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1781186083773,
+    "nombre": "LINTERNA DE CAMPING + PANEL SOLAR NY-98008",
+    "precio": 6750,
+    "foto": "https://i.postimg.cc/y8HrXkGZ/1d03a6f0-8dc7-4ef1-917a-bba48839b749.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1781186151140,
+    "nombre": "FIBRONES CAJA X 10 ",
+    "precio": 4000,
+    "foto": "https://i.postimg.cc/q7BbSW0S/14cc4b3e-4681-4e34-ac09-452354ca6fec.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 1781186371644,
+    "nombre": "CARGADOR 68W PD CON CABLE + ENTRADA USB + TIPO C ",
+    "precio": 7100,
+    "foto": "https://i.postimg.cc/Px9SLxZH/8b00316e-df59-4fa1-bfb8-d236e7268921.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1781186448716,
+    "nombre": "CARGADOR CABEZAL AUTO 45W + ENTRADA TIPO C + USB ",
+    "precio": 3400,
+    "foto": "https://i.postimg.cc/q7ZLYR1k/72180970-0bf5-4ee0-a319-7e83440ddb8c.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1781186510876,
+    "nombre": "TERMO CON MATE Y MANIJA 1,3L ",
+    "precio": 22800,
+    "foto": "https://i.postimg.cc/RF6RzB89/19608492-11ba-4872-b589-6705ae837bd1.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1781186579653,
+    "nombre": "CALCULADORA KARUDIA 12 DIGITOS KK-2100",
+    "precio": 5600,
+    "foto": "https://i.postimg.cc/fWdK2Mmz/443e399e-38e3-4591-9ea8-d644a4e59e72.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 1781186686324,
+    "nombre": "PARLANTE BT MINI GTS-1675",
+    "precio": 6700,
+    "foto": "https://i.postimg.cc/d1b9sfP1/40db613f-cd6d-4add-b20b-c0dae4be0722.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1781186755747,
+    "nombre": "MOUSE PAD ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/SNpGHHfD/271cd949-d847-43d1-bbb9-615e17f169e2.jpg",
+    "categoria": "COMPUTACION",
     "suspendido": false
   }
 ]
