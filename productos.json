@@ -29,7 +29,7 @@
     "precio": 1450,
     "foto": "https://i.postimg.cc/3Nn3Xqz6/TMCC112.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 11,
@@ -1165,7 +1165,7 @@
     "precio": 6100,
     "foto": "https://i.postimg.cc/Y9Kqj5Hm/auribt.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 300,
@@ -3213,7 +3213,7 @@
     "precio": 9900,
     "foto": "https://i.postimg.cc/zX6ctwTq/f0350fa5-b3e3-4ef8-b34f-92039707a9cb.jpg",
     "categoria": "INVIERNO ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1779820403650,
