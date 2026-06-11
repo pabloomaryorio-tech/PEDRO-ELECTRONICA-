@@ -2482,7 +2482,7 @@
   {
     "id": 512,
     "nombre": "PENDRIVE SANDISK 16 GB",
-    "precio": 10500,
+    "precio": 12000,
     "foto": "https://i.postimg.cc/QxWCGY8F/700ff112-7619-4110-b08c-eea406a85422.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2490,7 +2490,7 @@
   {
     "id": 513,
     "nombre": "PENDRIVE SANDISK 32 GB",
-    "precio": 13600,
+    "precio": 14000,
     "foto": "https://i.postimg.cc/zDhv4PXf/d9f2d3d5-738d-4048-b762-6734611f00a2.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2498,7 +2498,7 @@
   {
     "id": 514,
     "nombre": "PENDRIVE SANDISK 64 GB",
-    "precio": 17900,
+    "precio": 18000,
     "foto": "https://i.postimg.cc/fL9WnJZ4/1842a881-d064-45f1-9b8d-61ef109831c4.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2522,7 +2522,7 @@
   {
     "id": 517,
     "nombre": "MEMORIA SANDISK 16 GB",
-    "precio": 11800,
+    "precio": 11500,
     "foto": "https://i.postimg.cc/nV3SbTRf/c21d5071-657a-4d72-b9a3-f1ad63034f9d.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2530,7 +2530,7 @@
   {
     "id": 518,
     "nombre": "MEMORIA SANDISK 32 GB",
-    "precio": 13500,
+    "precio": 14300,
     "foto": "https://i.postimg.cc/RVjR4Yw7/f27526a9-22b6-4f82-9904-5c51c9fb26bf.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -2538,7 +2538,7 @@
   {
     "id": 519,
     "nombre": "MEMORIA SANDISK 64 GB",
-    "precio": 22500,
+    "precio": 21900,
     "foto": "https://i.postimg.cc/gc7yH7tw/651723b6-772d-4f95-bf1d-d691ab11c2c7.jpg",
     "categoria": "MEMORIA Y PENDRIVE",
     "suspendido": false
@@ -3209,9 +3209,9 @@
   },
   {
     "id": 1778688993951,
-    "nombre": "CARGADOR CABEZAL PRO MAX 35 W + CABLE TIPO C A I PHONE ",
-    "precio": 6100,
-    "foto": "https://i.postimg.cc/X7mWSNPs/3074ef8f-327d-4398-a517-f12d402a523e.jpg",
+    "nombre": "CARGADOR CABEZAL PRO MAX 20 W + CABLE TIPO C A I PHONE ",
+    "precio": 5250,
+    "foto": "https://i.postimg.cc/g0HnzvN6/7c2d7512-bf9f-41fc-ae2e-2f21de1eec0c.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
   },
