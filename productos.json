@@ -177,7 +177,7 @@
   },
   {
     "id": 35,
-    "nombre": "CABLE AUXILIAR 1,5 M BOLSA",
+    "nombre": "CABLE AUXILIAR 1 M BOLSA",
     "precio": 900,
     "foto": "https://i.postimg.cc/Mphrk22Q/Whats-App-Image-2025-09-10-at-20-57-07-1.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
@@ -381,7 +381,7 @@
     "precio": 6550,
     "foto": "https://i.postimg.cc/c4s6Vj8d/AURIJK604.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 94,
@@ -405,7 +405,7 @@
     "precio": 8700,
     "foto": "https://i.postimg.cc/26MFHY5y/AURIVINCHA.jpg",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 100,
@@ -524,7 +524,7 @@
     "nombre": "INFLADOR MULTIUSO METALIZADO",
     "precio": 4200,
     "foto": "https://i.postimg.cc/RVB6h08N/INF-91006.jpg",
-    "categoria": "VARIOS",
+    "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
   },
   {
@@ -684,7 +684,7 @@
     "nombre": "LUZ DE BICI X 2 PIEZAS",
     "precio": 1900,
     "foto": "https://i.postimg.cc/ZYfHfLXq/luz-bici.png",
-    "categoria": "ILUMINACION",
+    "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
   },
   {
@@ -857,7 +857,7 @@
   },
   {
     "id": 210,
-    "nombre": "TIJERA CHICA DE 16 CM.",
+    "nombre": "TIJERA CHICA DE 17 CM.",
     "precio": 1350,
     "foto": "https://i.postimg.cc/tC7yrfjw/TIJE.jpg",
     "categoria": "LIBRERIA",
@@ -1220,8 +1220,8 @@
     "nombre": "CANDADO TRABAMANUBRIO CAFS LOCK",
     "precio": 10200,
     "foto": "https://i.postimg.cc/xdV1tXW7/CANDADOMOTO.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "categoria": "TODO PARA BICI Y MOTOS ",
+    "suspendido": true
   },
   {
     "id": 318,
@@ -1236,7 +1236,7 @@
     "nombre": "CADENA LINGA  BICI/MOTO CON CODIGO",
     "precio": 5400,
     "foto": "https://i.postimg.cc/zvFQZcBK/CADENA.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
   },
   {
@@ -1244,7 +1244,7 @@
     "nombre": "PARCHE BICI",
     "precio": 950,
     "foto": "https://i.postimg.cc/QMw99HzD/parche.png",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
   },
   {
@@ -1435,14 +1435,6 @@
     "id": 354,
     "nombre": "CABLE USB MOTOROLA BLISTER V8 ",
     "precio": 1450,
-    "foto": "https://i.postimg.cc/TYsmfk49/IMG-8048.jpg",
-    "categoria": "CABLES CELULAR ",
-    "suspendido": false
-  },
-  {
-    "id": 355,
-    "nombre": "CABLE USB MOTOROLA BLISTER TIPO C",
-    "precio": 1500,
     "foto": "https://i.postimg.cc/TYsmfk49/IMG-8048.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -1780,15 +1772,7 @@
     "nombre": "CADENA CANDADO LINGA CON CODIGO",
     "precio": 5600,
     "foto": "https://i.postimg.cc/DyCtTfNf/IMG-8099.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": false
-  },
-  {
-    "id": 405,
-    "nombre": "CADENA LINGA PARA MOTO GRUESO 1,2 MT",
-    "precio": 11800,
-    "foto": "https://i.postimg.cc/Kc92Z5KC/IMG-8096.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
   },
   {
@@ -1796,16 +1780,8 @@
     "nombre": "CADENA LINGA PARA BICI GRUESO",
     "precio": 4100,
     "foto": "https://i.postimg.cc/cLWyhkP6/IMG-8098.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
-  },
-  {
-    "id": 407,
-    "nombre": "CADENA LINGA PARA BICI COLORES 1,2 MTS",
-    "precio": 4950,
-    "foto": "https://i.postimg.cc/jdKZFVq8/IMG-8097.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": true
   },
   {
     "id": 409,
@@ -1828,7 +1804,7 @@
     "nombre": "CANDADO CON ALARMA BICI-MOTO",
     "precio": 8500,
     "foto": "https://i.postimg.cc/QtKhw9mj/IMG-8121.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
   },
   {
@@ -1836,7 +1812,7 @@
     "nombre": "PISTOLA DE SILICONA GRANDE 40 W",
     "precio": 4400,
     "foto": "https://i.postimg.cc/RhmydNDF/cbe3e6cb-64fb-4822-9c41-237e2a7060ce.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "LIBRERIA",
     "suspendido": false
   },
   {
@@ -1844,7 +1820,7 @@
     "nombre": "PISTOLA DE SILICONA CHICA 10 W",
     "precio": 2600,
     "foto": "https://i.postimg.cc/brvHqPGH/263784a7-b55f-448e-807d-c200f3830af1.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "LIBRERIA",
     "suspendido": false
   },
   {
@@ -1852,7 +1828,7 @@
     "nombre": "PISTOLA DE SILICONA CHICA CANDELA 10 W",
     "precio": 4400,
     "foto": "https://i.postimg.cc/tTvntxT4/cf38c403-966f-4b1f-a887-b35697c89c16.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "LIBRERIA",
     "suspendido": false
   },
   {
@@ -1860,7 +1836,7 @@
     "nombre": "PISTOLA DE ILICONA GRANDE CANDELA 40 W",
     "precio": 5900,
     "foto": "https://i.postimg.cc/gcwHtzPT/811d2e75-3a43-44a4-92e5-73ce3c20e26b.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "LIBRERIA",
     "suspendido": false
   },
   {
@@ -2044,7 +2020,7 @@
     "nombre": "LUZ LINTERNA PARA BICI",
     "precio": 2550,
     "foto": "https://i.postimg.cc/k5Y7j3rM/IMG-8157.jpg",
-    "categoria": "ILUMINACION",
+    "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
   },
   {
@@ -2052,7 +2028,7 @@
     "nombre": "LUZ BICI KIT X 2 BLANCO/ROJO USB RECARGABLE",
     "precio": 3800,
     "foto": "https://i.postimg.cc/SKRhYTn5/IMG-8158.jpg",
-    "categoria": "ILUMINACION",
+    "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
   },
   {
@@ -2332,7 +2308,7 @@
     "nombre": "INFLADOR DE PIE DOBLE",
     "precio": 9500,
     "foto": "https://i.postimg.cc/FHpdp9jh/IMG-8199.jpg",
-    "categoria": "VARIOS",
+    "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
   },
   {
@@ -2340,7 +2316,7 @@
     "nombre": "INFLADOR DE PIE",
     "precio": 7900,
     "foto": "https://i.postimg.cc/Bn4P2818/IMG-8200.jpg",
-    "categoria": "VARIOS",
+    "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
   },
   {
@@ -2348,7 +2324,7 @@
     "nombre": "SET DE PICOS PARA INFLADOR",
     "precio": 1300,
     "foto": "https://i.postimg.cc/NfypZzN9/IMG-8201.jpg",
-    "categoria": "VARIOS",
+    "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
   },
   {
@@ -2676,7 +2652,7 @@
     "nombre": "CADENA LINGA GRUESA MOTO ",
     "precio": 4650,
     "foto": "https://i.postimg.cc/PJM54mJv/5f3e1900-fab7-43f8-b1d3-0d1357d399da.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
   },
   {
@@ -2753,7 +2729,7 @@
   },
   {
     "id": 1775837886911,
-    "nombre": "AURICULAR MANOS LIBRES CON FICHA I PHONE ",
+    "nombre": "AURICULAR MANOS LIBRES CON FICHA I PHONE  KARSEN",
     "precio": 5250,
     "foto": "https://i.postimg.cc/Dwcy3QPQ/c33fdac5-dace-4d6c-bc63-09e455d7af5b.jpg",
     "categoria": "AURICULARES C/CABLE",
@@ -2973,7 +2949,7 @@
     "precio": 5600,
     "foto": "https://i.postimg.cc/pT35TD8V/0eb10a75-fffd-432d-9026-ca3ba3b3b935.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777558837392,
@@ -3477,6 +3453,110 @@
     "precio": 5000,
     "foto": "https://i.postimg.cc/rw5B3gwS/7c475eaa-1e80-416e-9f71-ba63c046c0c5.jpg",
     "categoria": "TODO PARA HOMBRES",
+    "suspendido": false
+  },
+  {
+    "id": 1782415897573,
+    "nombre": "AURICULAR MANOS LIBRES  FICHA TIPO C CAJA ACRILICA",
+    "precio": 3800,
+    "foto": "https://i.postimg.cc/Znd5QDJd/1f37c2f6-688a-49b3-8fcd-69ad8c566d3e.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1782416063168,
+    "nombre": "AURICULAR MANOS LIBRES PRO MAX USB C  ",
+    "precio": 3200,
+    "foto": "https://i.postimg.cc/26Jdp6B0/55c49523-e289-4277-aef4-daf86a209770.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1782416187189,
+    "nombre": "AURICULAR MANOS LIBRES EAR 7 + FICHA I PHONE ",
+    "precio": 3000,
+    "foto": "https://i.postimg.cc/0jwY9sYv/a9f83671-8f71-4814-836b-c8b173da2530.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1782416293206,
+    "nombre": "AURICULAR MANOS LIBRES SAMSNUNG S 20 ",
+    "precio": 1950,
+    "foto": "https://i.postimg.cc/28nQJCj4/c770ac29-6cff-41f6-820e-e2ae2615a9ee.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1782416386122,
+    "nombre": "AURICULAR MANOS LIBRES PRO 21 CON FICHA TIPO C ",
+    "precio": 3500,
+    "foto": "https://i.postimg.cc/P54mXKwh/428a181e-ce0a-4835-852d-bd717935658a.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1782416519876,
+    "nombre": "DESTAPADOR GRANDE ",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/nzs71Jwj/764fad18-8264-40ce-8c02-1b75ff5cd232.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1782416805176,
+    "nombre": "TIJERA MINI DE 14 CM.",
+    "precio": 1050,
+    "foto": "https://i.postimg.cc/bJKnCBK5/bb96df68-2e72-4cd4-89df-b0556a7c6589.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 1782416889315,
+    "nombre": "CINTA TEFOLON ",
+    "precio": 750,
+    "foto": "https://i.postimg.cc/gkbR31yZ/81b67e37-8ae6-4355-9814-00732618f69e.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1782416930042,
+    "nombre": "CANDADO PARA MOTO REFORZADO ",
+    "precio": 11900,
+    "foto": "https://i.postimg.cc/PrbDyKK0/2109147c-94ae-41de-b695-70d16936dfb9.jpg",
+    "categoria": "TODO PARA BICI Y MOTOS ",
+    "suspendido": false
+  },
+  {
+    "id": 1782416978899,
+    "nombre": "LLAVE FRANCESA DE 8 PULGADAS ",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/P52wsxgp/84616ee1-c882-4817-8efd-3a6c9df2ff14.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1782417026963,
+    "nombre": "ABROCHADORA ",
+    "precio": 3750,
+    "foto": "https://i.postimg.cc/YS0mp7kB/3293b307-162a-4d22-9e73-473427aab92a.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 1782417129413,
+    "nombre": "PARLANTE BT INALAMBRICO 4 PLG KTX-1476 ",
+    "precio": 18300,
+    "foto": "https://i.postimg.cc/1z3Df6GB/e986aee6-dd7b-49b6-983e-7a4b6f8ee7a9.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1782417179951,
+    "nombre": "CALENTADOR DE AGUA PARA EL AUTO",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/rmt0r9KN/44045bdb-e243-4bab-ac07-a2893c3f170f.jpg",
+    "categoria": "VARIOS",
     "suspendido": false
   }
 ]
