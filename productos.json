@@ -240,14 +240,6 @@
     "suspendido": false
   },
   {
-    "id": 46,
-    "nombre": "PARLANTE BT INALAMBRICO GTS 2085 3´",
-    "precio": 9400,
-    "foto": "https://i.postimg.cc/bv81YG46/parlante.png",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 47,
     "nombre": "PARLANTE BT INALAMBRICO GTS 2166 3\"",
     "precio": 7300,
@@ -309,7 +301,7 @@
     "precio": 5500,
     "foto": "https://i.postimg.cc/Z5PW6zGV/S20B.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 78,
@@ -533,7 +525,7 @@
     "precio": 4900,
     "foto": "https://i.postimg.cc/BnscHD25/84dbcfe5-065c-4428-8998-feda9999bcef.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 139,
@@ -882,7 +874,7 @@
   {
     "id": 213,
     "nombre": "CALCULADORA CIENTIFICA 240 FUNCIONES",
-    "precio": 3850,
+    "precio": 4200,
     "foto": "https://i.postimg.cc/Y2gZtSqC/KK-88MS.jpg",
     "categoria": "LIBRERIA",
     "suspendido": false
@@ -1016,14 +1008,6 @@
     "suspendido": false
   },
   {
-    "id": 258,
-    "nombre": "MANDOLINA PICADORA DE VERDURAS 15 PCS",
-    "precio": 14600,
-    "foto": "https://i.postimg.cc/gk3s2vBB/mandolina.jpg",
-    "categoria": "HOGAR",
-    "suspendido": true
-  },
-  {
     "id": 260,
     "nombre": "POP IT ELECTRONICO DE MEMORIA C/LUZ/SONIDO",
     "precio": 5500,
@@ -1086,14 +1070,6 @@
     "foto": "https://i.postimg.cc/1tgbh9jD/cartel.jpg",
     "categoria": "VARIOS",
     "suspendido": false
-  },
-  {
-    "id": 285,
-    "nombre": "CINTA DE TEFLON X 2 DE 12 MM X 10 MTS.",
-    "precio": 1450,
-    "foto": "https://i.postimg.cc/7ZmR5GvN/teflon.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": true
   },
   {
     "id": 287,
@@ -2096,14 +2072,6 @@
     "suspendido": false
   },
   {
-    "id": 461,
-    "nombre": "RELOJ DESPERTADOR MULTIFUNCION DIGITAL",
-    "precio": 8800,
-    "foto": "https://i.postimg.cc/0QWsQ41R/IMG-8175.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 462,
     "nombre": "RELOJ DESPERTADOR GRANDE DE 12,5  X 12,5",
     "precio": 6200,
@@ -2117,7 +2085,7 @@
     "precio": 3950,
     "foto": "https://i.postimg.cc/vBkGhKqL/IMG-8197.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 464,
@@ -2125,7 +2093,7 @@
     "precio": 2500,
     "foto": "https://i.postimg.cc/rwjc3sZz/IMG-8198.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 465,
@@ -2400,14 +2368,6 @@
     "suspendido": false
   },
   {
-    "id": 511,
-    "nombre": "PARLANTE BT INALAMBRICO GTS 2083",
-    "precio": 11200,
-    "foto": "https://i.postimg.cc/XJ37wndY/IMG-8238.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 512,
     "nombre": "PENDRIVE SANDISK 16 GB",
     "precio": 12000,
@@ -2556,7 +2516,7 @@
     "nombre": "PEINE PARA PIOJOS",
     "precio": 950,
     "foto": "https://i.postimg.cc/GtxCZ3Wf/1e629727-d0a8-46fd-b35c-96f7f20c8599.jpg",
-    "categoria": "VARIOS",
+    "categoria": "HOGAR",
     "suspendido": false
   },
   {
@@ -3557,6 +3517,14 @@
     "precio": 1,
     "foto": "https://i.postimg.cc/rmt0r9KN/44045bdb-e243-4bab-ac07-a2893c3f170f.jpg",
     "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1782423445188,
+    "nombre": "NAIPES ESPALOLES ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/nL3tp82x/download.jpg",
+    "categoria": "NIÑOS",
     "suspendido": false
   }
 ]
