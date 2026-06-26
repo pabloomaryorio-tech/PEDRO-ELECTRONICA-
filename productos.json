@@ -273,7 +273,7 @@
   },
   {
     "id": 67,
-    "nombre": "AFILADOR DE CUCHILLO 3 EN 1",
+    "nombre": "CUCHILLO AFILADOR 3 EN 1",
     "precio": 2250,
     "foto": "https://i.postimg.cc/XYrxjVwv/Whats-App-Image-2025-09-10-at-23-33-21-2.jpg",
     "categoria": "HOGAR",
@@ -602,7 +602,7 @@
   {
     "id": 160,
     "nombre": "LINTERNA MINI CAMUFLADA USB RECARGABLE",
-    "precio": 3300,
+    "precio": 3500,
     "foto": "https://i.postimg.cc/yxVqghXs/LINTERNAESTUCHE.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -812,14 +812,6 @@
     "nombre": "JOYSTICK PLAY 2",
     "precio": 9800,
     "foto": "https://i.postimg.cc/JhNH1JgQ/Whats-App-Image-2025-09-10-at-20-57-10-3.jpg",
-    "categoria": "COMPUTACION",
-    "suspendido": false
-  },
-  {
-    "id": 205,
-    "nombre": "MOUSE INALAMBRICO TRANSPARENTE",
-    "precio": 7900,
-    "foto": "https://i.postimg.cc/Pqtx2kS5/MA200.jpg",
     "categoria": "COMPUTACION",
     "suspendido": false
   },
@@ -1250,7 +1242,7 @@
   {
     "id": 331,
     "nombre": "AURICULAR MANOS LIBRES FICHA I PHONE CAJA ACRILICA ",
-    "precio": 4700,
+    "precio": 3200,
     "foto": "https://i.postimg.cc/JzbJPYDP/IMG-8020.jpg",
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false
@@ -1856,14 +1848,6 @@
     "suspendido": false
   },
   {
-    "id": 422,
-    "nombre": "SET DE TERMO Y TAZA PARA CAMPING",
-    "precio": 10800,
-    "foto": "https://i.postimg.cc/dQgd3pxW/IMG-8129.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": false
-  },
-  {
     "id": 424,
     "nombre": "TAPON DE TERMO CON PICO",
     "precio": 2100,
@@ -1890,7 +1874,7 @@
   {
     "id": 429,
     "nombre": "LINTERNA LISA USB RECARCABLE + ZOOM",
-    "precio": 3450,
+    "precio": 3300,
     "foto": "https://i.postimg.cc/7ZzdTF93/IMG-8149.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -2444,22 +2428,6 @@
     "nombre": "PARAGUAS PARA CABEZA  ARGENTINA",
     "precio": 2500,
     "foto": "https://i.postimg.cc/vBD2J0nL/f57064e4-ee5f-4375-98c9-974abca997f9.jpg",
-    "categoria": "MUNDIAL",
-    "suspendido": false
-  },
-  {
-    "id": 536,
-    "nombre": "VUVUZELA GRANDE MUNDIAL 42 CM",
-    "precio": 3000,
-    "foto": "https://i.postimg.cc/j2cXCNPm/bdd102e0-706c-4abb-ac58-49e55e3ac8af.jpg",
-    "categoria": "MUNDIAL",
-    "suspendido": false
-  },
-  {
-    "id": 537,
-    "nombre": "VUVUZELA GRANDE",
-    "precio": 1900,
-    "foto": "https://i.postimg.cc/cJ3BwPff/dbb08f7f-fdc6-4d91-8610-070296d69d5b.jpg",
     "categoria": "MUNDIAL",
     "suspendido": false
   },
@@ -3045,14 +3013,6 @@
     "precio": 6500,
     "foto": "https://i.postimg.cc/vBWMrd29/0ca466ce-b361-47ff-9b9c-8dbcc3b7c062.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": true
-  },
-  {
-    "id": 1778686276233,
-    "nombre": "MARTILLO COMUN ",
-    "precio": 7300,
-    "foto": "https://i.postimg.cc/kGqCwhkm/e5f04b7b-9197-4588-81a1-5b051cf6c39b.jpg",
-    "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
   {
@@ -3142,14 +3102,6 @@
     "foto": "https://i.postimg.cc/3xzn1K5g/b09a393c-07d8-4c5e-8ab7-bbf733884b19.jpg",
     "categoria": "TODO PARA MUJERES ",
     "suspendido": false
-  },
-  {
-    "id": 1779820303978,
-    "nombre": "GUANTES TERMICO IMPERMEABLE PARA HOMBRE ",
-    "precio": 9900,
-    "foto": "https://i.postimg.cc/zX6ctwTq/f0350fa5-b3e3-4ef8-b34f-92039707a9cb.jpg",
-    "categoria": "INVIERNO ",
-    "suspendido": true
   },
   {
     "id": 1779820403650,
@@ -3434,7 +3386,7 @@
   {
     "id": 1782416187189,
     "nombre": "AURICULAR MANOS LIBRES EAR 7 + FICHA I PHONE ",
-    "precio": 3000,
+    "precio": 3800,
     "foto": "https://i.postimg.cc/0jwY9sYv/a9f83671-8f71-4814-836b-c8b173da2530.jpg",
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false
@@ -3532,6 +3484,102 @@
     "nombre": "CARGADOR IBEK 2.6 TIPO C + CABLE DESMONTABLE ",
     "precio": 2600,
     "foto": "https://i.postimg.cc/GpW6ccYm/777043385659.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1782516254095,
+    "nombre": "MOUSE OPTICO CON CABLE ",
+    "precio": 3900,
+    "foto": "https://i.postimg.cc/pTncrQdZ/c0d4ae40-bc39-43af-93e1-78fd38b4d56f.jpg",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1782516285590,
+    "nombre": "MOUSE INALAMBRICO COLORES ",
+    "precio": 5100,
+    "foto": "https://i.postimg.cc/3N5Svyyf/33150f64-bb65-438f-aec7-4217e058b17c.jpg",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1782516309503,
+    "nombre": "MOUSE INALAMBRICO ",
+    "precio": 4900,
+    "foto": "https://i.postimg.cc/JnBY03hr/dae8cedb-9948-483b-a909-adaf1da35980.jpg",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1782516520620,
+    "nombre": "GUANTE PARA MOTO ",
+    "precio": 6000,
+    "foto": "https://i.postimg.cc/YSCJrmgT/fbbe3a8d-9e5b-4f82-83de-2aa538c36620.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1782516577707,
+    "nombre": "GUANTE BEBE",
+    "precio": 800,
+    "foto": "https://i.postimg.cc/HnXNZ0DC/4aa8b746-b22d-49fe-a72c-05541a890e45.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1782516617188,
+    "nombre": "CUELLITO POLAR ARGENTINA ",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/qMHStFyK/f7240f6e-98bd-4dce-9e7f-3e57fc19ae80.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1782516672428,
+    "nombre": "MEDIAS LARGAS UNISEX X 3 ",
+    "precio": 2900,
+    "foto": "https://i.postimg.cc/jSs1cJMm/6f992619-88c8-4d02-ac3c-3a84e0392638.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1782516722294,
+    "nombre": "MEDIAS SOQUETES X 3 ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/XYVPLy2v/f40b0cd8-0480-4fa7-a5d7-f212a664f6c4.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1782516832291,
+    "nombre": "MEDIAS INFANTILES FEMENINA  X 3 TALLE 8 A 10 ",
+    "precio": 2900,
+    "foto": "https://i.postimg.cc/L8Nbb67h/843b9cf0-b0af-4234-bd25-ae4d5226e68a.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1782516856435,
+    "nombre": "MEDIAS INFANTILES MASCULINA  X 3 TALLE 8 A 10 ",
+    "precio": 2900,
+    "foto": "https://i.postimg.cc/CxmQQLts/f0694da8-1554-4d0b-b0a1-5068a1818d7f.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1782516886597,
+    "nombre": "MEDIAS ANTIDESLIZANTES ",
+    "precio": 3300,
+    "foto": "https://i.postimg.cc/PqJRsns6/9514572e-9def-43db-a629-6a9034b593e7.jpg",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1782516988186,
+    "nombre": "CARGADOR TIPO C A C 125W CON CABLE DESMONTABLE ",
+    "precio": 7450,
+    "foto": "https://i.postimg.cc/yNGr7p7z/aa0a21bf-121a-4bc2-b262-a180990a4b82.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
   }
