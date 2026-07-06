@@ -93,7 +93,7 @@
     "precio": 3450,
     "foto": "https://i.postimg.cc/02Vpj2XG/TMCC818.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 20,
@@ -901,7 +901,7 @@
     "precio": 14200,
     "foto": "https://i.postimg.cc/PJrJV3CP/1f1f9d71-3294-406c-a222-53769034986b.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 227,
@@ -2736,14 +2736,6 @@
     "suspendido": false
   },
   {
-    "id": 1777038935100,
-    "nombre": "BOTELLA TERMICA ARGENTINA 500 ML ",
-    "precio": 12600,
-    "foto": "https://i.postimg.cc/50Zp7xQR/c640f682-713d-4c0b-b5b3-f858a556cae7.jpg",
-    "categoria": "MUNDIAL",
-    "suspendido": false
-  },
-  {
     "id": 1777038984991,
     "nombre": "PICO TERMO MATERO ",
     "precio": 2850,
@@ -3016,14 +3008,6 @@
     "suspendido": false
   },
   {
-    "id": 1778686361505,
-    "nombre": "CARTAS UNO ARGENTINA ",
-    "precio": 2200,
-    "foto": "https://i.postimg.cc/1zwbTr0R/D-NQ-NP-2X-751576-MLA109926862671-042026-F.webp",
-    "categoria": "MUNDIAL",
-    "suspendido": false
-  },
-  {
     "id": 1778688993951,
     "nombre": "CARGADOR CABEZAL PRO MAX 20 W + CABLE TIPO C A I PHONE ",
     "precio": 5250,
@@ -3213,22 +3197,6 @@
     "precio": 1650,
     "foto": "https://i.postimg.cc/htkmtTxm/add814bf-f385-43a4-9e2a-5f8131d2d9e1.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
-  },
-  {
-    "id": 1780338128558,
-    "nombre": "PINTURA ARGENTINA ",
-    "precio": 2700,
-    "foto": "https://i.postimg.cc/vBM6Wy3S/202f28ea-eae8-43bf-b322-837826a253a4.jpg",
-    "categoria": "MUNDIAL",
-    "suspendido": false
-  },
-  {
-    "id": 1780338149158,
-    "nombre": "LABIAL ARGENTINA ",
-    "precio": 1900,
-    "foto": "https://i.postimg.cc/0QfKn44P/d69cbc99-7d75-4472-891f-2ddca186ff5a.jpg",
-    "categoria": "MUNDIAL",
     "suspendido": false
   },
   {
