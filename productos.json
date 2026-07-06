@@ -1133,7 +1133,7 @@
     "precio": 6100,
     "foto": "https://i.postimg.cc/Y9Kqj5Hm/auribt.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 300,
