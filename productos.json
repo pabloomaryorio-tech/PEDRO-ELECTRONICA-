@@ -3550,5 +3550,37 @@
     "foto": "https://i.postimg.cc/yNGr7p7z/aa0a21bf-121a-4bc2-b262-a180990a4b82.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
+  },
+  {
+    "id": 1783475540039,
+    "nombre": "KIT DE REPARACION PARA BICI ",
+    "precio": 2300,
+    "foto": "https://i.postimg.cc/tJ9MyPJ9/6104b929-cef0-4064-97b8-e0dcdf7d0dc6.jpg",
+    "categoria": "TODO PARA BICI Y MOTOS ",
+    "suspendido": false
+  },
+  {
+    "id": 1783475595288,
+    "nombre": "RELOJ DESPERTADOR DIGITAL MULTIFUNCION ",
+    "precio": 6900,
+    "foto": "https://i.postimg.cc/vHkttfsJ/4bbf61db-4d2f-4e24-baf4-d534d8fc1ff4.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1783475660646,
+    "nombre": "LINTERNA DE CAMPING MULTIFUNCION + PANEL SOLAR ",
+    "precio": 18600,
+    "foto": "https://i.postimg.cc/5N6mzpZh/311d065a-138e-43f1-87be-689c8fcaf19d.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1783475711147,
+    "nombre": "LAMPARA VELADOR DE MESA USB RECARGABLE ",
+    "precio": 9900,
+    "foto": "https://i.postimg.cc/Hn4j8GT3/185a9a43-eb88-4901-b1ab-1f1d0f3e5e0a.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
   }
 ]
