@@ -522,10 +522,10 @@
   {
     "id": 135,
     "nombre": "BALANZA GRAMERA DE PRECISION 0.01-500G",
-    "precio": 4900,
+    "precio": 5900,
     "foto": "https://i.postimg.cc/BnscHD25/84dbcfe5-065c-4428-8998-feda9999bcef.jpg",
     "categoria": "VARIOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 139,
@@ -2312,26 +2312,10 @@
     "suspendido": false
   },
   {
-    "id": 499,
-    "nombre": "PARLANTE BT BARRA BD 68",
-    "precio": 16400,
-    "foto": "https://i.postimg.cc/jqJLn629/IMG-8217.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 502,
     "nombre": "RADIO AM FM PANEL SOLAR + USB RECARGABLE KTF 2209",
     "precio": 21700,
     "foto": "https://i.postimg.cc/MZyz89vf/IMG-8220.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 503,
-    "nombre": "RADIO BT INALAMBRICO PARLANTE KTF 1466",
-    "precio": 21700,
-    "foto": "https://i.postimg.cc/PrSst9hP/IMG-8221.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
   },
