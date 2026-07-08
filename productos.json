@@ -37,7 +37,7 @@
     "precio": 1950,
     "foto": "https://i.postimg.cc/qBtffZYB/CAR-53006.jpg",
     "categoria": "CARGADORES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 12,
