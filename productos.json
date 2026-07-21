@@ -288,14 +288,6 @@
     "suspendido": false
   },
   {
-    "id": 69,
-    "nombre": "BALANZA COCINA 10 KG",
-    "precio": 5800,
-    "foto": "https://i.postimg.cc/k55MHp8K/Whats-App-Image-2025-09-10-at-23-33-21-1.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 77,
     "nombre": "DUCHA CUADRADA  20 CM X 20 CM",
     "precio": 6300,
@@ -389,7 +381,7 @@
     "precio": 6800,
     "foto": "https://i.postimg.cc/t4wfgb80/AURI.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 98,
@@ -669,7 +661,7 @@
     "precio": 18400,
     "foto": "https://i.postimg.cc/43Z9T7wt/LINTERNA-RECARGABLE.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 177,
@@ -800,14 +792,6 @@
     "suspendido": false
   },
   {
-    "id": 199,
-    "nombre": "ZAPATILLA X 5 MTS. REFORZADO",
-    "precio": 4850,
-    "foto": "https://i.postimg.cc/J4p922zN/Captura-de-pantalla-2025-09-11-161504.png",
-    "categoria": "ELECTRICIDAD ",
-    "suspendido": false
-  },
-  {
     "id": 203,
     "nombre": "JOYSTICK PLAY 2",
     "precio": 9800,
@@ -901,7 +885,7 @@
     "precio": 14200,
     "foto": "https://i.postimg.cc/PJrJV3CP/1f1f9d71-3294-406c-a222-53769034986b.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 227,
@@ -1013,7 +997,7 @@
     "precio": 7200,
     "foto": "https://i.postimg.cc/6QShf9dY/auriinalam.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 271,
@@ -1042,7 +1026,7 @@
   {
     "id": 277,
     "nombre": "BALANZA PERSONAL CUADRADA 180 K",
-    "precio": 11500,
+    "precio": 11900,
     "foto": "https://i.postimg.cc/mk0Dm5d4/BALANZACUADRADA.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -1168,14 +1152,6 @@
     "suspendido": false
   },
   {
-    "id": 311,
-    "nombre": "SET DE HERRAMIENTAS X 4 PCS",
-    "precio": 6500,
-    "foto": "https://i.postimg.cc/mZPW1bn9/setherramientas.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": false
-  },
-  {
     "id": 313,
     "nombre": "BATIDORA DE CAFE RECARGABLE",
     "precio": 6700,
@@ -1232,14 +1208,6 @@
     "suspendido": false
   },
   {
-    "id": 330,
-    "nombre": "AURICULAR MANOS LIBRE RIVER BOCA",
-    "precio": 1600,
-    "foto": "https://i.postimg.cc/4xztB278/IMG-8018.jpg",
-    "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
-  },
-  {
     "id": 331,
     "nombre": "AURICULAR MANOS LIBRES FICHA I PHONE CAJA ACRILICA ",
     "precio": 3200,
@@ -1261,7 +1229,7 @@
     "precio": 8300,
     "foto": "https://i.postimg.cc/PJCT2qyb/IMG-8021.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 334,
@@ -1421,7 +1389,7 @@
     "precio": 1800,
     "foto": "https://i.postimg.cc/853Dj6gT/IMG-8052.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 359,
@@ -1500,14 +1468,6 @@
     "nombre": "OTG ADAPTADOR DE USB A V8",
     "precio": 800,
     "foto": "https://i.postimg.cc/5N5q1cz0/IMG-8064.jpg",
-    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
-  },
-  {
-    "id": 372,
-    "nombre": "CABLE PC A PS4 ADAPTADOR ",
-    "precio": 500,
-    "foto": "https://i.postimg.cc/L6vYNmfC/ee8e66dd-4f36-4dea-b2ae-4939dca0d577.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false
   },
@@ -1597,7 +1557,7 @@
     "precio": 19600,
     "foto": "https://i.postimg.cc/rmh9t7Tn/IMG-8088.png",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 387,
@@ -1605,7 +1565,7 @@
     "precio": 35900,
     "foto": "https://i.postimg.cc/vBpzGks4/IMG-8085.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 388,
@@ -1613,7 +1573,7 @@
     "precio": 16400,
     "foto": "https://i.postimg.cc/tRWdhrb9/IMG-8086.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 389,
@@ -1721,8 +1681,8 @@
   },
   {
     "id": 402,
-    "nombre": "GAS PARA ENCENDEDORES  250 CM",
-    "precio": 4500,
+    "nombre": "GAS PARA ENCENDEDORES  160 CM",
+    "precio": 3500,
     "foto": "https://i.postimg.cc/bwxkndjP/IMG-8115.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1917,14 +1877,6 @@
     "precio": 8750,
     "foto": "https://i.postimg.cc/63ZfHK7n/IMG-8139.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
-  },
-  {
-    "id": 437,
-    "nombre": "LAMPARA FAROL LED CAMPING USB RECARGABLE",
-    "precio": 9300,
-    "foto": "https://i.postimg.cc/rwpGBx0c/IMG-8143.jpg",
-    "categoria": "ILUMINACION",
     "suspendido": true
   },
   {
@@ -2004,14 +1956,6 @@
     "nombre": "PIZARRA LCD A COLOR DE 16 PULGADAS",
     "precio": 6100,
     "foto": "https://i.postimg.cc/LXBKrrwZ/IMG-8164.jpg",
-    "categoria": "LIBRERIA",
-    "suspendido": false
-  },
-  {
-    "id": 453,
-    "nombre": "PIZARRA LCD A COLOR DE 12 PULGADAS",
-    "precio": 4550,
-    "foto": "https://i.postimg.cc/SRN5HjWb/IMG-8165.jpg",
     "categoria": "LIBRERIA",
     "suspendido": false
   },
@@ -2368,14 +2312,6 @@
     "suspendido": false
   },
   {
-    "id": 516,
-    "nombre": "PENDRIVE KINGSTON 64 GB",
-    "precio": 18200,
-    "foto": "https://i.postimg.cc/TwqSD6JG/756fa3d8-ac81-4744-8fa5-da8d7d4658e9.jpg",
-    "categoria": "MEMORIA Y PENDRIVE",
-    "suspendido": false
-  },
-  {
     "id": 517,
     "nombre": "MEMORIA SANDISK 16 GB",
     "precio": 11500,
@@ -2437,7 +2373,7 @@
     "precio": 17500,
     "foto": "https://i.postimg.cc/L5Fh2rSs/IMG-8535.jpg",
     "categoria": "RELOJES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773597043232,
@@ -2445,7 +2381,7 @@
     "precio": 20500,
     "foto": "https://i.postimg.cc/zXj3YtcX/IMG-8537.jpg",
     "categoria": "RELOJES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773689418257,
@@ -2557,7 +2493,7 @@
     "precio": 3300,
     "foto": "https://i.postimg.cc/wTcmfmZw/305165d9-4bad-42ca-8a04-3241b6755551.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1775836947613,
@@ -2760,14 +2696,6 @@
     "suspendido": false
   },
   {
-    "id": 1777039308373,
-    "nombre": "PARLANTE BT INALAMBRICO 4 X 2  SV-2402",
-    "precio": 25000,
-    "foto": "https://i.postimg.cc/65BC92KZ/cd955e91-6370-4a17-a478-1b2e9d5119a5.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 1777039364092,
     "nombre": "PARLANTE BT INALAMBRICO GTS 1679",
     "precio": 7850,
@@ -2805,7 +2733,7 @@
     "precio": 22300,
     "foto": "https://i.postimg.cc/ryj7y4WT/b0f41b7e-ed9f-4bd8-b945-7f55bfb52aec.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777039764453,
@@ -2962,7 +2890,7 @@
   {
     "id": 1778685707304,
     "nombre": "CARGADOR CABEZAL PRO MAX 35W + CABLE TIPO C A TIPO C ",
-    "precio": 5650,
+    "precio": 5500,
     "foto": "https://i.postimg.cc/KY8ZhVzY/c80434a8-ff9a-46a0-889e-322fc678ec82.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -2994,7 +2922,7 @@
   {
     "id": 1778688993951,
     "nombre": "CARGADOR CABEZAL PRO MAX 20 W + CABLE TIPO C A I PHONE ",
-    "precio": 5250,
+    "precio": 5850,
     "foto": "https://i.postimg.cc/g0HnzvN6/7c2d7512-bf9f-41fc-ae2e-2f21de1eec0c.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -3144,16 +3072,8 @@
     "suspendido": false
   },
   {
-    "id": 1779835230356,
-    "nombre": "BALANZA GRAMERA ",
-    "precio": 6950,
-    "foto": "https://i.postimg.cc/Yq0j1PKC/c4a2fbb9-61f3-4461-873b-43ce278377c0.jpg",
-    "categoria": "VARIOS",
-    "suspendido": false
-  },
-  {
     "id": 1779835282276,
-    "nombre": "CABLE TIPO C A I PHONE IBEK 5.0",
+    "nombre": "CABLE TIPO C A I PHONE IBEK 6.0",
     "precio": 2250,
     "foto": "https://i.postimg.cc/YqP08xM2/1256a8fb-d930-4909-9ecd-d48690084b51.jpg",
     "categoria": "CABLES CELULAR ",
@@ -3188,30 +3108,6 @@
     "nombre": "SERVILLETERO DE MADERA ",
     "precio": 1100,
     "foto": "https://i.postimg.cc/XNphyBzN/45acdd65-6923-4be2-b126-c486dce57f81.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1780342976603,
-    "nombre": "FRUTERO GRANDE ",
-    "precio": 1500,
-    "foto": "https://i.postimg.cc/SKg943yD/3b25e808-df9d-4d01-9f61-f3b1bebc153b.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1780343008321,
-    "nombre": "FRUTERO REDONDO 16 CM ",
-    "precio": 1000,
-    "foto": "https://i.postimg.cc/bJM2DnSy/c6cbbfdd-352d-4497-81e3-beb3a159f0ab.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1780343075257,
-    "nombre": "FRUTERO REDONDO GRANDE 34 CM ",
-    "precio": 1400,
-    "foto": "https://i.postimg.cc/L4DXh7GH/90a2bda3-ca9b-4908-850c-0a1ca94e10e7.jpg",
     "categoria": "HOGAR",
     "suspendido": false
   },
@@ -3418,7 +3314,7 @@
   {
     "id": 1782417179951,
     "nombre": "CALENTADOR DE AGUA PARA EL AUTO",
-    "precio": 1,
+    "precio": 4700,
     "foto": "https://i.postimg.cc/rmt0r9KN/44045bdb-e243-4bab-ac07-a2893c3f170f.jpg",
     "categoria": "VARIOS",
     "suspendido": false
@@ -3565,6 +3461,14 @@
     "precio": 9900,
     "foto": "https://i.postimg.cc/Hn4j8GT3/185a9a43-eb88-4901-b1ab-1f1d0f3e5e0a.jpg",
     "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784638325211,
+    "nombre": "CARGADOR LEGATUS TIPO C 5 AMP ",
+    "precio": 3750,
+    "foto": "https://i.postimg.cc/QM3BW9rv/images.jpg",
+    "categoria": "CARGADORES",
     "suspendido": false
   }
 ]
