@@ -3274,7 +3274,7 @@
   {
     "id": 1782416889315,
     "nombre": "CINTA TEFOLON ",
-    "precio": 750,
+    "precio": 650,
     "foto": "https://i.postimg.cc/gkbR31yZ/81b67e37-8ae6-4355-9814-00732618f69e.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -3469,6 +3469,46 @@
     "precio": 3750,
     "foto": "https://i.postimg.cc/QM3BW9rv/images.jpg",
     "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1784639456777,
+    "nombre": "MOUSE INALAMBRICO AITECH ",
+    "precio": 3500,
+    "foto": "https://i.postimg.cc/G3x4TJLS/02d07218-3d4c-4476-aae8-cdfa655e12cb.jpg",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784639521375,
+    "nombre": "CUTTER REFORZADO ",
+    "precio": 1350,
+    "foto": "https://i.postimg.cc/pdKWbRy8/18f89329-089a-430c-8fb4-d8279d3e4f69.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1784639641902,
+    "nombre": "CINTA TEFLON 3\\4 ´´",
+    "precio": 750,
+    "foto": "https://i.postimg.cc/sgkjNvfs/5b70e820-a3bb-415b-9114-56db6c491183.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1784639790374,
+    "nombre": "CAJA DE TUBO 40 PCS GRANDE ",
+    "precio": 13750,
+    "foto": "https://i.postimg.cc/0jV5Wnrx/24417538-1455-4f0f-b92e-a3a3eca0f901.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1784639984103,
+    "nombre": "SET DE ALICATES X 5 REFORZADOS ",
+    "precio": 11450,
+    "foto": "https://i.postimg.cc/3JbJ2tPy/5eac7e9d-fca3-45dd-8e28-cae52116e901.jpg",
+    "categoria": "HERRAMIENTAS",
     "suspendido": false
   }
 ]
