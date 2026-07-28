@@ -24,14 +24,6 @@
     "suspendido": false
   },
   {
-    "id": 6,
-    "nombre": "CARGADOR CABEZAL BOLSITA 1A",
-    "precio": 1450,
-    "foto": "https://i.postimg.cc/3Nn3Xqz6/TMCC112.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": true
-  },
-  {
     "id": 11,
     "nombre": "CARGADOR CABEZAL DE AUTO 2.1 2USB",
     "precio": 1950,
@@ -88,14 +80,6 @@
     "suspendido": false
   },
   {
-    "id": 19,
-    "nombre": "CARGADOR CABEZAL PREMIUM 3.1 TIPO C 2 USB",
-    "precio": 3450,
-    "foto": "https://i.postimg.cc/02Vpj2XG/TMCC818.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": true
-  },
-  {
     "id": 20,
     "nombre": "CARGADOR CABEZAL I PHONE USB C 18W",
     "precio": 3350,
@@ -109,7 +93,7 @@
     "precio": 2250,
     "foto": "https://i.postimg.cc/X7Pbn9Ww/TMCC216.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 25,
@@ -277,7 +261,7 @@
     "precio": 2250,
     "foto": "https://i.postimg.cc/XYrxjVwv/Whats-App-Image-2025-09-10-at-23-33-21-2.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 68,
@@ -317,7 +301,7 @@
     "precio": 19300,
     "foto": "https://i.postimg.cc/WpBHb8K6/STJC150.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 85,
@@ -389,7 +373,7 @@
     "precio": 6800,
     "foto": "https://i.postimg.cc/t4wfgb80/AURI.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 98,
@@ -413,7 +397,7 @@
     "precio": 5900,
     "foto": "https://i.postimg.cc/wB1xs9w0/AURI-P9.jpg",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 106,
@@ -429,7 +413,7 @@
     "precio": 10500,
     "foto": "https://i.postimg.cc/qM00tvwj/ESP-91013.jpg",
     "categoria": "TODO PARA MUJERES ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 108,
@@ -437,7 +421,7 @@
     "precio": 8400,
     "foto": "https://i.postimg.cc/CLFTh6M2/ESP-4205.jpg",
     "categoria": "TODO PARA MUJERES ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 109,
@@ -469,7 +453,7 @@
     "precio": 9600,
     "foto": "https://i.postimg.cc/Y2YDkKp3/LPL035A.jpg",
     "categoria": "TODO PARA MUJERES ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 116,
@@ -568,14 +552,6 @@
     "suspendido": false
   },
   {
-    "id": 149,
-    "nombre": "PARAGUAS DISEÑO INFANTIL",
-    "precio": 4200,
-    "foto": "https://i.postimg.cc/y86ksZZT/B-505.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": true
-  },
-  {
     "id": 150,
     "nombre": "PELOTA DE GOMA COLORES",
     "precio": 1000,
@@ -669,7 +645,7 @@
     "precio": 18400,
     "foto": "https://i.postimg.cc/43Z9T7wt/LINTERNA-RECARGABLE.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 177,
@@ -800,20 +776,12 @@
     "suspendido": false
   },
   {
-    "id": 199,
-    "nombre": "ZAPATILLA X 5 MTS. REFORZADO",
-    "precio": 4850,
-    "foto": "https://i.postimg.cc/J4p922zN/Captura-de-pantalla-2025-09-11-161504.png",
-    "categoria": "ELECTRICIDAD ",
-    "suspendido": false
-  },
-  {
     "id": 203,
     "nombre": "JOYSTICK PLAY 2",
     "precio": 9800,
     "foto": "https://i.postimg.cc/JhNH1JgQ/Whats-App-Image-2025-09-10-at-20-57-10-3.jpg",
     "categoria": "COMPUTACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 206,
@@ -901,7 +869,7 @@
     "precio": 14200,
     "foto": "https://i.postimg.cc/PJrJV3CP/1f1f9d71-3294-406c-a222-53769034986b.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 227,
@@ -909,7 +877,7 @@
     "precio": 22400,
     "foto": "https://i.postimg.cc/nzWG0zZv/RELOS-7-MALLAS.jpg",
     "categoria": "RELOJES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 231,
@@ -1032,14 +1000,6 @@
     "suspendido": false
   },
   {
-    "id": 276,
-    "nombre": "PELOTA  DE FUTBOL N°5 DE MUNDIAL",
-    "precio": 8400,
-    "foto": "https://i.postimg.cc/NGSx80dt/IMG-8173.jpg",
-    "categoria": "MUNDIAL",
-    "suspendido": false
-  },
-  {
     "id": 277,
     "nombre": "BALANZA PERSONAL CUADRADA 180 K",
     "precio": 11500,
@@ -1056,14 +1016,6 @@
     "suspendido": false
   },
   {
-    "id": 284,
-    "nombre": "CARTEL LUMINICO KIOSKO",
-    "precio": 14000,
-    "foto": "https://i.postimg.cc/1tgbh9jD/cartel.jpg",
-    "categoria": "VARIOS",
-    "suspendido": false
-  },
-  {
     "id": 287,
     "nombre": "AURICULAR BT  INALAMBRICO JK 605",
     "precio": 7600,
@@ -1077,7 +1029,7 @@
     "precio": 4550,
     "foto": "https://i.postimg.cc/d0PqSyfD/soportetv24pul.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 291,
@@ -1085,7 +1037,7 @@
     "precio": 11700,
     "foto": "https://i.postimg.cc/3wMz5Yht/soportetv.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 292,
@@ -1157,7 +1109,7 @@
     "precio": 7900,
     "foto": "https://i.postimg.cc/ydJccg9P/setplacadluz.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 309,
@@ -1168,28 +1120,12 @@
     "suspendido": false
   },
   {
-    "id": 311,
-    "nombre": "SET DE HERRAMIENTAS X 4 PCS",
-    "precio": 6500,
-    "foto": "https://i.postimg.cc/mZPW1bn9/setherramientas.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": false
-  },
-  {
     "id": 313,
     "nombre": "BATIDORA DE CAFE RECARGABLE",
     "precio": 6700,
     "foto": "https://i.postimg.cc/wBncWQ68/Btidora.jpg",
     "categoria": "HOGAR",
     "suspendido": false
-  },
-  {
-    "id": 316,
-    "nombre": "CANDADO TRABAMANUBRIO CAFS LOCK",
-    "precio": 10200,
-    "foto": "https://i.postimg.cc/xdV1tXW7/CANDADOMOTO.jpg",
-    "categoria": "TODO PARA BICI Y MOTOS ",
-    "suspendido": true
   },
   {
     "id": 318,
@@ -1232,14 +1168,6 @@
     "suspendido": false
   },
   {
-    "id": 330,
-    "nombre": "AURICULAR MANOS LIBRE RIVER BOCA",
-    "precio": 1600,
-    "foto": "https://i.postimg.cc/4xztB278/IMG-8018.jpg",
-    "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
-  },
-  {
     "id": 331,
     "nombre": "AURICULAR MANOS LIBRES FICHA I PHONE CAJA ACRILICA ",
     "precio": 3200,
@@ -1261,7 +1189,7 @@
     "precio": 8300,
     "foto": "https://i.postimg.cc/PJCT2qyb/IMG-8021.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 334,
@@ -1269,7 +1197,7 @@
     "precio": 9100,
     "foto": "https://i.postimg.cc/ZYXCXkNS/IMG-8022.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 336,
@@ -1285,7 +1213,7 @@
     "precio": 4800,
     "foto": "https://i.postimg.cc/RhC5DZRr/IMG-8026.jpg",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 339,
@@ -1416,14 +1344,6 @@
     "suspendido": false
   },
   {
-    "id": 358,
-    "nombre": "CABLE USB TIPO C 3.1 CON LUZ",
-    "precio": 1800,
-    "foto": "https://i.postimg.cc/853Dj6gT/IMG-8052.jpg",
-    "categoria": "CABLES CELULAR ",
-    "suspendido": false
-  },
-  {
     "id": 359,
     "nombre": "CABLE AUXILIAR A I PHONE",
     "precio": 2550,
@@ -1504,20 +1424,12 @@
     "suspendido": false
   },
   {
-    "id": 372,
-    "nombre": "CABLE PC A PS4 ADAPTADOR ",
-    "precio": 500,
-    "foto": "https://i.postimg.cc/L6vYNmfC/ee8e66dd-4f36-4dea-b2ae-4939dca0d577.jpg",
-    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
-  },
-  {
     "id": 373,
     "nombre": "CARGADOR IBEK V8 3.8",
     "precio": 2750,
     "foto": "https://i.postimg.cc/GtR08wmG/IMG-8070.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 374,
@@ -1525,7 +1437,7 @@
     "precio": 2850,
     "foto": "https://i.postimg.cc/GtR08wmG/IMG-8070.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 376,
@@ -1533,7 +1445,7 @@
     "precio": 2850,
     "foto": "https://i.postimg.cc/g0yHzfQX/IMG-8073.png",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 377,
@@ -1557,7 +1469,7 @@
     "precio": 21500,
     "foto": "https://i.postimg.cc/PfDYdGDN/IMG-8078.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 381,
@@ -1565,7 +1477,7 @@
     "precio": 18500,
     "foto": "https://i.postimg.cc/jjJdyTtg/IMG-8080.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 383,
@@ -1597,7 +1509,7 @@
     "precio": 19600,
     "foto": "https://i.postimg.cc/rmh9t7Tn/IMG-8088.png",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 387,
@@ -1605,7 +1517,7 @@
     "precio": 35900,
     "foto": "https://i.postimg.cc/vBpzGks4/IMG-8085.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 388,
@@ -1613,7 +1525,7 @@
     "precio": 16400,
     "foto": "https://i.postimg.cc/tRWdhrb9/IMG-8086.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 389,
@@ -1704,14 +1616,6 @@
     "suspendido": false
   },
   {
-    "id": 400,
-    "nombre": "CUTTER + REPUESTRO ",
-    "precio": 1300,
-    "foto": "https://i.postimg.cc/kX9n45wG/IMG-8110.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": false
-  },
-  {
     "id": 401,
     "nombre": "LUBRICANTE W40 DE 163 G 240 ML",
     "precio": 4650,
@@ -1733,7 +1637,7 @@
     "precio": 8900,
     "foto": "https://i.postimg.cc/fLtxJCWQ/IMG-8113.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 404,
@@ -1885,7 +1789,7 @@
     "precio": 6250,
     "foto": "https://i.postimg.cc/ryYPZVYr/IMG-8148.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 432,
@@ -1909,7 +1813,7 @@
     "precio": 4250,
     "foto": "https://i.postimg.cc/NFTCrT70/IMG-8156.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 436,
@@ -1989,7 +1893,7 @@
     "precio": 3800,
     "foto": "https://i.postimg.cc/SKRhYTn5/IMG-8158.jpg",
     "categoria": "TODO PARA BICI Y MOTOS ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 449,
@@ -2004,14 +1908,6 @@
     "nombre": "PIZARRA LCD A COLOR DE 16 PULGADAS",
     "precio": 6100,
     "foto": "https://i.postimg.cc/LXBKrrwZ/IMG-8164.jpg",
-    "categoria": "LIBRERIA",
-    "suspendido": false
-  },
-  {
-    "id": 453,
-    "nombre": "PIZARRA LCD A COLOR DE 12 PULGADAS",
-    "precio": 4550,
-    "foto": "https://i.postimg.cc/SRN5HjWb/IMG-8165.jpg",
     "categoria": "LIBRERIA",
     "suspendido": false
   },
@@ -2054,22 +1950,6 @@
     "foto": "https://i.postimg.cc/wTx9V6Mw/2c242dfe-de36-4ec6-a392-860dfef2dbca.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
-  },
-  {
-    "id": 462,
-    "nombre": "RELOJ DESPERTADOR GRANDE DE 12,5  X 12,5",
-    "precio": 6200,
-    "foto": "https://i.postimg.cc/3N4PwJZj/IMG-8194.jpg",
-    "categoria": "HOGAR",
-    "suspendido": true
-  },
-  {
-    "id": 463,
-    "nombre": "RELOJ DESPERTADOR MEDIANDO DE 9,5 X 9,5",
-    "precio": 3950,
-    "foto": "https://i.postimg.cc/vBkGhKqL/IMG-8197.jpg",
-    "categoria": "HOGAR",
-    "suspendido": true
   },
   {
     "id": 464,
@@ -2133,7 +2013,7 @@
     "precio": 2700,
     "foto": "https://i.postimg.cc/HsMh6Dm9/18dcc93e-8678-475c-a725-f3c1c859111d.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 472,
@@ -2157,7 +2037,7 @@
     "precio": 1550,
     "foto": "https://i.postimg.cc/9Q7ZB3Ln/IMG-8206.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 475,
@@ -2261,7 +2141,7 @@
     "precio": 9500,
     "foto": "https://i.postimg.cc/FHpdp9jh/IMG-8199.jpg",
     "categoria": "TODO PARA BICI Y MOTOS ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 488,
@@ -2549,7 +2429,7 @@
     "precio": 11900,
     "foto": "https://i.postimg.cc/wvGtN5tN/f9792a70-67c0-4dd1-8fe1-2c793daea12e.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1775836622645,
@@ -2701,7 +2581,7 @@
     "precio": 27000,
     "foto": "https://i.postimg.cc/tTXV9Xhg/57ec98a5-e94c-4f78-9e7f-6d33ad39dd61.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1776437703890,
@@ -2717,7 +2597,7 @@
     "precio": 15000,
     "foto": "https://i.postimg.cc/m2qM7Wss/5069a8d2-0651-4157-98d8-4b41709b2da1.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777038984991,
@@ -2741,7 +2621,7 @@
     "precio": 32500,
     "foto": "https://i.postimg.cc/cL47cK5r/efec27eb-38ea-4d50-84fe-13807609f238.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777039228092,
@@ -2805,7 +2685,7 @@
     "precio": 22300,
     "foto": "https://i.postimg.cc/ryj7y4WT/b0f41b7e-ed9f-4bd8-b945-7f55bfb52aec.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777039764453,
@@ -2813,7 +2693,7 @@
     "precio": 14900,
     "foto": "https://i.postimg.cc/RVb8KzXp/fa0d2796-118f-4c15-b5a2-0f54045feab7.jpg",
     "categoria": "TODO PARA HOMBRES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777039984277,
@@ -2829,7 +2709,7 @@
     "precio": 5700,
     "foto": "https://i.postimg.cc/dVFdrmfT/07f6c9b9-fc22-4826-b351-1d738a470f16.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777558751328,
@@ -2869,7 +2749,7 @@
     "precio": 17900,
     "foto": "https://i.postimg.cc/9QcRrX44/2b78f996-e09e-44fd-97e7-fca412f55faa.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777558889896,
@@ -2888,58 +2768,10 @@
     "suspendido": false
   },
   {
-    "id": 1778683682583,
-    "nombre": "CUELLITO POLAR ",
-    "precio": 1500,
-    "foto": "https://i.postimg.cc/qvR3jmTb/d668b255-32d1-42c9-8ded-9836b22ad964.jpg",
-    "categoria": "INVIERNO ",
-    "suspendido": false
-  },
-  {
-    "id": 1778683736792,
-    "nombre": "GUANTE POLAR MUJER ",
-    "precio": 3000,
-    "foto": "https://i.postimg.cc/nL9TwVJg/4fd12c2e-50e9-4ced-9be9-c934a2807a1e.jpg",
-    "categoria": "INVIERNO ",
-    "suspendido": false
-  },
-  {
-    "id": 1778683914920,
-    "nombre": "GUANTE  MAGICO ",
-    "precio": 1000,
-    "foto": "https://i.postimg.cc/htz9KC5f/14b9aea2-6acc-4eea-a854-099eef1e5f51.jpg",
-    "categoria": "INVIERNO ",
-    "suspendido": false
-  },
-  {
-    "id": 1778683958447,
-    "nombre": "GUANTE BEBE PELUCHE ",
-    "precio": 1200,
-    "foto": "https://i.postimg.cc/0Qc6YmB7/dba6af7e-17f7-4186-a9e5-7a900848aea6.jpg",
-    "categoria": "INVIERNO ",
-    "suspendido": false
-  },
-  {
-    "id": 1778683992231,
-    "nombre": "GUANTE MULTICOLOR ",
-    "precio": 1400,
-    "foto": "https://i.postimg.cc/W3bz1z1g/34216bc7-babd-4c53-912e-9f4257ff9650.jpg",
-    "categoria": "INVIERNO ",
-    "suspendido": false
-  },
-  {
     "id": 1778684024935,
     "nombre": "GUANTE TACTIL ",
     "precio": 2000,
     "foto": "https://i.postimg.cc/htBdqSTr/d3ec2d4d-9c1c-4015-9a73-cf01ab30c76c.jpg",
-    "categoria": "INVIERNO ",
-    "suspendido": false
-  },
-  {
-    "id": 1778684115880,
-    "nombre": "GUANTE MAGICO GRUESO ",
-    "precio": 1200,
-    "foto": "https://i.postimg.cc/rph0WxbQ/adaf459e-df82-4f5f-81f8-b88b5607a9c4.jpg",
     "categoria": "INVIERNO ",
     "suspendido": false
   },
@@ -2957,7 +2789,7 @@
     "precio": 2950,
     "foto": "https://i.postimg.cc/4yhqTvVZ/0caf5f91-6a11-4f39-bb8b-2e578a84a88e.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1778685707304,
@@ -2989,7 +2821,7 @@
     "precio": 6500,
     "foto": "https://i.postimg.cc/vBWMrd29/0ca466ce-b361-47ff-9b9c-8dbcc3b7c062.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1778688993951,
@@ -3013,7 +2845,7 @@
     "precio": 3500,
     "foto": "https://i.postimg.cc/pX275XR9/a61e2148-d3f6-42fe-ba4d-419233bf9530.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1779819649562,
@@ -3045,7 +2877,7 @@
     "precio": 3800,
     "foto": "https://i.postimg.cc/L66C6C3S/11c153e8-abb4-41b6-83c5-18563960c137.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1779820061450,
@@ -3056,20 +2888,12 @@
     "suspendido": false
   },
   {
-    "id": 1779820153882,
-    "nombre": "GUANTES INFANTILES DE PERSONAJES ",
-    "precio": 1800,
-    "foto": "https://i.postimg.cc/pLmsKm7d/5c9d3a00-0bf7-4fc0-8d6a-b05fb6981c76.jpg",
-    "categoria": "INVIERNO ",
-    "suspendido": false
-  },
-  {
     "id": 1779820194442,
     "nombre": "SECADORA DE PELO 2300W",
     "precio": 13300,
     "foto": "https://i.postimg.cc/3xzn1K5g/b09a393c-07d8-4c5e-8ab7-bbf733884b19.jpg",
     "categoria": "TODO PARA MUJERES ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1779820403650,
@@ -3109,7 +2933,7 @@
     "precio": 7950,
     "foto": "https://i.postimg.cc/nzxCBcZ4/26afe0a1-441d-4b00-b874-01dc97952ed4.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1779834989699,
@@ -3149,11 +2973,11 @@
     "precio": 6950,
     "foto": "https://i.postimg.cc/Yq0j1PKC/c4a2fbb9-61f3-4461-873b-43ce278377c0.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1779835282276,
-    "nombre": "CABLE TIPO C A I PHONE IBEK 5.0",
+    "nombre": "CABLE TIPO C A I PHONE IBEK 6.0",
     "precio": 2250,
     "foto": "https://i.postimg.cc/YqP08xM2/1256a8fb-d930-4909-9ecd-d48690084b51.jpg",
     "categoria": "CABLES CELULAR ",
@@ -3196,22 +3020,6 @@
     "nombre": "FRUTERO GRANDE ",
     "precio": 1500,
     "foto": "https://i.postimg.cc/SKg943yD/3b25e808-df9d-4d01-9f61-f3b1bebc153b.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1780343008321,
-    "nombre": "FRUTERO REDONDO 16 CM ",
-    "precio": 1000,
-    "foto": "https://i.postimg.cc/bJM2DnSy/c6cbbfdd-352d-4497-81e3-beb3a159f0ab.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1780343075257,
-    "nombre": "FRUTERO REDONDO GRANDE 34 CM ",
-    "precio": 1400,
-    "foto": "https://i.postimg.cc/L4DXh7GH/90a2bda3-ca9b-4908-850c-0a1ca94e10e7.jpg",
     "categoria": "HOGAR",
     "suspendido": false
   },
@@ -3285,7 +3093,7 @@
     "precio": 5600,
     "foto": "https://i.postimg.cc/fWdK2Mmz/443e399e-38e3-4591-9ea8-d644a4e59e72.jpg",
     "categoria": "LIBRERIA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1781186686324,
@@ -3421,7 +3229,7 @@
     "precio": 1,
     "foto": "https://i.postimg.cc/rmt0r9KN/44045bdb-e243-4bab-ac07-a2893c3f170f.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1782423445188,
@@ -3461,21 +3269,13 @@
     "precio": 4900,
     "foto": "https://i.postimg.cc/JnBY03hr/dae8cedb-9948-483b-a909-adaf1da35980.jpg",
     "categoria": "COMPUTACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1782516520620,
     "nombre": "GUANTE PARA MOTO ",
     "precio": 6000,
     "foto": "https://i.postimg.cc/YSCJrmgT/fbbe3a8d-9e5b-4f82-83de-2aa538c36620.jpg",
-    "categoria": "INVIERNO ",
-    "suspendido": false
-  },
-  {
-    "id": 1782516577707,
-    "nombre": "GUANTE BEBE",
-    "precio": 800,
-    "foto": "https://i.postimg.cc/HnXNZ0DC/4aa8b746-b22d-49fe-a72c-05541a890e45.jpg",
     "categoria": "INVIERNO ",
     "suspendido": false
   },
@@ -3533,7 +3333,7 @@
     "precio": 7450,
     "foto": "https://i.postimg.cc/yNGr7p7z/aa0a21bf-121a-4bc2-b262-a180990a4b82.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1783475540039,
