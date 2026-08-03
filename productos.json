@@ -168,14 +168,6 @@
     "suspendido": false
   },
   {
-    "id": 37,
-    "nombre": "CABLE AUXILIAR 3 MTS. BOLSA",
-    "precio": 1400,
-    "foto": "https://i.postimg.cc/K8SLVVP1/Captura-de-pantalla-2025-09-11-200114.png",
-    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": true
-  },
-  {
     "id": 39,
     "nombre": "CABLE ROYALCELL USB A V8 5 AMP. MALLADO",
     "precio": 1500,
@@ -261,7 +253,7 @@
     "precio": 2250,
     "foto": "https://i.postimg.cc/XYrxjVwv/Whats-App-Image-2025-09-10-at-23-33-21-2.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 68,
@@ -781,7 +773,7 @@
     "precio": 9800,
     "foto": "https://i.postimg.cc/JhNH1JgQ/Whats-App-Image-2025-09-10-at-20-57-10-3.jpg",
     "categoria": "COMPUTACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 206,
@@ -981,7 +973,7 @@
     "precio": 7200,
     "foto": "https://i.postimg.cc/6QShf9dY/auriinalam.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 271,
@@ -1029,7 +1021,7 @@
     "precio": 4550,
     "foto": "https://i.postimg.cc/d0PqSyfD/soportetv24pul.jpg",
     "categoria": "VARIOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 291,
@@ -1037,7 +1029,7 @@
     "precio": 11700,
     "foto": "https://i.postimg.cc/3wMz5Yht/soportetv.jpg",
     "categoria": "VARIOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 292,
@@ -1109,7 +1101,7 @@
     "precio": 7900,
     "foto": "https://i.postimg.cc/ydJccg9P/setplacadluz.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 309,
@@ -1445,7 +1437,7 @@
     "precio": 2850,
     "foto": "https://i.postimg.cc/g0yHzfQX/IMG-8073.png",
     "categoria": "CARGADORES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 377,
@@ -1466,18 +1458,18 @@
   {
     "id": 379,
     "nombre": "CARGADOR POWER BANK IBEK 20.000 AMP",
-    "precio": 21500,
+    "precio": 22500,
     "foto": "https://i.postimg.cc/PfDYdGDN/IMG-8078.jpg",
     "categoria": "CARGADORES",
     "suspendido": true
   },
   {
     "id": 381,
-    "nombre": "ALARGUE 4 USB + 4 ENCHUFE + 2 TIPO C",
-    "precio": 18500,
+    "nombre": "ALARGUE 4 ENCHUFE + 3 USB + 1 TIPO C",
+    "precio": 11600,
     "foto": "https://i.postimg.cc/jjJdyTtg/IMG-8080.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 383,
@@ -1813,7 +1805,7 @@
     "precio": 4250,
     "foto": "https://i.postimg.cc/NFTCrT70/IMG-8156.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 436,
@@ -1957,7 +1949,7 @@
     "precio": 2500,
     "foto": "https://i.postimg.cc/rwjc3sZz/IMG-8198.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 465,
@@ -2013,7 +2005,7 @@
     "precio": 2700,
     "foto": "https://i.postimg.cc/HsMh6Dm9/18dcc93e-8678-475c-a725-f3c1c859111d.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 472,
@@ -2037,7 +2029,7 @@
     "precio": 1550,
     "foto": "https://i.postimg.cc/9Q7ZB3Ln/IMG-8206.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 475,
@@ -2317,7 +2309,7 @@
     "precio": 17500,
     "foto": "https://i.postimg.cc/L5Fh2rSs/IMG-8535.jpg",
     "categoria": "RELOJES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1773597043232,
@@ -2584,14 +2576,6 @@
     "suspendido": true
   },
   {
-    "id": 1776437703890,
-    "nombre": "PARLANTE BT INALAMBRICO 8 PLG STAR V SV - 8803",
-    "precio": 33000,
-    "foto": "https://i.postimg.cc/c1Ff48kf/3f2d5d6e-5506-4121-b3f1-dea2cbbfc297.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 1776437753234,
     "nombre": "PISTOLA MASAJEADORA ",
     "precio": 15000,
@@ -2621,7 +2605,7 @@
     "precio": 32500,
     "foto": "https://i.postimg.cc/cL47cK5r/efec27eb-38ea-4d50-84fe-13807609f238.jpg",
     "categoria": "VARIOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777039228092,
@@ -2746,10 +2730,10 @@
   {
     "id": 1777558859216,
     "nombre": "BOTELLA TERMICA + MATE LISTO 500ML ",
-    "precio": 17900,
+    "precio": 20250,
     "foto": "https://i.postimg.cc/9QcRrX44/2b78f996-e09e-44fd-97e7-fca412f55faa.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777558889896,
@@ -2890,7 +2874,7 @@
   {
     "id": 1779820194442,
     "nombre": "SECADORA DE PELO 2300W",
-    "precio": 13300,
+    "precio": 16100,
     "foto": "https://i.postimg.cc/3xzn1K5g/b09a393c-07d8-4c5e-8ab7-bbf733884b19.jpg",
     "categoria": "TODO PARA MUJERES ",
     "suspendido": true
@@ -3042,7 +3026,7 @@
   {
     "id": 1781185962686,
     "nombre": "BOTELLA TERMICA + MATE LISTO 750ML ",
-    "precio": 21900,
+    "precio": 22500,
     "foto": "https://i.postimg.cc/9XDSW3Th/859cc2bd-fc5d-479e-a8e2-7e15016424d3.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
@@ -3093,7 +3077,7 @@
     "precio": 5600,
     "foto": "https://i.postimg.cc/fWdK2Mmz/443e399e-38e3-4591-9ea8-d644a4e59e72.jpg",
     "categoria": "LIBRERIA",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1781186686324,
@@ -3226,10 +3210,10 @@
   {
     "id": 1782417179951,
     "nombre": "CALENTADOR DE AGUA PARA EL AUTO",
-    "precio": 1,
+    "precio": 6400,
     "foto": "https://i.postimg.cc/rmt0r9KN/44045bdb-e243-4bab-ac07-a2893c3f170f.jpg",
     "categoria": "VARIOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1782423445188,
@@ -3373,6 +3357,118 @@
     "precio": 7850,
     "foto": "https://i.postimg.cc/5tNfrRTT/0fef2119-cdb7-43ff-8f3e-86974139383d.jpg",
     "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1785763816789,
+    "nombre": "AURICULAR MANOS LIBRES FICHA TIPO C PUXIDA ",
+    "precio": 5250,
+    "foto": "https://i.postimg.cc/kgxcdvnT/50737902-24b8-437d-ba9b-29050dc546bf.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1785763854897,
+    "nombre": "AURICULAR MANOS LIBRES TIPO C JBL ",
+    "precio": 4200,
+    "foto": "https://i.postimg.cc/y6tXgbWH/4357e241-3ecc-4881-8266-466ae7589380.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1785763947557,
+    "nombre": "MANDOLINA PICADORA DE VERDURA X 10 PCS",
+    "precio": 12950,
+    "foto": "https://i.postimg.cc/7Zy3XJgK/a13f7fa4-9368-4f8c-92b5-4633c7f4ffd2.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1785763992905,
+    "nombre": "ESPEJO CON LUZ LED FORMA CORAZON ",
+    "precio": 7700,
+    "foto": "https://i.postimg.cc/kgFxHMsC/68e29001-71bd-4ec9-8d23-aa35a2eb12cb.jpg",
+    "categoria": "TODO PARA MUJERES ",
+    "suspendido": false
+  },
+  {
+    "id": 1785767152171,
+    "nombre": "CALCULADORA KARUDIA 12 DIGITOS KK-8835B",
+    "precio": 4600,
+    "foto": "https://i.postimg.cc/9fR5xg5j/fdb25b42-9e28-4fb0-a1f6-cc72128b6ae7.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 1785767248063,
+    "nombre": "CARGADOR DE BATERIA AUTO - MOTO 12V ",
+    "precio": 24900,
+    "foto": "https://i.postimg.cc/C503xFZp/c7331f69-5477-4fee-a107-1ba667c3491f.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785767368828,
+    "nombre": "SOPORTE TV FIJO 26-63 ",
+    "precio": 4450,
+    "foto": "https://i.postimg.cc/65YkBxtm/56799fc4-0a65-404c-9fb4-4df089b03b26.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1785767456841,
+    "nombre": "LAMPARA DE ESCRITORIO T-308",
+    "precio": 7850,
+    "foto": "https://i.postimg.cc/XJfPhTs9/a61bee94-1443-419b-a630-27a515a1a3cc.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1785767795013,
+    "nombre": "LUZ LED PARA AUTO USB ",
+    "precio": 1100,
+    "foto": "https://i.postimg.cc/vmgFP2F8/32a92593-f0fd-4877-ac0c-9a494efd4df9.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1785767945529,
+    "nombre": "PELA PAPA METAL ",
+    "precio": 1200,
+    "foto": "https://i.postimg.cc/pdhb0cbW/9b6d6a30-9308-4d62-be75-5397d4e499a1.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1785769539307,
+    "nombre": "CANILLA PARA COCINA ",
+    "precio": 17500,
+    "foto": "https://i.postimg.cc/MpctjCJy/c5909aab-5b67-4c98-943c-a6c96ed908da.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1785769572615,
+    "nombre": "CANILLA PARA COCINA PICO LARGO ",
+    "precio": 18500,
+    "foto": "https://i.postimg.cc/s27cT5Xd/331ac84f-9823-414a-b5df-6a301bb8f627.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1785769603974,
+    "nombre": "SET DE TUBO CAJA X 40PCS CHICO ",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/CxW7Ccwr/60e4e8d5-4d4c-4e84-a70b-23cc5953407c.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785769652318,
+    "nombre": "SET DE LLAVES TUBO CAJA X 40 PCS GRANDE ",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/ZRmL20BF/9bdbb16a-2538-4dbd-9881-ed5e08070388.jpg",
+    "categoria": "HERRAMIENTAS",
     "suspendido": false
   }
 ]
