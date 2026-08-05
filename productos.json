@@ -34,7 +34,7 @@
   {
     "id": 12,
     "nombre": "CARGADOR CABEZAL DE AUTO CARGA RAPIDA 3.1 USB + 2 C",
-    "precio": 2950,
+    "precio": 3150,
     "foto": "https://i.postimg.cc/Wz956m8S/CAR-53004.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -42,7 +42,7 @@
   {
     "id": 13,
     "nombre": "CARGADOR CABEZAL DE AUTO PD 20W USB + TIPO C",
-    "precio": 4100,
+    "precio": 4300,
     "foto": "https://i.postimg.cc/vHRNJ8fX/CAR-53001.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -50,7 +50,7 @@
   {
     "id": 14,
     "nombre": "CARGADOR PUXIDA IPHONE 4.2",
-    "precio": 5450,
+    "precio": 5950,
     "foto": "https://i.postimg.cc/MH2rXtkX/Whats-App-Image-2025-09-10-at-20-57-10-2.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -58,7 +58,7 @@
   {
     "id": 15,
     "nombre": "CARGADOR PUXIDA TIPO C 3.1",
-    "precio": 3600,
+    "precio": 3950,
     "foto": "https://i.postimg.cc/g2s95CCs/Whats-App-Image-2025-09-10-at-20-57-10.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -66,7 +66,7 @@
   {
     "id": 16,
     "nombre": "CARGADOR PUXIDA V8 3.1",
-    "precio": 3400,
+    "precio": 3750,
     "foto": "https://i.postimg.cc/025bhs3X/Whats-App-Image-2025-09-10-at-23-33-24.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -74,7 +74,7 @@
   {
     "id": 18,
     "nombre": "CARGADOR ROYALCEL V8 5 AMP.",
-    "precio": 3600,
+    "precio": 3900,
     "foto": "https://i.postimg.cc/43XfHbgL/Whats-App-Image-2025-09-10-at-20-57-09-1.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -98,7 +98,7 @@
   {
     "id": 25,
     "nombre": "TRANSMISOR BT DE AUTO GTS C 935",
-    "precio": 4350,
+    "precio": 4850,
     "foto": "https://i.postimg.cc/q7DV6D9B/GTS-C935.jpg",
     "categoria": "TECNOLOGIA",
     "suspendido": false
@@ -114,7 +114,7 @@
   {
     "id": 27,
     "nombre": "CABLE HDMI 1.5M",
-    "precio": 2100,
+    "precio": 2300,
     "foto": "https://i.postimg.cc/L4wfQkpq/CABLEUSB.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false
@@ -122,7 +122,7 @@
   {
     "id": 28,
     "nombre": "CABLE USB TIPO C 3.1 PUNTA DE METAL",
-    "precio": 1500,
+    "precio": 1550,
     "foto": "https://i.postimg.cc/wMK5Yd3B/CABLE-PUNTA-METAL.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -130,7 +130,7 @@
   {
     "id": 29,
     "nombre": "CABLE USB MALLA TIPO C DATOS 3.1A",
-    "precio": 1450,
+    "precio": 1550,
     "foto": "https://i.postimg.cc/MpBny6Kj/CAB-41002.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -146,7 +146,7 @@
   {
     "id": 31,
     "nombre": "CABLE USB V3 CON FILTRO 1.5M",
-    "precio": 1400,
+    "precio": 1600,
     "foto": "https://i.postimg.cc/c1BjwyVJ/CAB-45008.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false
@@ -154,7 +154,7 @@
   {
     "id": 33,
     "nombre": "CABLE HDMI A VGA",
-    "precio": 3350,
+    "precio": 3500,
     "foto": "https://i.postimg.cc/5tPSZg9D/CAB-45003.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false
@@ -162,7 +162,7 @@
   {
     "id": 35,
     "nombre": "CABLE AUXILIAR 1 M BOLSA",
-    "precio": 900,
+    "precio": 950,
     "foto": "https://i.postimg.cc/Mphrk22Q/Whats-App-Image-2025-09-10-at-20-57-07-1.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false
@@ -170,7 +170,7 @@
   {
     "id": 39,
     "nombre": "CABLE ROYALCELL USB A V8 5 AMP. MALLADO",
-    "precio": 1500,
+    "precio": 1600,
     "foto": "https://i.postimg.cc/vZWknJ8M/Whats-App-Image-2025-09-10-at-23-33-22-2.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -178,7 +178,7 @@
   {
     "id": 40,
     "nombre": "CABLE ROYALCELL USB A TIPO C 5 AMP. MALLADO ",
-    "precio": 1550,
+    "precio": 1650,
     "foto": "https://i.postimg.cc/43GCFJ2m/Whats-App-Image-2025-09-10-at-23-33-23.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -194,7 +194,7 @@
   {
     "id": 43,
     "nombre": "CABLE USB MOTO 3.0 TIPO C ",
-    "precio": 1500,
+    "precio": 1550,
     "foto": "https://i.postimg.cc/26399Z4H/398b63d6-d961-4c55-ad34-98027b959dcf.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -202,7 +202,7 @@
   {
     "id": 44,
     "nombre": "CABLE USB MOTO 3.0 V8",
-    "precio": 1450,
+    "precio": 1500,
     "foto": "https://i.postimg.cc/8zBhG0y8/84bd91c3-4158-4f6a-8975-ffe1758c8649.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -234,7 +234,7 @@
   {
     "id": 49,
     "nombre": "PARLANTE BT INALAMBRICO GTS 1468",
-    "precio": 7400,
+    "precio": 6900,
     "foto": "https://i.postimg.cc/3rqG6Gdx/PARLANTEL-UZ.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
@@ -266,7 +266,7 @@
   {
     "id": 69,
     "nombre": "BALANZA COCINA 10 KG",
-    "precio": 5800,
+    "precio": 5950,
     "foto": "https://i.postimg.cc/k55MHp8K/Whats-App-Image-2025-09-10-at-23-33-21-1.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -282,7 +282,7 @@
   {
     "id": 78,
     "nombre": "ENCENDEDOR CHISPERO RECARGABLE USB",
-    "precio": 5700,
+    "precio": 5200,
     "foto": "https://i.postimg.cc/hPvPtwhj/JL-897-2.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -298,7 +298,7 @@
   {
     "id": 85,
     "nombre": "PISTOLA DE RIEGO PARA MANGUERA",
-    "precio": 6900,
+    "precio": 7500,
     "foto": "https://i.postimg.cc/QtMngSwy/P550.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -338,7 +338,7 @@
   {
     "id": 92,
     "nombre": "TIMBRE INALAMBRICO",
-    "precio": 8400,
+    "precio": 6500,
     "foto": "https://i.postimg.cc/x8pQmKtH/Captura-de-pantalla-2025-09-11-175409.png",
     "categoria": "HOGAR",
     "suspendido": false
@@ -354,7 +354,7 @@
   {
     "id": 94,
     "nombre": "AURICULAR BT INALAMBRICO JK-607",
-    "precio": 8700,
+    "precio": 8900,
     "foto": "https://i.postimg.cc/Mp9BPwPx/AURIKK607.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false
@@ -370,7 +370,7 @@
   {
     "id": 98,
     "nombre": "AURICULAR BT INALAMBRICO AU 16011",
-    "precio": 8700,
+    "precio": 9400,
     "foto": "https://i.postimg.cc/26MFHY5y/AURIVINCHA.jpg",
     "categoria": "AURICULARES VINCHA",
     "suspendido": true
@@ -378,7 +378,7 @@
   {
     "id": 100,
     "nombre": "AURICULAR BT INALAMBRICO P47",
-    "precio": 5900,
+    "precio": 5800,
     "foto": "https://i.postimg.cc/mZtpnzn0/AR-1401.jpg",
     "categoria": "AURICULARES VINCHA",
     "suspendido": false
@@ -386,7 +386,7 @@
   {
     "id": 103,
     "nombre": "AURICULAR BT INALAMBRICO P9 PRO MAX",
-    "precio": 5900,
+    "precio": 6400,
     "foto": "https://i.postimg.cc/wB1xs9w0/AURI-P9.jpg",
     "categoria": "AURICULARES VINCHA",
     "suspendido": true
@@ -410,7 +410,7 @@
   {
     "id": 108,
     "nombre": "ESPEJO LED USB REGULABLE LUZ FRIA REDONDO",
-    "precio": 8400,
+    "precio": 6500,
     "foto": "https://i.postimg.cc/CLFTh6M2/ESP-4205.jpg",
     "categoria": "TODO PARA MUJERES ",
     "suspendido": true
@@ -469,7 +469,7 @@
     "precio": 7900,
     "foto": "https://i.postimg.cc/qR00LcQV/CRT-110017.jpg",
     "categoria": "TODO PARA HOMBRES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 128,
@@ -490,7 +490,7 @@
   {
     "id": 134,
     "nombre": "INFLADOR MULTIUSO METALIZADO",
-    "precio": 4200,
+    "precio": 4350,
     "foto": "https://i.postimg.cc/RVB6h08N/INF-91006.jpg",
     "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
@@ -506,7 +506,7 @@
   {
     "id": 139,
     "nombre": "CORTA PELO DE MASCOTA",
-    "precio": 11500,
+    "precio": 11900,
     "foto": "https://i.postimg.cc/ZqSGN8JG/CRT-110021.jpg",
     "categoria": "VARIOS",
     "suspendido": false
@@ -570,7 +570,7 @@
   {
     "id": 160,
     "nombre": "LINTERNA MINI CAMUFLADA USB RECARGABLE",
-    "precio": 3500,
+    "precio": 3900,
     "foto": "https://i.postimg.cc/yxVqghXs/LINTERNAESTUCHE.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -610,7 +610,7 @@
   {
     "id": 169,
     "nombre": "LAMPARA CAMPING SOLAR RECARGABLE",
-    "precio": 9200,
+    "precio": 8600,
     "foto": "https://i.postimg.cc/rFPBgdkp/B005.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -632,14 +632,6 @@
     "suspendido": false
   },
   {
-    "id": 175,
-    "nombre": "LINTERNA LED USB RECARGABLE BUSCA HUELLA",
-    "precio": 18400,
-    "foto": "https://i.postimg.cc/43Z9T7wt/LINTERNA-RECARGABLE.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": true
-  },
-  {
     "id": 177,
     "nombre": "LUZ DE BICI X 2 PIEZAS",
     "precio": 1900,
@@ -650,7 +642,7 @@
   {
     "id": 179,
     "nombre": "TIRA LED RGB 28 X 35 X 5 MTS.",
-    "precio": 6300,
+    "precio": 6500,
     "foto": "https://i.postimg.cc/DfGpFWrH/LED-9727.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -682,7 +674,7 @@
   {
     "id": 184,
     "nombre": "CINTA AISLADORA X 10 UNIDADES",
-    "precio": 3850,
+    "precio": 4000,
     "foto": "https://i.postimg.cc/VkTSshgf/1808.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -698,7 +690,7 @@
   {
     "id": 186,
     "nombre": "CINTA METRICA X 5 MTS.",
-    "precio": 2500,
+    "precio": 2750,
     "foto": "https://i.postimg.cc/QMGXyZST/1902.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -714,7 +706,7 @@
   {
     "id": 189,
     "nombre": "DESTORNILLADOR SET 32 EN 1",
-    "precio": 2350,
+    "precio": 2500,
     "foto": "https://i.postimg.cc/wM6Pt02M/TP-6036B.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -746,7 +738,7 @@
   {
     "id": 193,
     "nombre": "LAPIZ TESTER",
-    "precio": 3900,
+    "precio": 4100,
     "foto": "https://i.postimg.cc/MGDwzb0x/Captura-de-pantalla-2025-09-11-171216.png",
     "categoria": "ELECTRICIDAD ",
     "suspendido": false
@@ -842,7 +834,7 @@
   {
     "id": 215,
     "nombre": "CALCULADORA KARUIDA DOBLE VISOR 12 DIGITOS CT 8122",
-    "precio": 7600,
+    "precio": 7900,
     "foto": "https://i.postimg.cc/gkXRX5cT/CT-8122-120.jpg",
     "categoria": "LIBRERIA",
     "suspendido": false
@@ -850,7 +842,7 @@
   {
     "id": 216,
     "nombre": "CALCULADORA KAWAII 12 DIGITOS",
-    "precio": 6400,
+    "precio": 6100,
     "foto": "https://i.postimg.cc/pVgThSny/KK-2280.jpg",
     "categoria": "LIBRERIA",
     "suspendido": false
@@ -858,25 +850,9 @@
   {
     "id": 224,
     "nombre": "REPETIDOR WIFI",
-    "precio": 14200,
+    "precio": 13500,
     "foto": "https://i.postimg.cc/PJrJV3CP/1f1f9d71-3294-406c-a222-53769034986b.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false
-  },
-  {
-    "id": 227,
-    "nombre": "KIT AURICULAR Y RELOJ SMART C/MALLA INTERCAMBIABLE",
-    "precio": 22400,
-    "foto": "https://i.postimg.cc/nzWG0zZv/RELOS-7-MALLAS.jpg",
-    "categoria": "RELOJES",
-    "suspendido": true
-  },
-  {
-    "id": 231,
-    "nombre": "RELOJ SMARTWATCH ULTRA 10 BIG C/ 7 MALLAS",
-    "precio": 14800,
-    "foto": "https://i.postimg.cc/QCtxx8Wn/TH7-3.jpg",
-    "categoria": "RELOJES",
     "suspendido": false
   },
   {
@@ -906,7 +882,7 @@
   {
     "id": 244,
     "nombre": "BOTELLA TERMICA DEPORTIVA COLORES  DE 500ML",
-    "precio": 13300,
+    "precio": 12500,
     "foto": "https://i.postimg.cc/0ycCHZVy/IMG-8125.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
@@ -978,7 +954,7 @@
   {
     "id": 271,
     "nombre": "CABLE USB  TIPO C 3.1 BOLSA",
-    "precio": 1250,
+    "precio": 1350,
     "foto": "https://i.postimg.cc/SQLWJLvx/cabletipoc.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -1010,7 +986,7 @@
   {
     "id": 287,
     "nombre": "AURICULAR BT  INALAMBRICO JK 605",
-    "precio": 7600,
+    "precio": 8150,
     "foto": "https://i.postimg.cc/2SN7wzYB/JK605.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false
@@ -1018,7 +994,7 @@
   {
     "id": 290,
     "nombre": "SOPORTE FIJO TV 14-42 PLG",
-    "precio": 4550,
+    "precio": 3600,
     "foto": "https://i.postimg.cc/d0PqSyfD/soportetv24pul.jpg",
     "categoria": "VARIOS",
     "suspendido": false
@@ -1050,7 +1026,7 @@
   {
     "id": 294,
     "nombre": "AURICULAR BT INALAMBRICO GATITO CON LUZ",
-    "precio": 7200,
+    "precio": 7700,
     "foto": "https://i.postimg.cc/Z5KbkmY5/aurigatito.jpg",
     "categoria": "AURICULARES VINCHA",
     "suspendido": false
@@ -1058,7 +1034,7 @@
   {
     "id": 296,
     "nombre": "CARGADOR DE NOTEBOOK C/FICHA LENOVO",
-    "precio": 10800,
+    "precio": 10950,
     "foto": "https://i.postimg.cc/tTwQY1xw/cargadornot.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -1074,7 +1050,7 @@
   {
     "id": 298,
     "nombre": "AURICULAR BT INALAMBRICO BLUETOOTH JS 602",
-    "precio": 6100,
+    "precio": 6950,
     "foto": "https://i.postimg.cc/Y9Kqj5Hm/auribt.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false
@@ -1082,7 +1058,7 @@
   {
     "id": 300,
     "nombre": "CARGADOR CABEZAL I PHONE 20W PATA ARGENTINA USB C",
-    "precio": 4400,
+    "precio": 4750,
     "foto": "https://i.postimg.cc/bvGW4r4w/cabezal20w.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -1114,7 +1090,7 @@
   {
     "id": 313,
     "nombre": "BATIDORA DE CAFE RECARGABLE",
-    "precio": 6700,
+    "precio": 7600,
     "foto": "https://i.postimg.cc/wBncWQ68/Btidora.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -1122,7 +1098,7 @@
   {
     "id": 318,
     "nombre": "SET DE LLAVES TUBO X 46 PCS.",
-    "precio": 9900,
+    "precio": 10900,
     "foto": "https://i.postimg.cc/9QYQgmV6/SETLLAVE.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1130,7 +1106,7 @@
   {
     "id": 320,
     "nombre": "CADENA LINGA  BICI/MOTO CON CODIGO",
-    "precio": 5400,
+    "precio": 4950,
     "foto": "https://i.postimg.cc/zvFQZcBK/CADENA.jpg",
     "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
@@ -1194,7 +1170,7 @@
   {
     "id": 336,
     "nombre": "AURICULAR BT INALAMBRICO COLORES",
-    "precio": 6100,
+    "precio": 5900,
     "foto": "https://i.postimg.cc/xdqXW96n/IMG-8024.jpg",
     "categoria": "AURICULARES VINCHA",
     "suspendido": false
@@ -1202,7 +1178,7 @@
   {
     "id": 338,
     "nombre": "AURICULAR BT INALAMBRICO AR 1135",
-    "precio": 4800,
+    "precio": 5200,
     "foto": "https://i.postimg.cc/RhC5DZRr/IMG-8026.jpg",
     "categoria": "AURICULARES VINCHA",
     "suspendido": true
@@ -1258,7 +1234,7 @@
   {
     "id": 346,
     "nombre": "DEPILADORA PARA DAMAS USB RECARGABLE",
-    "precio": 7500,
+    "precio": 7900,
     "foto": "https://i.postimg.cc/NM2vhnhR/IMG-8036.jpg",
     "categoria": "TODO PARA MUJERES ",
     "suspendido": false
@@ -1298,7 +1274,7 @@
   {
     "id": 351,
     "nombre": "CABLE USB TIPO C IBEK 6 AMP",
-    "precio": 1950,
+    "precio": 2100,
     "foto": "https://i.postimg.cc/hv9wczS8/IMG-8045.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -1306,7 +1282,7 @@
   {
     "id": 352,
     "nombre": "CABLE USB  V8 3.1 BOLSA",
-    "precio": 1150,
+    "precio": 1250,
     "foto": "https://i.postimg.cc/pVYqVtf7/IMG-8046.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -1314,7 +1290,7 @@
   {
     "id": 353,
     "nombre": "CABLE TIPO C A TIPO C 1 MT",
-    "precio": 2500,
+    "precio": 2650,
     "foto": "https://i.postimg.cc/qMvXk6Mp/IMG-8047.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -1322,7 +1298,7 @@
   {
     "id": 354,
     "nombre": "CABLE USB MOTOROLA BLISTER V8 ",
-    "precio": 1450,
+    "precio": 1500,
     "foto": "https://i.postimg.cc/TYsmfk49/IMG-8048.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -1333,12 +1309,12 @@
     "precio": 1200,
     "foto": "https://i.postimg.cc/cCgxmcBw/IMG-8051.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 359,
     "nombre": "CABLE AUXILIAR A I PHONE",
-    "precio": 2550,
+    "precio": 2700,
     "foto": "https://i.postimg.cc/XvYp5dm9/IMG-8053.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -1354,7 +1330,7 @@
   {
     "id": 361,
     "nombre": "CABLE AUXILIAR A TIPO C",
-    "precio": 2550,
+    "precio": 2700,
     "foto": "https://i.postimg.cc/Xvrn38tm/IMG-8055.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -1370,7 +1346,7 @@
   {
     "id": 364,
     "nombre": "CABLE DE AUDIO Y VIDEO RCA DE 3 A 3",
-    "precio": 1150,
+    "precio": 1350,
     "foto": "https://i.postimg.cc/TY17t4bC/IMG-8058.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false
@@ -1378,7 +1354,7 @@
   {
     "id": 365,
     "nombre": "CABLE DE AUDIO DE 2 A 1",
-    "precio": 900,
+    "precio": 950,
     "foto": "https://i.postimg.cc/h4yMQ1Yr/IMG-8059.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false
@@ -1386,7 +1362,7 @@
   {
     "id": 366,
     "nombre": "CABLE HDMI A V8",
-    "precio": 2800,
+    "precio": 2950,
     "foto": "https://i.postimg.cc/7hf3njRC/IMG-8060.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false
@@ -1394,7 +1370,7 @@
   {
     "id": 367,
     "nombre": "CABLE HDMI 3 MTS",
-    "precio": 2900,
+    "precio": 3100,
     "foto": "https://i.postimg.cc/x8JmzMk6/IMG-8061.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false
@@ -1402,7 +1378,7 @@
   {
     "id": 368,
     "nombre": "CABLE AUXILIAR COLORES 1 MT",
-    "precio": 850,
+    "precio": 900,
     "foto": "https://i.postimg.cc/rmz0Bx9V/IMG-8062.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false
@@ -1450,7 +1426,7 @@
   {
     "id": 378,
     "nombre": "CARGADOR CABEZAL KOSMO 2 AMP",
-    "precio": 2800,
+    "precio": 2950,
     "foto": "https://i.postimg.cc/0QFYcPwb/IMG-8077.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -1461,20 +1437,20 @@
     "precio": 22500,
     "foto": "https://i.postimg.cc/PfDYdGDN/IMG-8078.jpg",
     "categoria": "CARGADORES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 381,
-    "nombre": "ALARGUE 4 ENCHUFE + 3 USB + 1 TIPO C",
+    "nombre": "ALARGUE REFORZADO 4 ENCHUFE + 3 USB + 1 TIPO C",
     "precio": 11600,
-    "foto": "https://i.postimg.cc/jjJdyTtg/IMG-8080.jpg",
-    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
+    "foto": "https://i.postimg.cc/T1nPxyMF/a7a75f49-fcc2-4761-80ed-911f6edb9597.jpg",
+    "categoria": "ELECTRICIDAD ",
     "suspendido": false
   },
   {
     "id": 383,
     "nombre": "TESTER DIGITAL",
-    "precio": 5500,
+    "precio": 6500,
     "foto": "https://i.postimg.cc/HxFpxPfb/IMG-8082.jpg",
     "categoria": "ELECTRICIDAD ",
     "suspendido": false
@@ -1496,22 +1472,6 @@
     "suspendido": false
   },
   {
-    "id": 386,
-    "nombre": "SET DE LLAVES TUBO GRANDE DE 32PCS",
-    "precio": 19600,
-    "foto": "https://i.postimg.cc/rmh9t7Tn/IMG-8088.png",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": true
-  },
-  {
-    "id": 387,
-    "nombre": "SET DE HERRAMIENTAS DE 129 PIEZAS",
-    "precio": 35900,
-    "foto": "https://i.postimg.cc/vBpzGks4/IMG-8085.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": true
-  },
-  {
     "id": 388,
     "nombre": "SET DE LLAVES TUBO X53 PIEZAS",
     "precio": 16400,
@@ -1522,7 +1482,7 @@
   {
     "id": 389,
     "nombre": "MECHAS COPA X 4 CAJA",
-    "precio": 5800,
+    "precio": 6800,
     "foto": "https://i.postimg.cc/Dy5XgHM4/IMG-8087.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1530,7 +1490,7 @@
   {
     "id": 390,
     "nombre": "MECHAS COPAS SET X 4",
-    "precio": 5300,
+    "precio": 5700,
     "foto": "https://i.postimg.cc/QdwVY3kL/IMG-8094.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1544,17 +1504,9 @@
     "suspendido": false
   },
   {
-    "id": 392,
-    "nombre": "SET DE DESTORNILLADOR X2",
-    "precio": 2400,
-    "foto": "https://i.postimg.cc/QCwRG06N/IMG-8090.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": true
-  },
-  {
     "id": 393,
     "nombre": "SET DE DESTORNILLADOR X 6",
-    "precio": 3600,
+    "precio": 3800,
     "foto": "https://i.postimg.cc/TYPg7Rfp/badfbff9-2aef-46ea-bdb9-5b99bb379a7d.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1562,7 +1514,7 @@
   {
     "id": 394,
     "nombre": "LLAVE FRANCESA DE 10 PULGADAS",
-    "precio": 7200,
+    "precio": 7600,
     "foto": "https://i.postimg.cc/k4V0j0sq/IMG-8093.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1578,7 +1530,7 @@
   {
     "id": 396,
     "nombre": "LLAVES ALLEN X 9 PIEZAS GRANDE",
-    "precio": 4850,
+    "precio": 5300,
     "foto": "https://i.postimg.cc/526SFf2x/IMG-8103.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1586,7 +1538,7 @@
   {
     "id": 397,
     "nombre": "LLAVES TORK X 9 PIEZAS GRANDE",
-    "precio": 4950,
+    "precio": 5400,
     "foto": "https://i.postimg.cc/90DQYgRz/IMG-8101.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1602,7 +1554,7 @@
   {
     "id": 399,
     "nombre": "SOLDADOR DE ESTAÑO LAPIZ",
-    "precio": 2800,
+    "precio": 3100,
     "foto": "https://i.postimg.cc/qq2MFhwv/IMG-8108.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1634,7 +1586,7 @@
   {
     "id": 404,
     "nombre": "CADENA CANDADO LINGA CON CODIGO",
-    "precio": 5600,
+    "precio": 5450,
     "foto": "https://i.postimg.cc/DyCtTfNf/IMG-8099.jpg",
     "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
@@ -1666,7 +1618,7 @@
   {
     "id": 411,
     "nombre": "CANDADO CON ALARMA BICI-MOTO",
-    "precio": 8500,
+    "precio": 7950,
     "foto": "https://i.postimg.cc/QtKhw9mj/IMG-8121.jpg",
     "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
@@ -1714,7 +1666,7 @@
   {
     "id": 417,
     "nombre": "CINTA METRICA X 10 MTS.",
-    "precio": 5950,
+    "precio": 5250,
     "foto": "https://i.postimg.cc/3JF4nVWF/IMG-8111.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1786,7 +1738,7 @@
   {
     "id": 432,
     "nombre": "LINTERNA MINERA HIGH POWER",
-    "precio": 3300,
+    "precio": 3500,
     "foto": "https://i.postimg.cc/Nj8btBb6/IMG-8159.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -1794,7 +1746,7 @@
   {
     "id": 433,
     "nombre": "MINI LINTERNA USB RECARGABLE",
-    "precio": 2100,
+    "precio": 2200,
     "foto": "https://i.postimg.cc/HWJqg8Mv/IMG-8155.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -1802,7 +1754,7 @@
   {
     "id": 434,
     "nombre": "MINI LINTERNA USB RECARGABLE + ENCENDEDOR",
-    "precio": 4250,
+    "precio": 3200,
     "foto": "https://i.postimg.cc/NFTCrT70/IMG-8156.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -1842,7 +1794,7 @@
   {
     "id": 442,
     "nombre": "PUNTERO LASER PROFESIONAL",
-    "precio": 5300,
+    "precio": 5600,
     "foto": "https://i.postimg.cc/PfRdbkW6/IMG-8151.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -1866,7 +1818,7 @@
   {
     "id": 445,
     "nombre": "TIRA LED RGB 50 X 50 X 5 MTS.",
-    "precio": 9100,
+    "precio": 9600,
     "foto": "https://i.postimg.cc/nhc41tKP/ba64385e-a8ff-4387-ad68-f011c00ef7fc.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -1874,7 +1826,7 @@
   {
     "id": 446,
     "nombre": "LUZ LINTERNA PARA BICI",
-    "precio": 2550,
+    "precio": 2700,
     "foto": "https://i.postimg.cc/k5Y7j3rM/IMG-8157.jpg",
     "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
@@ -1885,7 +1837,7 @@
     "precio": 3800,
     "foto": "https://i.postimg.cc/SKRhYTn5/IMG-8158.jpg",
     "categoria": "TODO PARA BICI Y MOTOS ",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 449,
@@ -1941,7 +1893,7 @@
     "precio": 6100,
     "foto": "https://i.postimg.cc/wTx9V6Mw/2c242dfe-de36-4ec6-a392-860dfef2dbca.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 464,
@@ -1954,7 +1906,7 @@
   {
     "id": 465,
     "nombre": "BOMBA DISPENSER CON LUZ",
-    "precio": 6550,
+    "precio": 5950,
     "foto": "https://i.postimg.cc/T3G7MSVH/4e529e53-49c2-4252-ad5b-da4b2deb0bf4.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -1962,7 +1914,7 @@
   {
     "id": 466,
     "nombre": "SACA CORCHO RECARGABLE",
-    "precio": 11500,
+    "precio": 11900,
     "foto": "https://i.postimg.cc/L6ScSR1p/IMG-8177.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -2050,7 +2002,7 @@
   {
     "id": 477,
     "nombre": "MINI FAN DINOSAURIO",
-    "precio": 7300,
+    "precio": 5500,
     "foto": "https://i.postimg.cc/qvVz4NGn/IMG-8182.jpg",
     "categoria": "NIÑOS",
     "suspendido": false
@@ -2074,10 +2026,10 @@
   {
     "id": 480,
     "nombre": "BALANZA DE COCINA CON BOWL 10KG",
-    "precio": 5950,
+    "precio": 6150,
     "foto": "https://i.postimg.cc/wj2y26hq/IMG-8186.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 481,
@@ -2090,7 +2042,7 @@
   {
     "id": 482,
     "nombre": "TENSIOMETRO",
-    "precio": 16800,
+    "precio": 17900,
     "foto": "https://i.postimg.cc/6qV5Q0cT/IMG-8189.jpg",
     "categoria": "VARIOS",
     "suspendido": false
@@ -2114,7 +2066,7 @@
   {
     "id": 485,
     "nombre": "CONTROL REMOTO UNIVERSAL TV COMUN",
-    "precio": 2950,
+    "precio": 3300,
     "foto": "https://i.postimg.cc/L82gjqZh/IMG-8192.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -2194,7 +2146,7 @@
   {
     "id": 509,
     "nombre": "MICROFONO KARAOKE",
-    "precio": 7600,
+    "precio": 7900,
     "foto": "https://i.postimg.cc/c6yK6CfB/IMG-8227.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
@@ -2202,7 +2154,7 @@
   {
     "id": 510,
     "nombre": "CARTEL LUMINICO ABIERTO",
-    "precio": 14000,
+    "precio": 14500,
     "foto": "https://i.postimg.cc/J4RZ1WFz/d9b99bc1-a446-43ef-a38a-b8af90af2128.jpg",
     "categoria": "VARIOS",
     "suspendido": false
@@ -2304,22 +2256,6 @@
     "suspendido": false
   },
   {
-    "id": 1773596981432,
-    "nombre": "SET DE RELOJ SMART WATCH Y AURICULAR PRO MAX",
-    "precio": 17500,
-    "foto": "https://i.postimg.cc/L5Fh2rSs/IMG-8535.jpg",
-    "categoria": "RELOJES",
-    "suspendido": true
-  },
-  {
-    "id": 1773597043232,
-    "nombre": "SMART WATCH AURICULAR + 2 MALLAS ",
-    "precio": 20500,
-    "foto": "https://i.postimg.cc/zXj3YtcX/IMG-8537.jpg",
-    "categoria": "RELOJES",
-    "suspendido": false
-  },
-  {
     "id": 1773689418257,
     "nombre": "PLANCHA DE PELO DE 45 W",
     "precio": 10800,
@@ -2362,7 +2298,7 @@
   {
     "id": 1774984731068,
     "nombre": "CARGADOR ROYALCELL TIPO C 5 AMP",
-    "precio": 3700,
+    "precio": 4100,
     "foto": "https://i.postimg.cc/853wdxZ8/3e50ae9d-e34d-4935-8e8a-2796ee0e1589.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -2386,7 +2322,7 @@
   {
     "id": 1774985225294,
     "nombre": "CONSOLA 400 EN 1",
-    "precio": 11900,
+    "precio": 16200,
     "foto": "https://i.postimg.cc/bvrBQ0q2/cdf07ea6-be45-4fab-b6ca-6ae8540d320c.jpg",
     "categoria": "TECNOLOGIA",
     "suspendido": false
@@ -2402,7 +2338,7 @@
   {
     "id": 1774985425956,
     "nombre": "SARTEN MULTIFUNCIONAL PIEDRA VOLCANICA",
-    "precio": 14000,
+    "precio": 15500,
     "foto": "https://i.postimg.cc/jq3Cct6c/22e115c3-c66c-475c-af49-014886dadaf2.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -2426,7 +2362,7 @@
   {
     "id": 1775836622645,
     "nombre": "CARGADOR CABEZAL I PHONE USB C 35W ",
-    "precio": 3300,
+    "precio": 3750,
     "foto": "https://i.postimg.cc/wTcmfmZw/305165d9-4bad-42ca-8a04-3241b6755551.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -2450,7 +2386,7 @@
   {
     "id": 1775837169007,
     "nombre": "MICROFONO CON CABLE NOGA",
-    "precio": 4500,
+    "precio": 4800,
     "foto": "https://i.postimg.cc/630kbzVx/575e2a37-a91a-4c31-8007-36f9cb701c23.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
@@ -2458,7 +2394,7 @@
   {
     "id": 1775837253265,
     "nombre": "JOYSTICK PS4 COLORES ",
-    "precio": 19300,
+    "precio": 20500,
     "foto": "https://i.postimg.cc/02rTZYzr/a9abe65a-fa44-44aa-afcf-15b34069a384.jpg",
     "categoria": "COMPUTACION",
     "suspendido": false
@@ -2466,7 +2402,7 @@
   {
     "id": 1775837309021,
     "nombre": "LINTERNA MINERA RECARGABLE ",
-    "precio": 3800,
+    "precio": 3900,
     "foto": "https://i.postimg.cc/FKXw9wDk/0200ed32-8312-4cf6-80e3-6d49176d549a.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -2498,7 +2434,7 @@
   {
     "id": 1775837796550,
     "nombre": "CABLE ROYALCELL ENGOMADO USB A TIPO C 5 AMP. ",
-    "precio": 1350,
+    "precio": 1400,
     "foto": "https://i.postimg.cc/dQz02V0j/0b4ccd8d-5bae-42fc-9ff9-fba5843de3b9.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -2506,7 +2442,7 @@
   {
     "id": 1775837827590,
     "nombre": "CABLE ROYALCELL ENGOMADO USB A V8 5 AMP. ",
-    "precio": 1350,
+    "precio": 1400,
     "foto": "https://i.postimg.cc/dQz02V0j/0b4ccd8d-5bae-42fc-9ff9-fba5843de3b9.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -2522,7 +2458,7 @@
   {
     "id": 1775838202878,
     "nombre": "JOYSTICK PS3 SONY ",
-    "precio": 11500,
+    "precio": 12500,
     "foto": "https://i.postimg.cc/8P2T6KZ1/f0a69fbe-0204-426c-b0d7-dc56b09f5249.jpg",
     "categoria": "COMPUTACION",
     "suspendido": false
@@ -2530,7 +2466,7 @@
   {
     "id": 1775838239376,
     "nombre": "JOYSTIK PS3 COLORES ",
-    "precio": 10400,
+    "precio": 11500,
     "foto": "https://i.postimg.cc/TPC8CCq4/407ae1bf-be36-4259-b23a-b4b734e6e295.jpg",
     "categoria": "COMPUTACION",
     "suspendido": false
@@ -2554,7 +2490,7 @@
   {
     "id": 1776436830747,
     "nombre": "JUEGO DE LLAVES ALLEN X 30 PIEZAS ",
-    "precio": 12000,
+    "precio": 12900,
     "foto": "https://i.postimg.cc/gjgjz8Yd/84cd08e4-b2d1-4436-bf5c-50dfcbcf160f.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -2602,7 +2538,7 @@
   {
     "id": 1777039167326,
     "nombre": "COMPRESOR INFLADOR DE AUTO ",
-    "precio": 32500,
+    "precio": 33600,
     "foto": "https://i.postimg.cc/cL47cK5r/efec27eb-38ea-4d50-84fe-13807609f238.jpg",
     "categoria": "VARIOS",
     "suspendido": false
@@ -2624,14 +2560,6 @@
     "suspendido": false
   },
   {
-    "id": 1777039308373,
-    "nombre": "PARLANTE BT INALAMBRICO 4 X 2  SV-2402",
-    "precio": 25000,
-    "foto": "https://i.postimg.cc/65BC92KZ/cd955e91-6370-4a17-a478-1b2e9d5119a5.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 1777039364092,
     "nombre": "PARLANTE BT INALAMBRICO GTS 1679",
     "precio": 7850,
@@ -2640,17 +2568,9 @@
     "suspendido": false
   },
   {
-    "id": 1777039421685,
-    "nombre": "RADIO BT INALAMBRICO AM FM CON LINTERNA  KTF 1472",
-    "precio": 13500,
-    "foto": "https://i.postimg.cc/Z5MNFwdp/779823e3-f439-4485-ba28-af66860b3c88.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 1777039519573,
     "nombre": "NEBULIZADOR ADULTO NIÑO RECARGABLE Y A PILAS ",
-    "precio": 17100,
+    "precio": 14500,
     "foto": "https://i.postimg.cc/bvnZ0p8f/41da3265-05e3-425d-8473-f36d0019eda2.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -2666,7 +2586,7 @@
   {
     "id": 1777039707205,
     "nombre": "SET DE HERRAMIENTAS + LINTERNA CON PANEL SOLAR ",
-    "precio": 22300,
+    "precio": 24500,
     "foto": "https://i.postimg.cc/ryj7y4WT/b0f41b7e-ed9f-4bd8-b945-7f55bfb52aec.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -2677,7 +2597,7 @@
     "precio": 14900,
     "foto": "https://i.postimg.cc/RVb8KzXp/fa0d2796-118f-4c15-b5a2-0f54045feab7.jpg",
     "categoria": "TODO PARA HOMBRES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777039984277,
@@ -2706,7 +2626,7 @@
   {
     "id": 1777558792560,
     "nombre": "JOYSTICK PLAY 4 SONY ",
-    "precio": 23500,
+    "precio": 24500,
     "foto": "https://i.postimg.cc/HkMPfJtt/fb347458-710b-47b9-96b3-41732358e9c8.jpg",
     "categoria": "COMPUTACION",
     "suspendido": false
@@ -2722,7 +2642,7 @@
   {
     "id": 1777558837392,
     "nombre": "ZAPATILLA REFORZADO CON CORTE DE CORRIENTE",
-    "precio": 10500,
+    "precio": 9800,
     "foto": "https://i.postimg.cc/zXZRYF8s/855d6868-b81c-4564-b19e-9082196a7f7d.jpg",
     "categoria": "ELECTRICIDAD ",
     "suspendido": false
@@ -2733,14 +2653,6 @@
     "precio": 20250,
     "foto": "https://i.postimg.cc/9QcRrX44/2b78f996-e09e-44fd-97e7-fca412f55faa.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
-  },
-  {
-    "id": 1777558889896,
-    "nombre": "RADIO VINTAGE AM/FM USB RECARGABLE KTF 2016",
-    "precio": 21900,
-    "foto": "https://i.postimg.cc/kgwV8r8y/e1bc1414-370d-426c-bb71-aebbc0fb1976.jpg",
-    "categoria": "PARLANTES",
     "suspendido": false
   },
   {
@@ -2773,7 +2685,7 @@
     "precio": 2950,
     "foto": "https://i.postimg.cc/4yhqTvVZ/0caf5f91-6a11-4f39-bb8b-2e578a84a88e.jpg",
     "categoria": "CARGADORES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1778685707304,
@@ -2810,7 +2722,7 @@
   {
     "id": 1778688993951,
     "nombre": "CARGADOR CABEZAL PRO MAX 20 W + CABLE TIPO C A I PHONE ",
-    "precio": 5250,
+    "precio": 6000,
     "foto": "https://i.postimg.cc/g0HnzvN6/7c2d7512-bf9f-41fc-ae2e-2f21de1eec0c.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -2824,44 +2736,12 @@
     "suspendido": false
   },
   {
-    "id": 1779819607970,
-    "nombre": "LINTERNA LED MINI USB RECARGABLE BLISTER SD 8677",
-    "precio": 3500,
-    "foto": "https://i.postimg.cc/pX275XR9/a61e2148-d3f6-42fe-ba4d-419233bf9530.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": true
-  },
-  {
     "id": 1779819649562,
     "nombre": "CAMARA IP FIJA EXTERIOR CON WIFI ",
-    "precio": 29500,
+    "precio": 31500,
     "foto": "https://i.postimg.cc/J4PFNVzK/f3497798-2705-4653-b57b-9d2e2fbf5fbb.jpg",
     "categoria": "VARIOS",
     "suspendido": false
-  },
-  {
-    "id": 1779819725489,
-    "nombre": "GORRO CORDERITO + CUELLO UNISEX ",
-    "precio": 5400,
-    "foto": "https://i.postimg.cc/vZTNXq1w/fdebee5e-8016-485e-a7b2-ae9dcbd3c0b6.jpg",
-    "categoria": "INVIERNO ",
-    "suspendido": false
-  },
-  {
-    "id": 1779819920113,
-    "nombre": "RADIO BT AM FM CON PANEL SOLAR 1488",
-    "precio": 16900,
-    "foto": "https://i.postimg.cc/Ghh7h7xG/d246dbdd-eff1-4cdc-b363-743e6ed24bc3.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 1779819986593,
-    "nombre": "LINTERNA LED USB RECARGABLE SF-502A ",
-    "precio": 3800,
-    "foto": "https://i.postimg.cc/L66C6C3S/11c153e8-abb4-41b6-83c5-18563960c137.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": true
   },
   {
     "id": 1779820061450,
@@ -2872,17 +2752,9 @@
     "suspendido": false
   },
   {
-    "id": 1779820194442,
-    "nombre": "SECADORA DE PELO 2300W",
-    "precio": 16100,
-    "foto": "https://i.postimg.cc/3xzn1K5g/b09a393c-07d8-4c5e-8ab7-bbf733884b19.jpg",
-    "categoria": "TODO PARA MUJERES ",
-    "suspendido": true
-  },
-  {
     "id": 1779820403650,
     "nombre": "BATIDORA ELECTRICA  7 VELOCIDADES ",
-    "precio": 15200,
+    "precio": 15900,
     "foto": "https://i.postimg.cc/5tMk1xPK/ab5bafc7-8dac-4609-a4a9-5b63a3130bab.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -2930,7 +2802,7 @@
   {
     "id": 1779835043236,
     "nombre": "DESTORNILLADOR CON MANGO DE GOMA X 6",
-    "precio": 5500,
+    "precio": 5800,
     "foto": "https://i.postimg.cc/Lscj7pSh/c41f3ad7-520a-4b11-a22f-47befd3bbacc.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -2938,7 +2810,7 @@
   {
     "id": 1779835086860,
     "nombre": "DESTORNILLADOR X 2 + BUSCA POLO ",
-    "precio": 2450,
+    "precio": 2650,
     "foto": "https://i.postimg.cc/Jhkkj2Xn/46033d9b-35f1-4a2d-859f-07058361e8b2.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -3018,7 +2890,7 @@
   {
     "id": 1781185864416,
     "nombre": "JUEGO SET DE POKER COMPLETO ",
-    "precio": 15800,
+    "precio": 17500,
     "foto": "https://i.postimg.cc/SRYKmZLt/a9fbf8f8-df16-42db-abe8-2db027b71a5b.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -3034,7 +2906,7 @@
   {
     "id": 1781186083773,
     "nombre": "LINTERNA DE CAMPING + PANEL SOLAR NY-98008",
-    "precio": 6750,
+    "precio": 7100,
     "foto": "https://i.postimg.cc/y8HrXkGZ/1d03a6f0-8dc7-4ef1-917a-bba48839b749.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -3053,12 +2925,12 @@
     "precio": 7000,
     "foto": "https://i.postimg.cc/Px9SLxZH/8b00316e-df59-4fa1-bfb8-d236e7268921.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1781186448716,
     "nombre": "CARGADOR CABEZAL AUTO 45W + ENTRADA TIPO C + USB ",
-    "precio": 3450,
+    "precio": 3600,
     "foto": "https://i.postimg.cc/q7ZLYR1k/72180970-0bf5-4ee0-a319-7e83440ddb8c.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -3074,7 +2946,7 @@
   {
     "id": 1781186579653,
     "nombre": "CALCULADORA KARUDIA 12 DIGITOS KK-2100",
-    "precio": 5600,
+    "precio": 5950,
     "foto": "https://i.postimg.cc/fWdK2Mmz/443e399e-38e3-4591-9ea8-d644a4e59e72.jpg",
     "categoria": "LIBRERIA",
     "suspendido": false
@@ -3097,7 +2969,7 @@
   },
   {
     "id": 1781201572987,
-    "nombre": "CARGADOR CABEZAL SAMNSUNG  + CABLE TIPO C A TIPO C 45W ",
+    "nombre": "CARGADOR CABEZAL SAMSUNG  + CABLE TIPO C A TIPO C 45W ",
     "precio": 7100,
     "foto": "https://i.postimg.cc/7ZvvKjwP/f557f9c3-c2a8-45e1-a956-e0605f988ae4.jpg",
     "categoria": "CARGADORES",
@@ -3109,7 +2981,7 @@
     "precio": 5000,
     "foto": "https://i.postimg.cc/rw5B3gwS/7c475eaa-1e80-416e-9f71-ba63c046c0c5.jpg",
     "categoria": "TODO PARA HOMBRES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1782415897573,
@@ -3186,7 +3058,7 @@
   {
     "id": 1782416978899,
     "nombre": "LLAVE FRANCESA DE 8 PULGADAS ",
-    "precio": 5200,
+    "precio": 5900,
     "foto": "https://i.postimg.cc/P52wsxgp/84616ee1-c882-4817-8efd-3a6c9df2ff14.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -3226,15 +3098,15 @@
   {
     "id": 1782424008174,
     "nombre": "CARGADOR IBEK 2.6 TIPO C + CABLE DESMONTABLE ",
-    "precio": 2600,
+    "precio": 2800,
     "foto": "https://i.postimg.cc/GpW6ccYm/777043385659.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
   },
   {
     "id": 1782516254095,
-    "nombre": "MOUSE OPTICO CON CABLE ",
-    "precio": 3900,
+    "nombre": "MOUSE OPTICO NOGA CON CABLE ",
+    "precio": 2500,
     "foto": "https://i.postimg.cc/pTncrQdZ/c0d4ae40-bc39-43af-93e1-78fd38b4d56f.jpg",
     "categoria": "COMPUTACION",
     "suspendido": false
@@ -3245,15 +3117,15 @@
     "precio": 5100,
     "foto": "https://i.postimg.cc/3N5Svyyf/33150f64-bb65-438f-aec7-4217e058b17c.jpg",
     "categoria": "COMPUTACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1782516309503,
-    "nombre": "MOUSE INALAMBRICO ",
+    "nombre": "MOUSE INALAMBRICO YELANDAR",
     "precio": 4900,
     "foto": "https://i.postimg.cc/JnBY03hr/dae8cedb-9948-483b-a909-adaf1da35980.jpg",
     "categoria": "COMPUTACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1782516520620,
@@ -3330,7 +3202,7 @@
   {
     "id": 1783475595288,
     "nombre": "RELOJ DESPERTADOR DIGITAL MULTIFUNCION ",
-    "precio": 6900,
+    "precio": 4900,
     "foto": "https://i.postimg.cc/vHkttfsJ/4bbf61db-4d2f-4e24-baf4-d534d8fc1ff4.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -3386,7 +3258,7 @@
   {
     "id": 1785763992905,
     "nombre": "ESPEJO CON LUZ LED FORMA CORAZON ",
-    "precio": 7700,
+    "precio": 8100,
     "foto": "https://i.postimg.cc/kgFxHMsC/68e29001-71bd-4ec9-8d23-aa35a2eb12cb.jpg",
     "categoria": "TODO PARA MUJERES ",
     "suspendido": false
@@ -3394,7 +3266,7 @@
   {
     "id": 1785767152171,
     "nombre": "CALCULADORA KARUDIA 12 DIGITOS KK-8835B",
-    "precio": 4600,
+    "precio": 4800,
     "foto": "https://i.postimg.cc/9fR5xg5j/fdb25b42-9e28-4fb0-a1f6-cc72128b6ae7.jpg",
     "categoria": "LIBRERIA",
     "suspendido": false
@@ -3402,7 +3274,7 @@
   {
     "id": 1785767248063,
     "nombre": "CARGADOR DE BATERIA AUTO - MOTO 12V ",
-    "precio": 24900,
+    "precio": 25500,
     "foto": "https://i.postimg.cc/C503xFZp/c7331f69-5477-4fee-a107-1ba667c3491f.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -3410,15 +3282,15 @@
   {
     "id": 1785767368828,
     "nombre": "SOPORTE TV FIJO 26-63 ",
-    "precio": 4450,
+    "precio": 4600,
     "foto": "https://i.postimg.cc/65YkBxtm/56799fc4-0a65-404c-9fb4-4df089b03b26.jpg",
-    "categoria": "HOGAR",
+    "categoria": "VARIOS",
     "suspendido": false
   },
   {
     "id": 1785767456841,
     "nombre": "LAMPARA DE ESCRITORIO T-308",
-    "precio": 7850,
+    "precio": 8100,
     "foto": "https://i.postimg.cc/XJfPhTs9/a61bee94-1443-419b-a630-27a515a1a3cc.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -3457,8 +3329,8 @@
   },
   {
     "id": 1785769603974,
-    "nombre": "SET DE TUBO CAJA X 40PCS CHICO ",
-    "precio": 1,
+    "nombre": "SET DE TUBO CAJA X 40 PCS CHICO ",
+    "precio": 8900,
     "foto": "https://i.postimg.cc/CxW7Ccwr/60e4e8d5-4d4c-4e84-a70b-23cc5953407c.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -3466,9 +3338,65 @@
   {
     "id": 1785769652318,
     "nombre": "SET DE LLAVES TUBO CAJA X 40 PCS GRANDE ",
-    "precio": 1,
+    "precio": 12900,
     "foto": "https://i.postimg.cc/ZRmL20BF/9bdbb16a-2538-4dbd-9881-ed5e08070388.jpg",
     "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785871990179,
+    "nombre": "SET DE ALICATES X 5 EXCELENTE CALIDAD ",
+    "precio": 12500,
+    "foto": "https://i.postimg.cc/FsTSqcTx/53e6c551-ec22-45e0-99cc-4729f2851e9b.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785873036391,
+    "nombre": "CINTA TEFLON 3/4\"",
+    "precio": 800,
+    "foto": "https://i.postimg.cc/43yn9SGP/df2d7930-6570-417e-9c8d-4a8ad2d5d4f7.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785873136179,
+    "nombre": "CUTTER REFORZADO ",
+    "precio": 1450,
+    "foto": "https://i.postimg.cc/XJV3T2NQ/f4808ac8-dd3a-44d2-bd9a-1ed7042d67ab.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1785873618334,
+    "nombre": "MOUSE INALAMBRICO AITECH 4 BOTONES AI-032",
+    "precio": 3900,
+    "foto": "https://i.postimg.cc/JnfwRPMT/ef28fd29-56c0-49fb-b950-706ab8acfe4e.jpg",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1785873671133,
+    "nombre": "MOUSE INALAMBRICO AITECH AI-202",
+    "precio": 3750,
+    "foto": "https://i.postimg.cc/JnfwRPMT/ef28fd29-56c0-49fb-b950-706ab8acfe4e.jpg",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1785873807418,
+    "nombre": "CABEZAL HYTOSHY CARGA ULTRA RAPIDA 100W CON ENTRADA USB + C ",
+    "precio": 5600,
+    "foto": "https://i.postimg.cc/NfLX3D5M/b7dbcb8a-5a2b-4ea1-bbf4-81587eb92564.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1785873944851,
+    "nombre": "CARGADOR ROYALCELL TIPO C 2.4",
+    "precio": 2750,
+    "foto": "https://i.postimg.cc/pLHFmHqw/111595cd-e846-4a0d-8975-a3f62586d0c8.jpg",
+    "categoria": "CARGADORES",
     "suspendido": false
   }
 ]
