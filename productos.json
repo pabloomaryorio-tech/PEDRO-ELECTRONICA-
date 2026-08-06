@@ -456,14 +456,6 @@
     "suspendido": false
   },
   {
-    "id": 122,
-    "nombre": "CORTA PELO RECARGABLE DORADO J8/J9 ( METAL)",
-    "precio": 5400,
-    "foto": "https://i.postimg.cc/YC5t4BWS/CRT-110008.jpg",
-    "categoria": "TODO PARA HOMBRES",
-    "suspendido": true
-  },
-  {
     "id": 123,
     "nombre": "CORTA PELO RECARGABLE + LINTERNA",
     "precio": 7900,
@@ -2192,14 +2184,6 @@
     "suspendido": false
   },
   {
-    "id": 516,
-    "nombre": "PENDRIVE KINGSTON 64 GB",
-    "precio": 18200,
-    "foto": "https://i.postimg.cc/TwqSD6JG/756fa3d8-ac81-4744-8fa5-da8d7d4658e9.jpg",
-    "categoria": "MEMORIA Y PENDRIVE",
-    "suspendido": false
-  },
-  {
     "id": 517,
     "nombre": "MEMORIA SANDISK 16 GB",
     "precio": 11500,
@@ -2974,14 +2958,6 @@
     "foto": "https://i.postimg.cc/7ZvvKjwP/f557f9c3-c2a8-45e1-a956-e0605f988ae4.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
-  },
-  {
-    "id": 1781201632925,
-    "nombre": "CORTADORA DE PELO BUDA + USB RECARGABLE ",
-    "precio": 5000,
-    "foto": "https://i.postimg.cc/rw5B3gwS/7c475eaa-1e80-416e-9f71-ba63c046c0c5.jpg",
-    "categoria": "TODO PARA HOMBRES",
-    "suspendido": true
   },
   {
     "id": 1782415897573,
