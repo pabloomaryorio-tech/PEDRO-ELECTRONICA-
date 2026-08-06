@@ -3398,5 +3398,101 @@
     "foto": "https://i.postimg.cc/pLHFmHqw/111595cd-e846-4a0d-8975-a3f62586d0c8.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
+  },
+  {
+    "id": 1786028659460,
+    "nombre": "CORTADORA DE PELO USB RECARGLE DE METAL",
+    "precio": 5700,
+    "foto": "https://i.postimg.cc/HLjzJ0sc/ea95cd90-08e3-48a7-99f3-45e89038cfa4.jpg",
+    "categoria": "TODO PARA HOMBRES",
+    "suspendido": false
+  },
+  {
+    "id": 1786028784820,
+    "nombre": "PELOTA DE FUTBOL N° 5 RIVER - BOCA",
+    "precio": 8400,
+    "foto": "https://i.postimg.cc/XvwJkmvR/de574ee8-5929-454d-87c7-73be713b66f2.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1786028891092,
+    "nombre": "PELOTA DE BASKET BALL N° 7",
+    "precio": 8900,
+    "foto": "https://i.postimg.cc/Zn042MTK/d19a5081-9aa9-4116-a850-1a4c481a696e.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1786029026455,
+    "nombre": "SET BROCHAS DE MAQUILLAJES X 11 PIEZAS ",
+    "precio": 7800,
+    "foto": "https://i.postimg.cc/KvMyTL4X/449b2618-0c7d-429c-a291-d3ad6d93946c.jpg",
+    "categoria": "TODO PARA MUJERES ",
+    "suspendido": false
+  },
+  {
+    "id": 1786029117128,
+    "nombre": "KIT ASADOR DE ACERO X 3 PIEZAS ",
+    "precio": 13800,
+    "foto": "https://i.postimg.cc/vmqQhyy6/f278cd8d-ccac-407e-a352-6ce40521bf63.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1786029200421,
+    "nombre": "VASO DOBLE VIDRIO DE 150 ML",
+    "precio": 3200,
+    "foto": "https://i.postimg.cc/g24dcpnr/efcb090f-3e3f-4256-b70d-f005c719305e.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1786029285804,
+    "nombre": "CORTA PELO DRAGON USB RECARGABLE ",
+    "precio": 11800,
+    "foto": "https://i.postimg.cc/WbnxgnTz/89fc8e3b-763b-4914-b610-cdadbfa095a7.jpg",
+    "categoria": "TODO PARA HOMBRES",
+    "suspendido": false
+  },
+  {
+    "id": 1786029382346,
+    "nombre": "BATIDORA MINI PIMER 500 W",
+    "precio": 22500,
+    "foto": "https://i.postimg.cc/BbJMnr8s/c09482cc-bc8f-4248-bfd3-bc7e56624e03.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1786029487006,
+    "nombre": "REFLECTOR LED CON PANEL SOLAR RECARGABLE Y SENSOR DE MOVIMIENTO ",
+    "precio": 4700,
+    "foto": "https://i.postimg.cc/5yPqN6dG/57b89dec-7801-448f-a45c-2b4f310baa49.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1786029724963,
+    "nombre": "RADIO AM/FM PANEL SOLAR USB RECARGABLE KTF 1490",
+    "precio": 17500,
+    "foto": "https://i.postimg.cc/PfFwJGv6/dcfe7a70-36bf-437b-bddf-764fb23f1fcd.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1786030005227,
+    "nombre": "RADIO RETRO AM/FM USB RECARGABLE KTF- 2281",
+    "precio": 8900,
+    "foto": "https://i.postimg.cc/tRLFDQRr/8a3520f6-17dd-492f-ac7a-32f86ddd79bc.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1786030221385,
+    "nombre": "PENDRIVE KINGSTON DE 16 GB",
+    "precio": 12000,
+    "foto": "https://i.postimg.cc/4y8qkf8Y/b0e3327d-b855-43b1-9aa9-52467bd82397.jpg",
+    "categoria": "MEMORIA Y PENDRIVE",
+    "suspendido": false
   }
 ]
