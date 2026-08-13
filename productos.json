@@ -37,7 +37,7 @@
     "precio": 3150,
     "foto": "https://i.postimg.cc/Wz956m8S/CAR-53004.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 13,
@@ -58,7 +58,7 @@
   {
     "id": 15,
     "nombre": "CARGADOR PUXIDA TIPO C 3.1",
-    "precio": 3950,
+    "precio": 3750,
     "foto": "https://i.postimg.cc/g2s95CCs/Whats-App-Image-2025-09-10-at-20-57-10.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -66,7 +66,7 @@
   {
     "id": 16,
     "nombre": "CARGADOR PUXIDA V8 3.1",
-    "precio": 3750,
+    "precio": 3450,
     "foto": "https://i.postimg.cc/025bhs3X/Whats-App-Image-2025-09-10-at-23-33-24.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -125,7 +125,7 @@
     "precio": 1550,
     "foto": "https://i.postimg.cc/wMK5Yd3B/CABLE-PUNTA-METAL.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 29,
@@ -290,10 +290,10 @@
   {
     "id": 80,
     "nombre": "PAVA ELECTRICA CON CORTE MATE 2.0 LT",
-    "precio": 19300,
+    "precio": 21500,
     "foto": "https://i.postimg.cc/WpBHb8K6/STJC150.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 85,
@@ -344,28 +344,12 @@
     "suspendido": false
   },
   {
-    "id": 93,
-    "nombre": "AURICULAR BT INALAMBRICO JK-604",
-    "precio": 6550,
-    "foto": "https://i.postimg.cc/c4s6Vj8d/AURIJK604.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
-  },
-  {
     "id": 94,
     "nombre": "AURICULAR BT INALAMBRICO JK-607",
     "precio": 8900,
     "foto": "https://i.postimg.cc/Mp9BPwPx/AURIKK607.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false
-  },
-  {
-    "id": 96,
-    "nombre": "AURICULAR BT INALAMBRICO V5.0",
-    "precio": 6800,
-    "foto": "https://i.postimg.cc/t4wfgb80/AURI.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
   },
   {
     "id": 98,
@@ -387,9 +371,9 @@
     "id": 103,
     "nombre": "AURICULAR BT INALAMBRICO P9 PRO MAX",
     "precio": 6400,
-    "foto": "https://i.postimg.cc/wB1xs9w0/AURI-P9.jpg",
+    "foto": "https://i.postimg.cc/wT1Sn3Hd/632edbfb-3e0c-4dc0-ad20-5e163611c1d6.jpg",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 106,
@@ -413,7 +397,7 @@
     "precio": 6500,
     "foto": "https://i.postimg.cc/CLFTh6M2/ESP-4205.jpg",
     "categoria": "TODO PARA MUJERES ",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 109,
@@ -550,14 +534,6 @@
     "foto": "https://i.postimg.cc/zGT0Z4Th/PIZ-140-N13.jpg",
     "categoria": "LIBRERIA",
     "suspendido": false
-  },
-  {
-    "id": 156,
-    "nombre": "VELADOR BROCHE PINZA",
-    "precio": 7300,
-    "foto": "https://i.postimg.cc/R0hDKXjb/VEL-81053.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": true
   },
   {
     "id": 160,
@@ -843,7 +819,7 @@
     "id": 224,
     "nombre": "REPETIDOR WIFI",
     "precio": 13500,
-    "foto": "https://i.postimg.cc/PJrJV3CP/1f1f9d71-3294-406c-a222-53769034986b.jpg",
+    "foto": "https://i.postimg.cc/1z8KWZPd/0b606aac-1946-4c3e-9e53-cffa031e4aaa.jpg",
     "categoria": "TECNOLOGIA",
     "suspendido": false
   },
@@ -1133,7 +1109,7 @@
     "precio": 3200,
     "foto": "https://i.postimg.cc/JzbJPYDP/IMG-8020.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 332,
@@ -1144,20 +1120,12 @@
     "suspendido": false
   },
   {
-    "id": 333,
-    "nombre": "AURICULAR BT INALAMBRICO JS 25",
-    "precio": 8300,
-    "foto": "https://i.postimg.cc/PJCT2qyb/IMG-8021.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
-  },
-  {
     "id": 334,
     "nombre": "AURICULAR BT INALAMBRICO JS 52 CON POWER BANK",
     "precio": 9100,
     "foto": "https://i.postimg.cc/ZYXCXkNS/IMG-8022.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 336,
@@ -1266,7 +1234,7 @@
   {
     "id": 351,
     "nombre": "CABLE USB TIPO C IBEK 6 AMP",
-    "precio": 2100,
+    "precio": 1950,
     "foto": "https://i.postimg.cc/hv9wczS8/IMG-8045.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -1382,22 +1350,6 @@
     "foto": "https://i.postimg.cc/5N5q1cz0/IMG-8064.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false
-  },
-  {
-    "id": 373,
-    "nombre": "CARGADOR IBEK V8 3.8",
-    "precio": 2750,
-    "foto": "https://i.postimg.cc/GtR08wmG/IMG-8070.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": true
-  },
-  {
-    "id": 374,
-    "nombre": "CARGADOR IBEK TIPO C 3.8",
-    "precio": 2850,
-    "foto": "https://i.postimg.cc/GtR08wmG/IMG-8070.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": true
   },
   {
     "id": 376,
@@ -1722,10 +1674,10 @@
   {
     "id": 430,
     "nombre": "LINTERNA LED USB RECARGABLE S 65",
-    "precio": 6250,
+    "precio": 5950,
     "foto": "https://i.postimg.cc/ryYPZVYr/IMG-8148.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 432,
@@ -1760,14 +1712,6 @@
     "suspendido": false
   },
   {
-    "id": 437,
-    "nombre": "LAMPARA FAROL LED CAMPING USB RECARGABLE",
-    "precio": 9300,
-    "foto": "https://i.postimg.cc/rwpGBx0c/IMG-8143.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": true
-  },
-  {
     "id": 438,
     "nombre": "LINTERNA COB LUZ DE TRABAJO",
     "precio": 8750,
@@ -1777,7 +1721,7 @@
   },
   {
     "id": 440,
-    "nombre": "LAMPARA CON SENSOR SOLAR BK100",
+    "nombre": "LAMPARA ENCENDIDO CON SENSOR DE MOVIMIENTO + PANEL SOLAR BK100",
     "precio": 5100,
     "foto": "https://i.postimg.cc/LXv8FYZ2/IMG-8142.jpg",
     "categoria": "ILUMINACION",
@@ -1840,14 +1784,6 @@
     "suspendido": false
   },
   {
-    "id": 452,
-    "nombre": "PIZARRA LCD A COLOR DE 16 PULGADAS",
-    "precio": 6100,
-    "foto": "https://i.postimg.cc/LXBKrrwZ/IMG-8164.jpg",
-    "categoria": "LIBRERIA",
-    "suspendido": false
-  },
-  {
     "id": 456,
     "nombre": "PELUCHE LABUBU SORPRESA",
     "precio": 7900,
@@ -1878,14 +1814,6 @@
     "foto": "https://i.postimg.cc/RF3Hq75F/IMG-8137.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
-  },
-  {
-    "id": 460,
-    "nombre": "VELADOR LED PINZA USB RECARGABLE",
-    "precio": 6100,
-    "foto": "https://i.postimg.cc/wTx9V6Mw/2c242dfe-de36-4ec6-a392-860dfef2dbca.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": true
   },
   {
     "id": 464,
@@ -1924,14 +1852,6 @@
     "nombre": "SACA CORCHO DE METAL",
     "precio": 3600,
     "foto": "https://i.postimg.cc/cLbkvNrD/IMG-8179.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 469,
-    "nombre": "DESTAPADOR",
-    "precio": 1850,
-    "foto": "https://i.postimg.cc/gkcg40hr/IMG-8207.jpg",
     "categoria": "HOGAR",
     "suspendido": false
   },
@@ -2106,7 +2026,7 @@
   {
     "id": 492,
     "nombre": "PARLANTE BT INALAMBRICO C/MICROFONO GTS 1222",
-    "precio": 17900,
+    "precio": 18300,
     "foto": "https://i.postimg.cc/LXKVK9bq/IMG-8210.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
@@ -2130,7 +2050,7 @@
   {
     "id": 502,
     "nombre": "RADIO AM FM PANEL SOLAR + USB RECARGABLE KTF 2209",
-    "precio": 21700,
+    "precio": 23700,
     "foto": "https://i.postimg.cc/MZyz89vf/IMG-8220.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
@@ -2346,7 +2266,7 @@
   {
     "id": 1775836622645,
     "nombre": "CARGADOR CABEZAL I PHONE USB C 35W ",
-    "precio": 3750,
+    "precio": 4200,
     "foto": "https://i.postimg.cc/wTcmfmZw/305165d9-4bad-42ca-8a04-3241b6755551.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -2398,14 +2318,6 @@
     "foto": "https://i.postimg.cc/L5qMqLfh/19032dbb-3638-4dfd-9d30-4d17f9ad5c89.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
-  },
-  {
-    "id": 1775837628638,
-    "nombre": "AURICULAR BT INALAMBRICO JK 608",
-    "precio": 6500,
-    "foto": "https://i.postimg.cc/g0BgqzRm/IMG-8945.png",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
   },
   {
     "id": 1775837732415,
@@ -2482,7 +2394,7 @@
   {
     "id": 1776437052853,
     "nombre": "RADIO VINTAGE BT/FM/MP3 RECARGABLE GTS 1959",
-    "precio": 8500,
+    "precio": 9300,
     "foto": "https://i.postimg.cc/fbsNPkNj/129303cf-6b6e-4fbb-9b6e-388c9546a9e6.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
@@ -2565,7 +2477,7 @@
     "precio": 17800,
     "foto": "https://i.postimg.cc/j2M18VKL/bb9fe488-2a2e-4803-814c-cd86b46c2dd3.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777039707205,
@@ -2616,14 +2528,6 @@
     "suspendido": false
   },
   {
-    "id": 1777558812240,
-    "nombre": "AURICULAR BT INALAMBRICO JK 603",
-    "precio": 5600,
-    "foto": "https://i.postimg.cc/pT35TD8V/0eb10a75-fffd-432d-9026-ca3ba3b3b935.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
-  },
-  {
     "id": 1777558837392,
     "nombre": "ZAPATILLA REFORZADO CON CORTE DE CORRIENTE",
     "precio": 9800,
@@ -2661,14 +2565,6 @@
     "precio": 2100,
     "foto": "https://i.postimg.cc/zDHbbLkW/94998b27-84ca-47ef-a666-72ed6235dc8d.jpg",
     "categoria": "INVIERNO ",
-    "suspendido": false
-  },
-  {
-    "id": 1778685574666,
-    "nombre": "CARGADOR TIPO C IBEK 2.6 AMP ",
-    "precio": 2950,
-    "foto": "https://i.postimg.cc/4yhqTvVZ/0caf5f91-6a11-4f39-bb8b-2e578a84a88e.jpg",
-    "categoria": "CARGADORES",
     "suspendido": false
   },
   {
@@ -2768,14 +2664,6 @@
     "suspendido": false
   },
   {
-    "id": 1779834960798,
-    "nombre": "LINTERNA USB RECARGABLE CON ZOOM  ",
-    "precio": 7950,
-    "foto": "https://i.postimg.cc/nzxCBcZ4/26afe0a1-441d-4b00-b874-01dc97952ed4.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": true
-  },
-  {
     "id": 1779834989699,
     "nombre": "GUANTE MOTEADO DE TRABAJO ",
     "precio": 1000,
@@ -2856,22 +2744,6 @@
     "suspendido": false
   },
   {
-    "id": 1780342976603,
-    "nombre": "FRUTERO GRANDE ",
-    "precio": 1500,
-    "foto": "https://i.postimg.cc/SKg943yD/3b25e808-df9d-4d01-9f61-f3b1bebc153b.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1780343111552,
-    "nombre": "PLATO PARA BEBE CON DIVISIONES ",
-    "precio": 1200,
-    "foto": "https://i.postimg.cc/RF9SZQT2/189e9fdd-fee4-40f4-8565-de6d93752919.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 1781185864416,
     "nombre": "JUEGO SET DE POKER COMPLETO ",
     "precio": 17500,
@@ -2904,20 +2776,12 @@
     "suspendido": false
   },
   {
-    "id": 1781186371644,
-    "nombre": "CARGADOR 68W PD CON CABLE + ENTRADA USB + TIPO C ",
-    "precio": 7000,
-    "foto": "https://i.postimg.cc/Px9SLxZH/8b00316e-df59-4fa1-bfb8-d236e7268921.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": true
-  },
-  {
     "id": 1781186448716,
     "nombre": "CARGADOR CABEZAL AUTO 45W + ENTRADA TIPO C + USB ",
     "precio": 3600,
     "foto": "https://i.postimg.cc/q7ZLYR1k/72180970-0bf5-4ee0-a319-7e83440ddb8c.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1781186510876,
@@ -2981,7 +2845,7 @@
     "precio": 3800,
     "foto": "https://i.postimg.cc/0jwY9sYv/a9f83671-8f71-4814-836b-c8b173da2530.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1782416293206,
@@ -3077,7 +2941,7 @@
     "precio": 2800,
     "foto": "https://i.postimg.cc/GpW6ccYm/777043385659.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1782516254095,
@@ -3089,11 +2953,11 @@
   },
   {
     "id": 1782516285590,
-    "nombre": "MOUSE INALAMBRICO COLORES ",
-    "precio": 5100,
+    "nombre": "MOUSE INALAMBRICO",
+    "precio": 4500,
     "foto": "https://i.postimg.cc/3N5Svyyf/33150f64-bb65-438f-aec7-4217e058b17c.jpg",
     "categoria": "COMPUTACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1782516309503,
@@ -3160,14 +3024,6 @@
     "suspendido": false
   },
   {
-    "id": 1782516988186,
-    "nombre": "CARGADOR TIPO C A C 125W CON CABLE DESMONTABLE ",
-    "precio": 7450,
-    "foto": "https://i.postimg.cc/yNGr7p7z/aa0a21bf-121a-4bc2-b262-a180990a4b82.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": true
-  },
-  {
     "id": 1783475540039,
     "nombre": "KIT DE REPARACION PARA BICI ",
     "precio": 2300,
@@ -3202,7 +3058,7 @@
   {
     "id": 1784746009797,
     "nombre": "PARLANTE BT INALAMBRICO POP ART 3 PLG ",
-    "precio": 7850,
+    "precio": 8700,
     "foto": "https://i.postimg.cc/5tNfrRTT/0fef2119-cdb7-43ff-8f3e-86974139383d.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
@@ -3362,7 +3218,7 @@
   {
     "id": 1785873807418,
     "nombre": "CABEZAL HYTOSHY CARGA ULTRA RAPIDA 100W CON ENTRADA USB + C ",
-    "precio": 5600,
+    "precio": 5700,
     "foto": "https://i.postimg.cc/NfLX3D5M/b7dbcb8a-5a2b-4ea1-bbf4-81587eb92564.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -3476,6 +3332,86 @@
     "nombre": "CARGADOR LEGATUS TIPO C 5 AMP. ",
     "precio": 3900,
     "foto": "https://i.postimg.cc/Nfxp5HqR/26785cdb-6604-4b64-a8da-d4f12ff77c5f.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1786628822298,
+    "nombre": "LINTERNA MINI 3 LED USB RECARGABLE ",
+    "precio": 2450,
+    "foto": "https://i.postimg.cc/vZHhVVK1/cabe6d16-56c4-49f7-bb8a-ef15fb3b829a.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1786628958353,
+    "nombre": "AURICULAR MANOS LIBRE CON FICHA C BOLSA ",
+    "precio": 2250,
+    "foto": "https://i.postimg.cc/J0Lc4DJr/2e946e7d-c6d1-44b0-a3a4-9d84839d440e.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1786629024582,
+    "nombre": "AURICULAR BT INALAMBRICO LEGATUS ",
+    "precio": 6300,
+    "foto": "https://i.postimg.cc/G3FxgKwd/4d3760ef-00ad-46d1-af46-338b47c148c2.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 1786629196672,
+    "nombre": "LINTERNA CON ZOOM USB RECARGABLE 4176",
+    "precio": 4950,
+    "foto": "https://i.postimg.cc/Sxv6Yt8z/893661c3-3e84-4bb9-a8df-9df00d0a10ac.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1786629398137,
+    "nombre": "CARGADOR IBEK 35W + CABLE  C - C",
+    "precio": 6250,
+    "foto": "https://i.postimg.cc/KznBVGWs/38d6f35d-eb84-4fe2-9869-c5fea892f83c.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1786629577882,
+    "nombre": "LINTERNA USB RECARGABLE BLISTER ",
+    "precio": 3800,
+    "foto": "https://i.postimg.cc/d3wrKMP8/a3ddcee8-35df-4fd4-aab9-7918c83a5f50.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1786629867383,
+    "nombre": "LINTERNA 7 LED USB RECARGABLE  LY-825",
+    "precio": 5450,
+    "foto": "https://i.postimg.cc/0yhqXPD6/e49e2e0c-c8a6-4927-96e9-a661f4441f80.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1786629963555,
+    "nombre": "CARGADOR IBEK 25W CON CABLE TIPO C A C ",
+    "precio": 6900,
+    "foto": "https://i.postimg.cc/RCGx5cwB/9505ebd4-0a3d-4db1-82a3-42508bdb121e.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1786631240916,
+    "nombre": "TERMOMETRO DE COCINA ",
+    "precio": 2600,
+    "foto": "https://i.postimg.cc/RFJ741DJ/shopping.webp",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1786633534940,
+    "nombre": "FUNTE DE ALIMENTACION UNIVERSAL 12V 3A",
+    "precio": 2900,
+    "foto": "https://i.postimg.cc/gk1fpdkV/96ec4945-21fd-42a9-8813-668a9f7a3786.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
   }
