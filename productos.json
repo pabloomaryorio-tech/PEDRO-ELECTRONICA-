@@ -3414,5 +3414,117 @@
     "foto": "https://i.postimg.cc/gk1fpdkV/96ec4945-21fd-42a9-8813-668a9f7a3786.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
+  },
+  {
+    "id": 1786804506441,
+    "nombre": "PURIFICADOR DE AGUA ",
+    "precio": 7600,
+    "foto": "https://i.postimg.cc/MHPnChMq/19a7c90c-531c-41fd-993d-fe8795ab8bf3.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1786804755885,
+    "nombre": "PARLANTE BT INALAMBRICO 6,5\" CON MICROFONO GTS - 2138",
+    "precio": 30950,
+    "foto": "https://i.postimg.cc/GhXffzM2/ee33fe8c-b4ad-456f-aa69-305e628fbcef.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1786805492231,
+    "nombre": "SET DE RELOJ + AURICULAR INALAMBRICO ",
+    "precio": 1,
+    "foto": "https://i.postimg.cc/MHT4DrCQ/6c483557-c69e-43a1-a7d0-94985ba87d96.jpg",
+    "categoria": "RELOJES",
+    "suspendido": false
+  },
+  {
+    "id": 1786805668084,
+    "nombre": "SET DE CHUCHILLOS X 6",
+    "precio": 5550,
+    "foto": "https://i.postimg.cc/1R81D8sn/0de2795d-8142-4135-ba4d-0dfa41e25142.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1786805745477,
+    "nombre": "PARLANTE BT INALAMBRICO GTS - 2151",
+    "precio": 18800,
+    "foto": "https://i.postimg.cc/Wzg9XL9t/90aeff19-7c2a-4213-b64e-b9a282e84920.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1786805834820,
+    "nombre": "PARLANTE BT INALAMBRICO CON LINTERNA GTS - 2068",
+    "precio": 10950,
+    "foto": "https://i.postimg.cc/FzyZ0bKw/e8a07be4-30a6-49f5-9e3f-57c7b221e310.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1786805952816,
+    "nombre": "PARLANTE BT INALMBRICO GTS - 2083",
+    "precio": 13500,
+    "foto": "https://i.postimg.cc/bJYb40CT/e5b170a4-5c15-4931-bb42-2ae254101699.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1786806109356,
+    "nombre": "PARLANTE BT INALAMBRICO GTS - 1835",
+    "precio": 6950,
+    "foto": "https://i.postimg.cc/kgb5sjCW/8b344374-f8cf-41a1-a7ad-bd8d1820078b.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1786806194764,
+    "nombre": "PARLANTE BT INALAMBRICO CON MICROFONO GTS - 2265",
+    "precio": 10950,
+    "foto": "https://i.postimg.cc/25xr9MKq/098e3b66-b7a6-44e0-b8bc-d5a032104f1b.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1786806357132,
+    "nombre": "MICROFONO COMUN CON CABLE FICHA 6,5 MM",
+    "precio": 3450,
+    "foto": "https://i.postimg.cc/vH9BLqbh/b98e3582-577e-4f45-9944-ab3173d1bd58.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1786806452076,
+    "nombre": "PARLANTE BARRA BT INALAMBRICO RGB KTS - 1968",
+    "precio": 22700,
+    "foto": "https://i.postimg.cc/y8QwJK24/26b66027-083e-4989-8cb1-db9bccdec0ae.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1786806546484,
+    "nombre": "BOTELLA DE ACERO DE 750 ML",
+    "precio": 7950,
+    "foto": "https://i.postimg.cc/jSLMF7k0/356324ef-3071-4fd4-8adf-d3689b1e59de.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1786806665540,
+    "nombre": "TERMO BALA DE 1 LT ",
+    "precio": 13500,
+    "foto": "https://i.postimg.cc/J4t3rW3j/6cd7fac6-2434-49e1-870d-27d4c6c92b44.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1786806745779,
+    "nombre": "SET DE CUTTERS X 12 PIEZAS ",
+    "precio": 2950,
+    "foto": "https://i.postimg.cc/t4QsK0Bb/2143324e-0909-4d00-addc-9f8ebb72615c.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
   }
 ]
