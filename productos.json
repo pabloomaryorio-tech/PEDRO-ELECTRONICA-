@@ -3446,5 +3446,45 @@
     "foto": "https://i.postimg.cc/t4QsK0Bb/2143324e-0909-4d00-addc-9f8ebb72615c.jpg",
     "categoria": "LIBRERIA",
     "suspendido": false
+  },
+  {
+    "id": 1787258078816,
+    "nombre": "AURICULAR BT INALAMBRICO E6S",
+    "precio": 5800,
+    "foto": "https://i.postimg.cc/wvNhyzbk/2c8430a7-3336-4432-973e-d41d180146f1.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 1787258189450,
+    "nombre": "CABLE USB V8 ENGOMADO LEGATUS 5 AMP. ",
+    "precio": 1350,
+    "foto": "https://i.postimg.cc/t4rd82xY/7d8a2bef-473d-4534-8894-f4db62df3b86.jpg",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1787258284286,
+    "nombre": "AURICULAR BT INALAMBRICO M90 PRO",
+    "precio": 7800,
+    "foto": "https://i.postimg.cc/k4w7y6Zm/467e6b5c-52ef-45e7-8c4c-2c1ac6f19041.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 1787258430853,
+    "nombre": "AURICULAR BT INALAMBRICO M90 EXTRA TECH",
+    "precio": 7500,
+    "foto": "https://i.postimg.cc/PrvkCRdc/9f3efe91-ea1f-4366-80a6-2153489ccf50.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 1787258550054,
+    "nombre": "CUCHILLO DE ACERO DE 22,5 CM",
+    "precio": 2200,
+    "foto": "https://i.postimg.cc/dVRpdMpb/e359eaa8-74d8-4330-97e1-c310fc80ab58.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
   }
 ]
