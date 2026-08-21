@@ -3145,8 +3145,8 @@
   },
   {
     "id": 1785873944851,
-    "nombre": "CARGADOR ROYALCELL TIPO C 2.4",
-    "precio": 2750,
+    "nombre": "CARGADOR ROYALCELL TIPO C 3.4",
+    "precio": 3150,
     "foto": "https://i.postimg.cc/pLHFmHqw/111595cd-e846-4a0d-8975-a3f62586d0c8.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -3485,6 +3485,22 @@
     "precio": 2200,
     "foto": "https://i.postimg.cc/dVRpdMpb/e359eaa8-74d8-4330-97e1-c310fc80ab58.jpg",
     "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1787308504249,
+    "nombre": "RELOJ SMART WATCHULTRA 9 BIG CON 7 MALLAS TH7-3",
+    "precio": 15900,
+    "foto": "https://i.postimg.cc/m2vsqF9x/ec34bcbc-ae42-44ae-95a0-1d0f99ab159e.jpg",
+    "categoria": "RELOJES",
+    "suspendido": false
+  },
+  {
+    "id": 1787308613424,
+    "nombre": "INFLADOR DE METAL DE PIE LARGO",
+    "precio": 9400,
+    "foto": "https://i.postimg.cc/zDR5kjLc/73ba9db2-eebe-4827-b374-b093a77d5ef0.jpg",
+    "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
   }
 ]
