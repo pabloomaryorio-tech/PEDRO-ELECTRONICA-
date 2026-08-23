@@ -2658,10 +2658,10 @@
   {
     "id": 1779835230356,
     "nombre": "BALANZA GRAMERA ",
-    "precio": 6950,
+    "precio": 7600,
     "foto": "https://i.postimg.cc/Yq0j1PKC/c4a2fbb9-61f3-4461-873b-43ce278377c0.jpg",
     "categoria": "VARIOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1779835282276,
@@ -3501,6 +3501,54 @@
     "precio": 9400,
     "foto": "https://i.postimg.cc/zDR5kjLc/73ba9db2-eebe-4827-b374-b093a77d5ef0.jpg",
     "categoria": "TODO PARA BICI Y MOTOS ",
+    "suspendido": false
+  },
+  {
+    "id": 1787526738464,
+    "nombre": "SET DE TAPPER HERMETICO DE VIDRIO X 3 ",
+    "precio": 18400,
+    "foto": "https://i.postimg.cc/ZnbcxKV9/2ac26238-ffdd-4259-b728-4d42a801043d.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1787526943503,
+    "nombre": "MICROFONO CORBATERO PARA CELULAR",
+    "precio": 6750,
+    "foto": "https://i.postimg.cc/Vsg4Lnkn/51da9d3b-036f-49aa-87d4-9fbbd5ec24b2.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false
+  },
+  {
+    "id": 1787527094229,
+    "nombre": "RADIO BLUETOOTH AM FM RECARGABLE + PANEL SOLAR KTF-1668",
+    "precio": 22700,
+    "foto": "https://i.postimg.cc/G3KzhGmz/108c2890-d3c3-4e52-af86-21dc59bba9bb.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1787527197219,
+    "nombre": "AURICULAR BT INALAMBRICO V5.0  AU-17005",
+    "precio": 7425,
+    "foto": "https://i.postimg.cc/tCgk1J1j/4a6e63ed-34a6-4989-947e-6de30f95ac01.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 1787527355269,
+    "nombre": "CARGADOR CABEZAL PREMIUM 3.1 TIPO C 2 USB",
+    "precio": 3500,
+    "foto": "https://i.postimg.cc/c45mfWYc/e909f110-1f52-4705-b3d6-2db0b0492d5a.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1787527437436,
+    "nombre": "MINI SET DE COCINA X 6 PZS ",
+    "precio": 5100,
+    "foto": "https://i.postimg.cc/sgQJcL94/ef535a2a-3c96-49a1-b8fd-acc51d9841d5.jpg",
+    "categoria": "HOGAR",
     "suspendido": false
   }
 ]
