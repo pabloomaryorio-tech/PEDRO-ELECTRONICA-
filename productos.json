@@ -365,7 +365,7 @@
     "precio": 6400,
     "foto": "https://i.postimg.cc/wT1Sn3Hd/632edbfb-3e0c-4dc0-ad20-5e163611c1d6.jpg",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 106,
@@ -949,7 +949,7 @@
     "precio": 8150,
     "foto": "https://i.postimg.cc/2SN7wzYB/JK605.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 290,
@@ -2397,7 +2397,7 @@
     "precio": 15000,
     "foto": "https://i.postimg.cc/m2qM7Wss/5069a8d2-0651-4157-98d8-4b41709b2da1.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1777038984991,
@@ -2565,7 +2565,7 @@
     "precio": 6000,
     "foto": "https://i.postimg.cc/g0HnzvN6/7c2d7512-bf9f-41fc-ae2e-2f21de1eec0c.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1779819492700,
@@ -3109,7 +3109,7 @@
     "precio": 12500,
     "foto": "https://i.postimg.cc/FsTSqcTx/53e6c551-ec22-45e0-99cc-4729f2851e9b.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1785873036391,
@@ -3549,6 +3549,14 @@
     "precio": 5100,
     "foto": "https://i.postimg.cc/sgQJcL94/ef535a2a-3c96-49a1-b8fd-acc51d9841d5.jpg",
     "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1787684550919,
+    "nombre": "CARGADOR CABEZAL V8 2.1 CON CABLE DESMONTABLE ",
+    "precio": 2100,
+    "foto": "https://i.postimg.cc/1369SvRw/IMG-1035.png",
+    "categoria": "CARGADORES",
     "suspendido": false
   }
 ]
