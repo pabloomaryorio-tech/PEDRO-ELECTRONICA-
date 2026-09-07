@@ -93,7 +93,7 @@
     "precio": 4850,
     "foto": "https://i.postimg.cc/q7DV6D9B/GTS-C935.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 26,
@@ -304,14 +304,6 @@
     "suspendido": false
   },
   {
-    "id": 87,
-    "nombre": "SET UTENSILIOS DE COCINA SILICONA X 5 PIEZAS",
-    "precio": 11950,
-    "foto": "https://i.postimg.cc/N0GwV6Z1/G262-9-02.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 89,
     "nombre": "TAPON TERMO TIPO STANLEY",
     "precio": 2200,
@@ -376,14 +368,6 @@
     "suspendido": false
   },
   {
-    "id": 107,
-    "nombre": "ESPEJO LED LUZ FRIA  A PILA Y USB RECARGABLE",
-    "precio": 10500,
-    "foto": "https://i.postimg.cc/qM00tvwj/ESP-91013.jpg",
-    "categoria": "TODO PARA MUJERES ",
-    "suspendido": true
-  },
-  {
     "id": 108,
     "nombre": "ESPEJO LED USB REGULABLE LUZ FRIA REDONDO",
     "precio": 6500,
@@ -430,14 +414,6 @@
     "foto": "https://i.postimg.cc/sgTscGqv/SN-228.jpg",
     "categoria": "TODO PARA MUJERES ",
     "suspendido": false
-  },
-  {
-    "id": 123,
-    "nombre": "CORTA PELO RECARGABLE + LINTERNA",
-    "precio": 7900,
-    "foto": "https://i.postimg.cc/qR00LcQV/CRT-110017.jpg",
-    "categoria": "TODO PARA HOMBRES",
-    "suspendido": true
   },
   {
     "id": 128,
@@ -832,17 +808,9 @@
     "suspendido": false
   },
   {
-    "id": 240,
-    "nombre": "BOTELLA  TERMICA  DEPORTIVA DE 500 ML",
-    "precio": 13300,
-    "foto": "https://i.postimg.cc/8CgT9Bct/IMG-8126.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": false
-  },
-  {
     "id": 244,
-    "nombre": "BOTELLA TERMICA DEPORTIVA COLORES  DE 500ML",
-    "precio": 12500,
+    "nombre": "BOTELLA TERMICA DEPORTIVA COLORES  DE 750 ML",
+    "precio": 13600,
     "foto": "https://i.postimg.cc/0ycCHZVy/IMG-8125.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
@@ -904,14 +872,6 @@
     "suspendido": false
   },
   {
-    "id": 270,
-    "nombre": "AURICULAR BT INALAMBRICOS JK 601",
-    "precio": 7200,
-    "foto": "https://i.postimg.cc/6QShf9dY/auriinalam.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
-  },
-  {
     "id": 271,
     "nombre": "CABLE USB  TIPO C 3.1 BOLSA",
     "precio": 1350,
@@ -944,14 +904,6 @@
     "suspendido": false
   },
   {
-    "id": 287,
-    "nombre": "AURICULAR BT  INALAMBRICO JK 605",
-    "precio": 8150,
-    "foto": "https://i.postimg.cc/2SN7wzYB/JK605.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
-  },
-  {
     "id": 290,
     "nombre": "SOPORTE FIJO TV 14-42 PLG",
     "precio": 3600,
@@ -968,20 +920,12 @@
     "suspendido": false
   },
   {
-    "id": 292,
-    "nombre": "RELOJ DIGITAL ALARMA/FECHA/TERMOMETRO",
-    "precio": 3900,
-    "foto": "https://i.postimg.cc/nzZ9Nzrt/reloj.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 293,
     "nombre": "AURICULAR BT INALAMBRICO OPEN-EAR JS 8",
     "precio": 6900,
     "foto": "https://i.postimg.cc/SszQZGSV/auri.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 294,
@@ -1006,14 +950,6 @@
     "foto": "https://i.postimg.cc/y8MLGjKJ/auri11011.jpg",
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false
-  },
-  {
-    "id": 298,
-    "nombre": "AURICULAR BT INALAMBRICO BLUETOOTH JS 602",
-    "precio": 6950,
-    "foto": "https://i.postimg.cc/Y9Kqj5Hm/auribt.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
   },
   {
     "id": 300,
@@ -1080,28 +1016,12 @@
     "suspendido": false
   },
   {
-    "id": 328,
-    "nombre": "AURICULAR MANOS LIBRE JBL",
-    "precio": 1700,
-    "foto": "https://i.postimg.cc/RZrK1xFG/IMG-8015.jpg",
-    "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
-  },
-  {
     "id": 329,
     "nombre": "AURICULAR MANOS LIBRE U19 CAJA",
     "precio": 1500,
     "foto": "https://i.postimg.cc/MpyRd3Mb/IMG-8017.jpg",
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false
-  },
-  {
-    "id": 331,
-    "nombre": "AURICULAR MANOS LIBRES FICHA I PHONE CAJA ACRILICA ",
-    "precio": 3200,
-    "foto": "https://i.postimg.cc/JzbJPYDP/IMG-8020.jpg",
-    "categoria": "AURICULARES C/CABLE",
-    "suspendido": true
   },
   {
     "id": 332,
@@ -1114,7 +1034,7 @@
   {
     "id": 334,
     "nombre": "AURICULAR BT INALAMBRICO JS 52 CON POWER BANK",
-    "precio": 9100,
+    "precio": 10800,
     "foto": "https://i.postimg.cc/ZYXCXkNS/IMG-8022.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false
@@ -1256,28 +1176,12 @@
     "suspendido": false
   },
   {
-    "id": 357,
-    "nombre": "CABLE USB V8 3.1 BLANCO",
-    "precio": 1200,
-    "foto": "https://i.postimg.cc/cCgxmcBw/IMG-8051.jpg",
-    "categoria": "CABLES CELULAR ",
-    "suspendido": true
-  },
-  {
     "id": 359,
     "nombre": "CABLE AUXILIAR A I PHONE",
     "precio": 2700,
     "foto": "https://i.postimg.cc/XvYp5dm9/IMG-8053.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
-  },
-  {
-    "id": 360,
-    "nombre": "CABLE EXTENCION ADAPTADOR TIPO C + 4 PUERTOS USB",
-    "precio": 3950,
-    "foto": "https://i.postimg.cc/Fz5rTLWf/IMG-8054.jpg",
-    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": true
   },
   {
     "id": 361,
@@ -1377,7 +1281,7 @@
   },
   {
     "id": 381,
-    "nombre": "ALARGUE REFORZADO 4 ENCHUFE + 3 USB + 1 TIPO C",
+    "nombre": "ALARGUE REFORZADO CON CORTE , 3 ENCHUFES + 2 USB + 1 TIPO C",
     "precio": 11600,
     "foto": "https://i.postimg.cc/T1nPxyMF/a7a75f49-fcc2-4761-80ed-911f6edb9597.jpg",
     "categoria": "ELECTRICIDAD ",
@@ -1409,11 +1313,11 @@
   },
   {
     "id": 388,
-    "nombre": "SET DE LLAVES TUBO X53 PIEZAS",
+    "nombre": "SET DE LLAVES TUBO X 53 PIEZAS",
     "precio": 16400,
     "foto": "https://i.postimg.cc/tRWdhrb9/IMG-8086.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 389,
@@ -1433,7 +1337,7 @@
   },
   {
     "id": 391,
-    "nombre": "SET DE DESTORNILLADOR DE GOLPE X6",
+    "nombre": "SET DE DESTORNILLADOR DE GOLPE X 6",
     "precio": 8700,
     "foto": "https://i.postimg.cc/pLFPTnzP/IMG-8089.jpg",
     "categoria": "HERRAMIENTAS",
@@ -1698,7 +1602,7 @@
   {
     "id": 436,
     "nombre": "LINTERNA FAROL CAMPING SOLAR + USB RECARGABLE",
-    "precio": 8750,
+    "precio": 7850,
     "foto": "https://i.postimg.cc/63ZfHK7n/IMG-8139.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -1758,14 +1662,6 @@
     "foto": "https://i.postimg.cc/k5Y7j3rM/IMG-8157.jpg",
     "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
-  },
-  {
-    "id": 447,
-    "nombre": "LUZ BICI KIT X 2 BLANCO/ROJO USB RECARGABLE",
-    "precio": 3800,
-    "foto": "https://i.postimg.cc/SKRhYTn5/IMG-8158.jpg",
-    "categoria": "TODO PARA BICI Y MOTOS ",
-    "suspendido": true
   },
   {
     "id": 449,
@@ -1920,14 +1816,6 @@
     "suspendido": false
   },
   {
-    "id": 479,
-    "nombre": "ORGANIZADOR DE ZAPATOS 6 NIVELES",
-    "precio": 19300,
-    "foto": "https://i.postimg.cc/VLMXqQG7/IMG-8184.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 480,
     "nombre": "BALANZA DE COCINA CON BOWL 10KG",
     "precio": 6150,
@@ -1982,14 +1870,6 @@
     "foto": "https://i.postimg.cc/QdhKcBWC/IMG-8193.jpg",
     "categoria": "HOGAR",
     "suspendido": false
-  },
-  {
-    "id": 487,
-    "nombre": "INFLADOR DE PIE DOBLE",
-    "precio": 9500,
-    "foto": "https://i.postimg.cc/FHpdp9jh/IMG-8199.jpg",
-    "categoria": "TODO PARA BICI Y MOTOS ",
-    "suspendido": true
   },
   {
     "id": 488,
@@ -2140,7 +2020,7 @@
     "nombre": "BANDERA AUTO",
     "precio": 1200,
     "foto": "https://i.postimg.cc/DyWJSLrP/db1ed6b7-f289-40a1-b2d5-d38538babd9f.jpg",
-    "categoria": "MUNDIAL",
+    "categoria": "LIBRERIA",
     "suspendido": false
   },
   {
@@ -2272,27 +2152,11 @@
     "suspendido": false
   },
   {
-    "id": 1775837000749,
-    "nombre": "LINTERNA MINERA CON SENSOR ",
-    "precio": 7600,
-    "foto": "https://i.postimg.cc/bNBhj671/7ee3646d-173d-4170-8ffd-c01cfcc062e7.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": false
-  },
-  {
     "id": 1775837169007,
     "nombre": "MICROFONO CON CABLE NOGA",
     "precio": 4800,
     "foto": "https://i.postimg.cc/630kbzVx/575e2a37-a91a-4c31-8007-36f9cb701c23.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 1775837253265,
-    "nombre": "JOYSTICK PS4 COLORES ",
-    "precio": 20500,
-    "foto": "https://i.postimg.cc/02rTZYzr/a9abe65a-fa44-44aa-afcf-15b34069a384.jpg",
-    "categoria": "COMPUTACION",
     "suspendido": false
   },
   {
@@ -2309,14 +2173,6 @@
     "precio": 8100,
     "foto": "https://i.postimg.cc/L5qMqLfh/19032dbb-3638-4dfd-9d30-4d17f9ad5c89.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 1775837732415,
-    "nombre": "LINTERNA LED MINI USB RECARGABLE S008 ",
-    "precio": 2600,
-    "foto": "https://i.postimg.cc/qR5PdqFW/1e1c3237-af24-41d3-873d-38832d2cc8b6.jpg",
-    "categoria": "ILUMINACION",
     "suspendido": false
   },
   {
@@ -2352,14 +2208,6 @@
     "suspendido": false
   },
   {
-    "id": 1775838239376,
-    "nombre": "JOYSTIK PS3 COLORES ",
-    "precio": 11500,
-    "foto": "https://i.postimg.cc/TPC8CCq4/407ae1bf-be36-4259-b23a-b4b734e6e295.jpg",
-    "categoria": "COMPUTACION",
-    "suspendido": false
-  },
-  {
     "id": 1776275253225,
     "nombre": "PARLANTE BT INALAMBRICO KARAOKE KTS 1916",
     "precio": 10500,
@@ -2373,14 +2221,6 @@
     "precio": 6500,
     "foto": "https://i.postimg.cc/4d0xpSXJ/IMG-8948.png",
     "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 1776436830747,
-    "nombre": "JUEGO DE LLAVES ALLEN X 30 PIEZAS ",
-    "precio": 12900,
-    "foto": "https://i.postimg.cc/gjgjz8Yd/84cd08e4-b2d1-4436-bf5c-50dfcbcf160f.jpg",
-    "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
   {
@@ -2560,19 +2400,11 @@
     "suspendido": true
   },
   {
-    "id": 1778688993951,
-    "nombre": "CARGADOR CABEZAL PRO MAX 20 W + CABLE TIPO C A I PHONE ",
-    "precio": 6000,
-    "foto": "https://i.postimg.cc/g0HnzvN6/7c2d7512-bf9f-41fc-ae2e-2f21de1eec0c.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": true
-  },
-  {
     "id": 1779819492700,
     "nombre": "BANDERA  ARGENTINA 90 X 145 ",
     "precio": 2800,
     "foto": "https://i.postimg.cc/W11QCpH8/40c86b46-166b-429b-bb2c-a356eb1dc298.jpg",
-    "categoria": "MUNDIAL",
+    "categoria": "LIBRERIA",
     "suspendido": false
   },
   {
@@ -2604,7 +2436,7 @@
     "nombre": "BANDERA ARGENTINA 90 X 150 CON BRAZOS ",
     "precio": 4700,
     "foto": "https://i.postimg.cc/cJMkLV2S/e34a6b9f-cd94-4347-9e47-58051af2249b.jpg",
-    "categoria": "MUNDIAL",
+    "categoria": "LIBRERIA",
     "suspendido": false
   },
   {
@@ -2664,14 +2496,6 @@
     "suspendido": false
   },
   {
-    "id": 1779835282276,
-    "nombre": "CABLE TIPO C A I PHONE IBEK 6.0",
-    "precio": 2250,
-    "foto": "https://i.postimg.cc/YqP08xM2/1256a8fb-d930-4909-9ecd-d48690084b51.jpg",
-    "categoria": "CABLES CELULAR ",
-    "suspendido": false
-  },
-  {
     "id": 1779835327348,
     "nombre": "CARGADOR CABEZAL SAMSUNG 45W USB C ",
     "precio": 4400,
@@ -2685,22 +2509,6 @@
     "precio": 4600,
     "foto": "https://i.postimg.cc/yYnnxQ6w/b3332c94-7d98-4d58-b6bb-de5788b939a3.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
-  },
-  {
-    "id": 1780338100509,
-    "nombre": "AURICULAR MANOS LIBRE SAMSUNG COLOR ",
-    "precio": 1700,
-    "foto": "https://i.postimg.cc/htkmtTxm/add814bf-f385-43a4-9e2a-5f8131d2d9e1.jpg",
-    "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
-  },
-  {
-    "id": 1780342909259,
-    "nombre": "SERVILLETERO DE MADERA ",
-    "precio": 1100,
-    "foto": "https://i.postimg.cc/XNphyBzN/45acdd65-6923-4be2-b126-c486dce57f81.jpg",
-    "categoria": "HOGAR",
     "suspendido": false
   },
   {
@@ -2741,14 +2549,6 @@
     "precio": 3600,
     "foto": "https://i.postimg.cc/q7ZLYR1k/72180970-0bf5-4ee0-a319-7e83440ddb8c.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
-  },
-  {
-    "id": 1781186510876,
-    "nombre": "TERMO CON MATE Y MANIJA 1,3L ",
-    "precio": 22800,
-    "foto": "https://i.postimg.cc/RF6RzB89/19608492-11ba-4872-b589-6705ae837bd1.jpg",
-    "categoria": "TERMOS Y VASOS",
     "suspendido": false
   },
   {
@@ -2798,14 +2598,6 @@
     "foto": "https://i.postimg.cc/26Jdp6B0/55c49523-e289-4277-aef4-daf86a209770.jpg",
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false
-  },
-  {
-    "id": 1782416187189,
-    "nombre": "AURICULAR MANOS LIBRES EAR 7 + FICHA I PHONE ",
-    "precio": 3800,
-    "foto": "https://i.postimg.cc/0jwY9sYv/a9f83671-8f71-4814-836b-c8b173da2530.jpg",
-    "categoria": "AURICULARES C/CABLE",
-    "suspendido": true
   },
   {
     "id": 1782416293206,
@@ -2976,14 +2768,6 @@
     "suspendido": false
   },
   {
-    "id": 1783475711147,
-    "nombre": "LAMPARA VELADOR DE MESA USB RECARGABLE ",
-    "precio": 9900,
-    "foto": "https://i.postimg.cc/Hn4j8GT3/185a9a43-eb88-4901-b1ab-1f1d0f3e5e0a.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": false
-  },
-  {
     "id": 1784746009797,
     "nombre": "PARLANTE BT INALAMBRICO POP ART 3 PLG ",
     "precio": 8700,
@@ -3102,14 +2886,6 @@
     "foto": "https://i.postimg.cc/ZRmL20BF/9bdbb16a-2538-4dbd-9881-ed5e08070388.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
-  },
-  {
-    "id": 1785871990179,
-    "nombre": "SET DE ALICATES X 5 EXCELENTE CALIDAD ",
-    "precio": 12500,
-    "foto": "https://i.postimg.cc/FsTSqcTx/53e6c551-ec22-45e0-99cc-4729f2851e9b.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": true
   },
   {
     "id": 1785873036391,
@@ -3288,14 +3064,6 @@
     "suspendido": false
   },
   {
-    "id": 1786629398137,
-    "nombre": "CARGADOR IBEK 35W + CABLE  C - C",
-    "precio": 6250,
-    "foto": "https://i.postimg.cc/KznBVGWs/38d6f35d-eb84-4fe2-9869-c5fea892f83c.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": false
-  },
-  {
     "id": 1786629577882,
     "nombre": "LINTERNA USB RECARGABLE BLISTER ",
     "precio": 3800,
@@ -3349,14 +3117,6 @@
     "precio": 30950,
     "foto": "https://i.postimg.cc/GhXffzM2/ee33fe8c-b4ad-456f-aa69-305e628fbcef.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 1786805492231,
-    "nombre": "SET DE RELOJ + AURICULAR INALAMBRICO ",
-    "precio": 13900,
-    "foto": "https://i.postimg.cc/MHT4DrCQ/6c483557-c69e-43a1-a7d0-94985ba87d96.jpg",
-    "categoria": "RELOJES",
     "suspendido": false
   },
   {
