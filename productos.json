@@ -3558,5 +3558,181 @@
     "foto": "https://i.postimg.cc/1369SvRw/IMG-1035.png",
     "categoria": "CARGADORES",
     "suspendido": false
+  },
+  {
+    "id": 1788792593635,
+    "nombre": "POXIPOL 10 MINUTOS 108 GR/ 70 ML.",
+    "precio": 6800,
+    "foto": "https://i.postimg.cc/g2wmWTS8/c04647a3-8e11-42d2-9148-571292126a94.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1788792675317,
+    "nombre": "LA GOTITA 2 ML",
+    "precio": 2200,
+    "foto": "https://i.postimg.cc/ZK2XrKHF/fb6324d5-f9ba-46af-ad27-8c138e581abf.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1788792731525,
+    "nombre": "ECCOLE 3 GR.",
+    "precio": 3150,
+    "foto": "https://i.postimg.cc/J0gYcPNR/b2e8c4c0-3bc9-44c2-93c7-b50685dcfa31.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1788792800613,
+    "nombre": "AURICULAR BT INALAMBRICO JS 25",
+    "precio": 9450,
+    "foto": "https://i.postimg.cc/yxwnSWKJ/d917d9ee-783c-4267-8595-588e800d669d.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 1788792881333,
+    "nombre": "PARLANTE BT INALAMBRICO GTS 2423",
+    "precio": 7200,
+    "foto": "https://i.postimg.cc/qRqGb2Mz/28502733-f646-4366-bc56-8618ae6a7a2e.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1788792995001,
+    "nombre": "PARLANTE BT INALAMBRICO GTS 2485",
+    "precio": 6200,
+    "foto": "https://i.postimg.cc/YqCm1t0G/0f61035c-4061-45c2-a77d-cee867337f26.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1788793162202,
+    "nombre": "CARGADOR CABEZAL HYTOSHY 168 W + CABLE TIPO C A C",
+    "precio": 7900,
+    "foto": "https://i.postimg.cc/NFSY98Lr/dbb1b101-a3f3-432d-827c-a577ddf685d3.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1788793358761,
+    "nombre": "CABLE USB SAMSUNG TIPO C 3.0",
+    "precio": 1550,
+    "foto": "https://i.postimg.cc/mrrsjZJN/9257fc5c-9738-44d3-86c6-41ab323665d9.jpg",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1788793472681,
+    "nombre": "PARLANTE BT INALAMBRICO GTS 2092",
+    "precio": 9950,
+    "foto": "https://i.postimg.cc/9fsn9Why/fbf0bf8b-8a9d-47ec-9270-75f0d66b94b7.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1788793732642,
+    "nombre": "RADIO PARLANTE BT INALAMBRICO  FM CON PANEL SOLAR GTS 2543",
+    "precio": 6700,
+    "foto": "https://i.postimg.cc/Sx2LMcNL/4d4d14c6-b20d-4c81-b5b7-9da2f272eea1.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1788793850069,
+    "nombre": "CARGADOR PUXIDA DK 35 V8 3,1",
+    "precio": 4750,
+    "foto": "https://i.postimg.cc/2SDvVMMy/817a5c40-db39-4d9c-baa2-3455369e2081.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1788794008873,
+    "nombre": "MINI PARLANTE BT INALAMBRICO JS 7391",
+    "precio": 4900,
+    "foto": "https://i.postimg.cc/wvy3WQZG/bed709d6-1b71-4966-bb35-89bf3bc8051f.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1788794154062,
+    "nombre": "RADIO PARLANTE BT INALAMBRICO KTF 1448 CON LINTERNA",
+    "precio": 20900,
+    "foto": "https://i.postimg.cc/KYKZFvfb/61c2133b-1060-495a-9004-d9ea83702ee0.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1788794243228,
+    "nombre": "CARGADOR PUXIDA DK 35 TIPO C 3,1 ",
+    "precio": 5050,
+    "foto": "https://i.postimg.cc/vHjqkY4k/7caf38e2-4bcb-428a-805e-704ae6040250.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1788794387013,
+    "nombre": "CABLE IBEK 6 AMP. TIPO C A TIPO C",
+    "precio": 1950,
+    "foto": "https://i.postimg.cc/SK4rbJkf/cc35ea58-3b29-47f6-91de-e22ab51304c2.jpg",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1788794450341,
+    "nombre": "CABLE IBEK 6 AMP. TIPO C A I PHONE ",
+    "precio": 1750,
+    "foto": "https://i.postimg.cc/Y2TDy2LB/79df690b-8f53-4b6d-b6d7-480659b09ef2.jpg",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1788794639078,
+    "nombre": "LUZ BICI SET X 2 USB RECARGABLE ",
+    "precio": 4250,
+    "foto": "https://i.postimg.cc/dV6BvJ3L/af1c57fd-eafc-4dbd-bd4b-9ee653cb9c96.jpg",
+    "categoria": "TODO PARA BICI Y MOTOS ",
+    "suspendido": false
+  },
+  {
+    "id": 1788794718108,
+    "nombre": "CABLE USB SAMSUNG V8 3.0 ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/nhSD0rMK/acf21a99-1b61-40ba-84f3-5a4473f95bcc.jpg",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1788794929936,
+    "nombre": "MOUSE INALAMBRICO AITECH 4 BOTONES AI 032 ",
+    "precio": 5200,
+    "foto": "https://i.postimg.cc/yYd6nPRc/ba067a74-be17-4c06-a67c-805e3db35807.jpg",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1788795058686,
+    "nombre": "AURICULAR IBEK MANOS LIBRES CON FICHA I PHONE  ER 264",
+    "precio": 4300,
+    "foto": "https://i.postimg.cc/zfS1qbWL/618028d2-7bab-4674-9f86-df724fe00054.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1788795140496,
+    "nombre": "AURICULAR IBEK MANOS LIBRES CON FICHA I PHONE ER 261",
+    "precio": 3800,
+    "foto": "https://i.postimg.cc/52dGj9fx/824371fd-6b1c-404d-bd2f-a6f42e23a4da.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1788795291340,
+    "nombre": "AURICULAR BT INALAMBRICO JS 52 CON POWER BANK",
+    "precio": 10800,
+    "foto": "https://i.postimg.cc/HnMqPrTv/d883462f-276f-40b4-8521-350e48b5152e.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
   }
 ]
