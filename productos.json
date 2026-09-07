@@ -576,14 +576,6 @@
     "suspendido": false
   },
   {
-    "id": 179,
-    "nombre": "TIRA LED RGB 28 X 35 X 5 MTS.",
-    "precio": 6500,
-    "foto": "https://i.postimg.cc/DfGpFWrH/LED-9727.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": false
-  },
-  {
     "id": 181,
     "nombre": "CANDADO DE 25 MM MALETERO",
     "precio": 1200,
@@ -1632,14 +1624,6 @@
     "suspendido": false
   },
   {
-    "id": 445,
-    "nombre": "TIRA LED RGB 50 X 50 X 5 MTS.",
-    "precio": 9600,
-    "foto": "https://i.postimg.cc/nhc41tKP/ba64385e-a8ff-4387-ad68-f011c00ef7fc.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": false
-  },
-  {
     "id": 446,
     "nombre": "LUZ LINTERNA PARA BICI",
     "precio": 2700,
@@ -1909,14 +1893,6 @@
     "precio": 7900,
     "foto": "https://i.postimg.cc/c6yK6CfB/IMG-8227.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 510,
-    "nombre": "CARTEL LUMINICO ABIERTO",
-    "precio": 14500,
-    "foto": "https://i.postimg.cc/J4RZ1WFz/d9b99bc1-a446-43ef-a38a-b8af90af2128.jpg",
-    "categoria": "VARIOS",
     "suspendido": false
   },
   {
@@ -2269,14 +2245,6 @@
     "precio": 14500,
     "foto": "https://i.postimg.cc/bvnZ0p8f/41da3265-05e3-425d-8473-f36d0019eda2.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1777039707205,
-    "nombre": "SET DE HERRAMIENTAS + LINTERNA CON PANEL SOLAR ",
-    "precio": 21500,
-    "foto": "https://i.postimg.cc/ryj7y4WT/b0f41b7e-ed9f-4bd8-b945-7f55bfb52aec.jpg",
-    "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
   {
@@ -3524,6 +3492,38 @@
     "nombre": "LINTERNA LASER 3 EN 1 ",
     "precio": 1300,
     "foto": "https://i.postimg.cc/fbQY3KWG/3cd69425-a830-426c-b882-3cd102011b8d.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1788810859731,
+    "nombre": "TIRAS LED RGB DE 28 X 35 DE 5 MTS.",
+    "precio": 6500,
+    "foto": "https://i.postimg.cc/TYRdPWXk/725a952a-186b-46fb-a3ab-5bb545150041.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1788811009623,
+    "nombre": "SET DE HERRAMIENTAS CON LINTERNA + PANEL SOLAR",
+    "precio": 21500,
+    "foto": "https://i.postimg.cc/3RBqfNbD/eeb430ea-8b55-49c7-a1e5-712faf26d561.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1788811267521,
+    "nombre": "CARTEL LUMINICO ABIERTO",
+    "precio": 14500,
+    "foto": "https://i.postimg.cc/pTTQxdLK/3f63b293-993b-43b2-908d-6fd1844d65d3.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1788811432353,
+    "nombre": "TIRAS LED RGB DE 50 X 50 X 5 MTS",
+    "precio": 9600,
+    "foto": "https://i.postimg.cc/GhkXXH89/15c5ab5b-e566-43c9-9c1a-50e86c696b0b.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
   }
