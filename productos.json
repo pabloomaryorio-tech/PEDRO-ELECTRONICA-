@@ -1160,14 +1160,6 @@
     "suspendido": false
   },
   {
-    "id": 353,
-    "nombre": "CABLE TIPO C A TIPO C 1 MT",
-    "precio": 2650,
-    "foto": "https://i.postimg.cc/qMvXk6Mp/IMG-8047.jpg",
-    "categoria": "CABLES CELULAR ",
-    "suspendido": false
-  },
-  {
     "id": 354,
     "nombre": "CABLE USB MOTOROLA BLISTER V8 ",
     "precio": 1500,
@@ -1632,14 +1624,6 @@
     "suspendido": false
   },
   {
-    "id": 443,
-    "nombre": "LINTERNA LASER 3 EN 1",
-    "precio": 1300,
-    "foto": "https://i.postimg.cc/B6vGDhXv/IMG-8153.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": false
-  },
-  {
     "id": 444,
     "nombre": "LUZ BOLICHERA DOBLE",
     "precio": 4750,
@@ -1860,14 +1844,6 @@
     "nombre": "CONTROL REMOTO UNIVERSAL TV COMUN",
     "precio": 3300,
     "foto": "https://i.postimg.cc/L82gjqZh/IMG-8192.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 486,
-    "nombre": "CONTROL REMOTO UNIVERSAL DE AIRE ACONDICIONADO",
-    "precio": 3900,
-    "foto": "https://i.postimg.cc/QdhKcBWC/IMG-8193.jpg",
     "categoria": "HOGAR",
     "suspendido": false
   },
@@ -3493,6 +3469,62 @@
     "precio": 10800,
     "foto": "https://i.postimg.cc/HnMqPrTv/d883462f-276f-40b4-8521-350e48b5152e.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 1788809557969,
+    "nombre": "CABLE TIPO C A I PHONE 1 MT.",
+    "precio": 2600,
+    "foto": "https://i.postimg.cc/cCxKR9Ph/64c00e01-a47a-4026-a826-2c37d8ddc9a1.jpg",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1788809686841,
+    "nombre": "SET DE SACACORCHOS ESTUCHE BOTELLA",
+    "precio": 12300,
+    "foto": "https://i.postimg.cc/m2SjWKbV/1cb8e421-e7e7-4eed-a3e3-6873706065aa.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1788809778674,
+    "nombre": "CONTROL DE AIRE ACONDICIONADO ",
+    "precio": 3900,
+    "foto": "https://i.postimg.cc/vZbQcxFz/21730528-0783-4a0b-bc40-85372f26ba25.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1788809951706,
+    "nombre": "CARGADOR IBEK 2,6 TIPO C",
+    "precio": 2850,
+    "foto": "https://i.postimg.cc/LXdQ8fGL/245beadf-81b0-4697-a951-227525a2ec53.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1788810077099,
+    "nombre": "RADIO PARLANTE BT INALAMBRICO CON PANEL SOLAR KTF 1472",
+    "precio": 14800,
+    "foto": "https://i.postimg.cc/2ykw1xGd/030e851e-4e98-4957-97dc-64f128a3e9b0.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1788810159574,
+    "nombre": "TRANSMISOR BT AITECH CAR",
+    "precio": 5400,
+    "foto": "https://i.postimg.cc/DZFQNctN/ad4c9967-e45f-4bcc-ae26-cd843964670b.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false
+  },
+  {
+    "id": 1788810235664,
+    "nombre": "LINTERNA LASER 3 EN 1 ",
+    "precio": 1300,
+    "foto": "https://i.postimg.cc/fbQY3KWG/3cd69425-a830-426c-b882-3cd102011b8d.jpg",
+    "categoria": "ILUMINACION",
     "suspendido": false
   }
 ]
