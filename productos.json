@@ -8,14 +8,6 @@
     "suspendido": false
   },
   {
-    "id": 2,
-    "nombre": "CABLE TIPO C IPHONE 1M",
-    "precio": 2600,
-    "foto": "https://i.postimg.cc/sfHwysKf/cableiph.png",
-    "categoria": "CABLES CELULAR ",
-    "suspendido": false
-  },
-  {
     "id": 4,
     "nombre": "CARGADOR ROYALCELL I PHONE 4.8 AMP.",
     "precio": 4350,
@@ -117,21 +109,13 @@
     "precio": 1550,
     "foto": "https://i.postimg.cc/wMK5Yd3B/CABLE-PUNTA-METAL.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 29,
     "nombre": "CABLE USB MALLA TIPO C DATOS 3.1A",
     "precio": 1550,
     "foto": "https://i.postimg.cc/MpBny6Kj/CAB-41002.jpg",
-    "categoria": "CABLES CELULAR ",
-    "suspendido": false
-  },
-  {
-    "id": 30,
-    "nombre": "CABLE TIPO C A TIPO C ",
-    "precio": 2500,
-    "foto": "https://i.postimg.cc/cJpyfWC6/CAB-44002.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
   },
@@ -2643,7 +2627,7 @@
     "id": 1782516285590,
     "nombre": "MOUSE INALAMBRICO",
     "precio": 4500,
-    "foto": "https://i.postimg.cc/3N5Svyyf/33150f64-bb65-438f-aec7-4217e058b17c.jpg",
+    "foto": "https://i.postimg.cc/NGZf0fmV/60be9a43-7816-4b18-90fa-d75b6182e401.jpg",
     "categoria": "COMPUTACION",
     "suspendido": false
   },
@@ -3524,6 +3508,166 @@
     "nombre": "TIRAS LED RGB DE 50 X 50 X 5 MTS",
     "precio": 9600,
     "foto": "https://i.postimg.cc/GhkXXH89/15c5ab5b-e566-43c9-9c1a-50e86c696b0b.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1790602377174,
+    "nombre": "REFLECTOR PARA PARED CON PANEL SOLAR Y SENSOR DE MOVIMIENTO + CONTROL REMOTO ",
+    "precio": 8100,
+    "foto": "https://i.postimg.cc/bwHbxzWf/cbc17ad3-34ef-410a-bb89-259e0f094af1.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1790602446776,
+    "nombre": "CARTAS DOS ",
+    "precio": 1800,
+    "foto": "https://i.postimg.cc/y8zc3JfT/e3b2194a-201c-40f2-a2bf-3faf3a00213e.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1790602697003,
+    "nombre": "AURICULAR MANOS LIBRE BOLSA COMUN ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/9XKGVgy4/5280be90-d7bb-48e6-bb00-8c27bf6d2207.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1790602969746,
+    "nombre": "BOTELLA TERMICA DEPORTIVA COLORES 500ML ",
+    "precio": 11500,
+    "foto": "https://i.postimg.cc/HWRQHvXZ/29c34a18-f864-488b-a536-9b20999e7640.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1790603152128,
+    "nombre": "SET DE HERRAMIENTAS 4 PIZEAS",
+    "precio": 6750,
+    "foto": "https://i.postimg.cc/j2pNXCRr/fa11a38b-cf85-4af3-b06f-00070b37ada8.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1790603311955,
+    "nombre": "SET DE CUCHILLAS X 4 CHUCHILLAS + PELA PAPA + TIJERA  JEAN CARTIER ",
+    "precio": 17250,
+    "foto": "https://i.postimg.cc/V6Njs37b/5a5d4521-1142-4de6-9005-71b422ac3b13.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1790603918145,
+    "nombre": "ZAPATILLA CON 6 ENCHUFES + 3 USB + 1 TIPO C + CORTE CORRIENTE ",
+    "precio": 9500,
+    "foto": "https://i.postimg.cc/y8sWz2Yd/71ba96e1-3968-48f0-b52a-6fb63995ae9a.jpg",
+    "categoria": "ELECTRICIDAD ",
+    "suspendido": false
+  },
+  {
+    "id": 1790604053726,
+    "nombre": "AURICULAR VINCHA UNICORNIO ",
+    "precio": 8400,
+    "foto": "https://i.postimg.cc/7Z9hPXfp/d1341995-0052-4e95-8b84-aa12e2a9fab5.jpg",
+    "categoria": "AURICULARES VINCHA",
+    "suspendido": false
+  },
+  {
+    "id": 1790604114109,
+    "nombre": "SET DE DESTORNILLADOR PESADO X 6 ",
+    "precio": 7450,
+    "foto": "https://i.postimg.cc/FKKRYcSf/25140497-786e-4d72-b70f-fa125d5f357b.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1790604230476,
+    "nombre": "SET DE CHUCHILLAS X 3 JEAN CARTIER ",
+    "precio": 8800,
+    "foto": "https://i.postimg.cc/43F3VdvB/17ca35ff-fb0f-474d-b1ea-4bbdc0c6064d.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1790604725087,
+    "nombre": "CARGADOR PUXIDA V8 3.1 + CABLE DESMONTABLE ",
+    "precio": 4750,
+    "foto": "https://i.postimg.cc/MH1ZCmCc/0d69585f-47de-4fd3-9f2e-cefcc37144ff.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1790604863867,
+    "nombre": "CARGADOR PUXIDA TIPO C 3.1 + CABLE DESMONTABLE ",
+    "precio": 4900,
+    "foto": "https://i.postimg.cc/MH1ZCmCc/0d69585f-47de-4fd3-9f2e-cefcc37144ff.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1790606182393,
+    "nombre": "DESTORNILLADOR BUSCA POLO ",
+    "precio": 1400,
+    "foto": "https://i.postimg.cc/DyTJ6SGR/db87f06a-68a6-4e81-a65e-3532b98a2f6d.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1790606249058,
+    "nombre": "CABLE USB TIPO C 3.4 CON LUZ",
+    "precio": 1950,
+    "foto": "https://i.postimg.cc/gkHwTGqh/8422e294-c8e0-44e6-b64a-b326f094f50d.jpg",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1790606298626,
+    "nombre": "CABLE TIPO C A TIPO C BLANCO",
+    "precio": 2400,
+    "foto": "https://i.postimg.cc/3xryMznz/8d42cc7e-33d8-45dc-a8c1-ba17ee011c8f.jpg",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1790606381421,
+    "nombre": "CARGADOR ROYALCELL V8 3.4 ",
+    "precio": 2900,
+    "foto": "https://i.postimg.cc/wB77MLKs/50de9268-0268-4cdc-9463-d9faeb73f8e1.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1790606569589,
+    "nombre": "DESTORNILLADOR X 2 PIEZAS ",
+    "precio": 4100,
+    "foto": "https://i.postimg.cc/LXP5BS8s/56d8427e-9c39-43c1-82ff-7a6c8c9ad9f7.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1790606677354,
+    "nombre": "CARGADOR KOSMO V8 2.75 AMP ",
+    "precio": 3400,
+    "foto": "https://i.postimg.cc/gjPJg7xL/28fa7ab5-f3ae-4604-997a-c5bd9ca43602.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1790618187077,
+    "nombre": "CABLE TIPO C A TIPO C 1M ",
+    "precio": 2600,
+    "foto": "https://i.postimg.cc/JzLrb6T6/c3bbef1f-cd78-4c8a-be57-beab6d91432a.jpg",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1790618255740,
+    "nombre": "VELADOR BROCHE PINZA ",
+    "precio": 8200,
+    "foto": "https://i.postimg.cc/WbRTvYPj/388cf26b-0468-4700-bba3-71ca0ba95f00.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
   }
