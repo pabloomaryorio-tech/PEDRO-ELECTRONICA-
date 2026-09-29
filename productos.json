@@ -24,22 +24,6 @@
     "suspendido": false
   },
   {
-    "id": 12,
-    "nombre": "CARGADOR CABEZAL DE AUTO CARGA RAPIDA 3.1 USB + 2 C",
-    "precio": 3150,
-    "foto": "https://i.postimg.cc/Wz956m8S/CAR-53004.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": true
-  },
-  {
-    "id": 13,
-    "nombre": "CARGADOR CABEZAL DE AUTO PD 20W USB + TIPO C",
-    "precio": 4300,
-    "foto": "https://i.postimg.cc/vHRNJ8fX/CAR-53001.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": false
-  },
-  {
     "id": 14,
     "nombre": "CARGADOR PUXIDA IPHONE 4.2",
     "precio": 5950,
@@ -78,14 +62,6 @@
     "foto": "https://i.postimg.cc/zGfFFRHP/TMCC607.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
-  },
-  {
-    "id": 25,
-    "nombre": "TRANSMISOR BT DE AUTO GTS C 935",
-    "precio": 4850,
-    "foto": "https://i.postimg.cc/q7DV6D9B/GTS-C935.jpg",
-    "categoria": "TECNOLOGIA",
-    "suspendido": true
   },
   {
     "id": 26,
@@ -320,28 +296,12 @@
     "suspendido": false
   },
   {
-    "id": 98,
-    "nombre": "AURICULAR BT INALAMBRICO AU 16011",
-    "precio": 9400,
-    "foto": "https://i.postimg.cc/26MFHY5y/AURIVINCHA.jpg",
-    "categoria": "AURICULARES VINCHA",
-    "suspendido": true
-  },
-  {
     "id": 100,
     "nombre": "AURICULAR BT INALAMBRICO P47",
     "precio": 5800,
     "foto": "https://i.postimg.cc/mZtpnzn0/AR-1401.jpg",
     "categoria": "AURICULARES VINCHA",
     "suspendido": false
-  },
-  {
-    "id": 103,
-    "nombre": "AURICULAR BT INALAMBRICO P9 PRO MAX",
-    "precio": 6400,
-    "foto": "https://i.postimg.cc/wT1Sn3Hd/632edbfb-3e0c-4dc0-ad20-5e163611c1d6.jpg",
-    "categoria": "AURICULARES VINCHA",
-    "suspendido": true
   },
   {
     "id": 106,
@@ -781,7 +741,7 @@
     "precio": 14900,
     "foto": "https://i.postimg.cc/h40pxf55/BOTELLA-TERM-800ML.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 244,
@@ -821,7 +781,7 @@
     "precio": 1300,
     "foto": "https://i.postimg.cc/SKyfj5tn/AU-11007.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 253,
@@ -856,14 +816,6 @@
     "suspendido": true
   },
   {
-    "id": 273,
-    "nombre": "PELOTA DE FUTBOL NRO. 5 AFA",
-    "precio": 8400,
-    "foto": "https://i.postimg.cc/Z5fkZdSN/PELO.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": false
-  },
-  {
     "id": 277,
     "nombre": "BALANZA PERSONAL CUADRADA 180 K",
     "precio": 11500,
@@ -893,22 +845,6 @@
     "precio": 11700,
     "foto": "https://i.postimg.cc/3wMz5Yht/soportetv.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
-  },
-  {
-    "id": 293,
-    "nombre": "AURICULAR BT INALAMBRICO OPEN-EAR JS 8",
-    "precio": 6900,
-    "foto": "https://i.postimg.cc/SszQZGSV/auri.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": true
-  },
-  {
-    "id": 294,
-    "nombre": "AURICULAR BT INALAMBRICO GATITO CON LUZ",
-    "precio": 7700,
-    "foto": "https://i.postimg.cc/Z5KbkmY5/aurigatito.jpg",
-    "categoria": "AURICULARES VINCHA",
     "suspendido": false
   },
   {
@@ -1008,43 +944,11 @@
     "suspendido": false
   },
   {
-    "id": 334,
-    "nombre": "AURICULAR BT INALAMBRICO JS 52 CON POWER BANK",
-    "precio": 10800,
-    "foto": "https://i.postimg.cc/ZYXCXkNS/IMG-8022.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
-  },
-  {
     "id": 336,
     "nombre": "AURICULAR BT INALAMBRICO COLORES",
     "precio": 5900,
     "foto": "https://i.postimg.cc/xdqXW96n/IMG-8024.jpg",
     "categoria": "AURICULARES VINCHA",
-    "suspendido": false
-  },
-  {
-    "id": 338,
-    "nombre": "AURICULAR BT INALAMBRICO AR 1135",
-    "precio": 5200,
-    "foto": "https://i.postimg.cc/RhC5DZRr/IMG-8026.jpg",
-    "categoria": "AURICULARES VINCHA",
-    "suspendido": true
-  },
-  {
-    "id": 339,
-    "nombre": "FOCO PARA ESPEJO USB RECARGABLE",
-    "precio": 9900,
-    "foto": "https://i.postimg.cc/Mp65fjG8/IMG-8029.jpg",
-    "categoria": "TODO PARA MUJERES ",
-    "suspendido": false
-  },
-  {
-    "id": 340,
-    "nombre": "ORGANIZADOR DE JOYAS",
-    "precio": 8100,
-    "foto": "https://i.postimg.cc/tg1hFdQL/IMG-8030.jpg",
-    "categoria": "TODO PARA MUJERES ",
     "suspendido": false
   },
   {
@@ -1133,7 +1037,7 @@
     "precio": 1250,
     "foto": "https://i.postimg.cc/pVYqVtf7/IMG-8046.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 354,
@@ -1353,7 +1257,7 @@
   },
   {
     "id": 398,
-    "nombre": "PINZA UNIVERSAL DE 8 PULGADAS",
+    "nombre": "PINZA UNIVERSAL DE 6 PULGADAS",
     "precio": 5800,
     "foto": "https://i.postimg.cc/K82gmFgy/IMG-8109.jpg",
     "categoria": "HERRAMIENTAS",
@@ -1501,7 +1405,7 @@
     "precio": 12200,
     "foto": "https://i.postimg.cc/1zK4KYBC/IMG-8128.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 424,
@@ -1773,7 +1677,7 @@
     "precio": 6150,
     "foto": "https://i.postimg.cc/wj2y26hq/IMG-8186.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 481,
@@ -1992,20 +1896,12 @@
     "suspendido": false
   },
   {
-    "id": 1774984520477,
-    "nombre": "BOTELLA TERMICA 500 ML ",
-    "precio": 12500,
-    "foto": "https://i.postimg.cc/R0KbPp5j/f66ae5e5-d0b8-4bf6-8152-8f902e491ab1.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": false
-  },
-  {
     "id": 1774984606626,
     "nombre": "BOTELLA TERMICA STANLEY 650 ML COLORES",
     "precio": 17600,
     "foto": "https://i.postimg.cc/dtgBzRB1/e3f9cc17-daba-449f-a1d6-5364ad09cabe.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1774984731068,
@@ -2085,15 +1981,7 @@
     "precio": 4650,
     "foto": "https://i.postimg.cc/PJM54mJv/5f3e1900-fab7-43f8-b1d3-0d1357d399da.jpg",
     "categoria": "TODO PARA BICI Y MOTOS ",
-    "suspendido": false
-  },
-  {
-    "id": 1775837169007,
-    "nombre": "MICROFONO CON CABLE NOGA",
-    "precio": 4800,
-    "foto": "https://i.postimg.cc/630kbzVx/575e2a37-a91a-4c31-8007-36f9cb701c23.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1775837309021,
@@ -2125,14 +2013,6 @@
     "precio": 1400,
     "foto": "https://i.postimg.cc/dQz02V0j/0b4ccd8d-5bae-42fc-9ff9-fba5843de3b9.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false
-  },
-  {
-    "id": 1775837886911,
-    "nombre": "AURICULAR MANOS LIBRES CON FICHA I PHONE  KARSEN",
-    "precio": 5250,
-    "foto": "https://i.postimg.cc/Dwcy3QPQ/c33fdac5-dace-4d6c-bc63-09e455d7af5b.jpg",
-    "categoria": "AURICULARES C/CABLE",
     "suspendido": false
   },
   {
@@ -2216,26 +2096,10 @@
     "suspendido": false
   },
   {
-    "id": 1777039364092,
-    "nombre": "PARLANTE BT INALAMBRICO GTS 1679",
-    "precio": 7850,
-    "foto": "https://i.postimg.cc/wjvJmC79/1f381fb6-5377-423d-ab82-0c57bb1e2af2.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 1777039519573,
     "nombre": "NEBULIZADOR ADULTO NIÑO RECARGABLE Y A PILAS ",
     "precio": 14500,
     "foto": "https://i.postimg.cc/bvnZ0p8f/41da3265-05e3-425d-8473-f36d0019eda2.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1777039984277,
-    "nombre": "RELOJ DESPERTADOR ALARMA CAMPANA ",
-    "precio": 8950,
-    "foto": "https://i.postimg.cc/jdXfFspt/d750c1f5-24db-4594-bb77-fc0e2bd3a5c3.jpg",
     "categoria": "HOGAR",
     "suspendido": false
   },
@@ -2293,14 +2157,6 @@
     "precio": 2100,
     "foto": "https://i.postimg.cc/zDHbbLkW/94998b27-84ca-47ef-a666-72ed6235dc8d.jpg",
     "categoria": "INVIERNO ",
-    "suspendido": false
-  },
-  {
-    "id": 1778685707304,
-    "nombre": "CARGADOR CABEZAL PRO MAX 35W + CABLE TIPO C A TIPO C ",
-    "precio": 5650,
-    "foto": "https://i.postimg.cc/KY8ZhVzY/c80434a8-ff9a-46a0-889e-322fc678ec82.jpg",
-    "categoria": "CARGADORES",
     "suspendido": false
   },
   {
@@ -2396,14 +2252,6 @@
     "nombre": "DESTORNILLADOR CON MANGO DE GOMA X 6",
     "precio": 5800,
     "foto": "https://i.postimg.cc/Lscj7pSh/c41f3ad7-520a-4b11-a22f-47befd3bbacc.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": false
-  },
-  {
-    "id": 1779835086860,
-    "nombre": "DESTORNILLADOR X 2 + BUSCA POLO ",
-    "precio": 2650,
-    "foto": "https://i.postimg.cc/Jhkkj2Xn/46033d9b-35f1-4a2d-859f-07058361e8b2.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
@@ -2549,14 +2397,6 @@
     "precio": 2000,
     "foto": "https://i.postimg.cc/nzs71Jwj/764fad18-8264-40ce-8c02-1b75ff5cd232.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1782416805176,
-    "nombre": "TIJERA CHICA DE 14 CM.",
-    "precio": 1150,
-    "foto": "https://i.postimg.cc/bJKnCBK5/bb96df68-2e72-4cd4-89df-b0556a7c6589.jpg",
-    "categoria": "LIBRERIA",
     "suspendido": false
   },
   {
@@ -2944,14 +2784,6 @@
     "suspendido": false
   },
   {
-    "id": 1786030221385,
-    "nombre": "PENDRIVE KINGSTON DE 16 GB",
-    "precio": 12000,
-    "foto": "https://i.postimg.cc/4y8qkf8Y/b0e3327d-b855-43b1-9aa9-52467bd82397.jpg",
-    "categoria": "MEMORIA Y PENDRIVE",
-    "suspendido": false
-  },
-  {
     "id": 1786450274083,
     "nombre": "CARGADOR LEGATUS TIPO C 5 AMP. ",
     "precio": 3900,
@@ -3272,14 +3104,6 @@
     "suspendido": false
   },
   {
-    "id": 1788792800613,
-    "nombre": "AURICULAR BT INALAMBRICO JS 25",
-    "precio": 9450,
-    "foto": "https://i.postimg.cc/yxwnSWKJ/d917d9ee-783c-4267-8595-588e800d669d.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
-  },
-  {
     "id": 1788792881333,
     "nombre": "PARLANTE BT INALAMBRICO GTS 2423",
     "precio": 7200,
@@ -3316,14 +3140,6 @@
     "nombre": "PARLANTE BT INALAMBRICO GTS 2092",
     "precio": 9950,
     "foto": "https://i.postimg.cc/9fsn9Why/fbf0bf8b-8a9d-47ec-9270-75f0d66b94b7.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 1788793732642,
-    "nombre": "RADIO PARLANTE BT INALAMBRICO  FM CON PANEL SOLAR GTS 2543",
-    "precio": 6700,
-    "foto": "https://i.postimg.cc/Sx2LMcNL/4d4d14c6-b20d-4c81-b5b7-9da2f272eea1.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
   },
@@ -3413,14 +3229,6 @@
     "precio": 3800,
     "foto": "https://i.postimg.cc/52dGj9fx/824371fd-6b1c-404d-bd2f-a6f42e23a4da.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
-  },
-  {
-    "id": 1788795291340,
-    "nombre": "AURICULAR BT INALAMBRICO JS 52 CON POWER BANK",
-    "precio": 10800,
-    "foto": "https://i.postimg.cc/HnMqPrTv/d883462f-276f-40b4-8521-350e48b5152e.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false
   },
   {
@@ -3589,22 +3397,6 @@
     "precio": 8800,
     "foto": "https://i.postimg.cc/43F3VdvB/17ca35ff-fb0f-474d-b1ea-4bbdc0c6064d.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1790604725087,
-    "nombre": "CARGADOR PUXIDA V8 3.1 + CABLE DESMONTABLE ",
-    "precio": 4750,
-    "foto": "https://i.postimg.cc/MH1ZCmCc/0d69585f-47de-4fd3-9f2e-cefcc37144ff.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": false
-  },
-  {
-    "id": 1790604863867,
-    "nombre": "CARGADOR PUXIDA TIPO C 3.1 + CABLE DESMONTABLE ",
-    "precio": 4900,
-    "foto": "https://i.postimg.cc/MH1ZCmCc/0d69585f-47de-4fd3-9f2e-cefcc37144ff.jpg",
-    "categoria": "CARGADORES",
     "suspendido": false
   },
   {
