@@ -736,14 +736,6 @@
     "suspendido": false
   },
   {
-    "id": 237,
-    "nombre": "VASO TERMICO 1.0 L CON SORBETE",
-    "precio": 14900,
-    "foto": "https://i.postimg.cc/h40pxf55/BOTELLA-TERM-800ML.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": true
-  },
-  {
     "id": 244,
     "nombre": "BOTELLA TERMICA DEPORTIVA COLORES  DE 750 ML",
     "precio": 13600,
@@ -781,7 +773,7 @@
     "precio": 1300,
     "foto": "https://i.postimg.cc/SKyfj5tn/AU-11007.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 253,
@@ -1400,14 +1392,6 @@
     "suspendido": false
   },
   {
-    "id": 420,
-    "nombre": "BOTELLA TERMICA DEPORTIVA DE 500ML",
-    "precio": 12200,
-    "foto": "https://i.postimg.cc/1zK4KYBC/IMG-8128.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": true
-  },
-  {
     "id": 424,
     "nombre": "TAPON DE TERMO CON PICO",
     "precio": 2100,
@@ -1886,14 +1870,6 @@
     "foto": "https://i.postimg.cc/GtxCZ3Wf/1e629727-d0a8-46fd-b35c-96f7f20c8599.jpg",
     "categoria": "HOGAR",
     "suspendido": false
-  },
-  {
-    "id": 1774984606626,
-    "nombre": "BOTELLA TERMICA STANLEY 650 ML COLORES",
-    "precio": 17600,
-    "foto": "https://i.postimg.cc/dtgBzRB1/e3f9cc17-daba-449f-a1d6-5364ad09cabe.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": true
   },
   {
     "id": 1774984731068,
@@ -3589,6 +3565,30 @@
     "precio": 4800,
     "foto": "https://i.postimg.cc/nhzgMSjV/5f2f0e71-917e-4441-a886-3441500354c6.jpg",
     "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1790954777826,
+    "nombre": "CABLE IBEK TIPO C A TIPO C 6 AMP.",
+    "precio": 1650,
+    "foto": "https://i.postimg.cc/5NS03ytW/9e26be59-c352-4080-a2c6-57b95870c5ba.jpg",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1790954850507,
+    "nombre": "AURICULAR MANOS LIBRES JBL ",
+    "precio": 1650,
+    "foto": "https://i.postimg.cc/rs86FV2C/eb37f1fd-5ce6-4a4c-a75d-a3e32e244b17.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1790954968243,
+    "nombre": "CINTA METRICA DE 5 MTS. CON TRABA AUTOMATICA",
+    "precio": 2850,
+    "foto": "https://i.postimg.cc/qMDf4HbC/de154729-9cd1-461f-9d02-d62af3263a6d.jpg",
+    "categoria": "HERRAMIENTAS",
     "suspendido": false
   }
 ]
