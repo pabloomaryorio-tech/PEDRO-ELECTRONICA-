@@ -1480,14 +1480,6 @@
     "suspendido": false
   },
   {
-    "id": 438,
-    "nombre": "LINTERNA COB LUZ DE TRABAJO",
-    "precio": 8750,
-    "foto": "https://i.postimg.cc/QNkpV0c5/IMG-8140.jpg",
-    "categoria": "ILUMINACION",
-    "suspendido": false
-  },
-  {
     "id": 440,
     "nombre": "LAMPARA ENCENDIDO CON SENSOR DE MOVIMIENTO + PANEL SOLAR BK100",
     "precio": 5100,
@@ -1933,14 +1925,6 @@
     "precio": 16200,
     "foto": "https://i.postimg.cc/bvrBQ0q2/cdf07ea6-be45-4fab-b6ca-6ae8540d320c.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false
-  },
-  {
-    "id": 1774985332308,
-    "nombre": "PAVA ELECTRICA COMUN 2 L ",
-    "precio": 15400,
-    "foto": "https://i.postimg.cc/fLjmyF1V/046dbed7-a24d-4bdc-aace-7610f314a064.jpg",
-    "categoria": "HOGAR",
     "suspendido": false
   },
   {
@@ -3456,11 +3440,155 @@
     "suspendido": false
   },
   {
-    "id": 1790618255740,
-    "nombre": "VELADOR BROCHE PINZA ",
-    "precio": 8200,
-    "foto": "https://i.postimg.cc/WbRTvYPj/388cf26b-0468-4700-bba3-71ca0ba95f00.jpg",
+    "id": 1790946965238,
+    "nombre": "CABLE USB I PHONE 3,1 MALLA DATOS",
+    "precio": 1650,
+    "foto": "https://i.postimg.cc/9MTKB31C/5514b1a6-c591-4b47-b749-c025d9fbdc26.jpg",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1790947096511,
+    "nombre": "INFLADOR DE PIE DOBLE ",
+    "precio": 9800,
+    "foto": "https://i.postimg.cc/hjST2T14/df6bbe97-e6be-4a0e-a3c2-d02235f2f9a4.jpg",
+    "categoria": "TODO PARA BICI Y MOTOS ",
+    "suspendido": false
+  },
+  {
+    "id": 1790947189896,
+    "nombre": "SET DE PINZAS X 3 ",
+    "precio": 8400,
+    "foto": "https://i.postimg.cc/cCvKzmg0/22280d7e-dc94-4e08-8706-53ea06ee6ad2.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1790947361598,
+    "nombre": "PAVA ELECTRICA CORTE AUTOMATICO 2.0 LTS",
+    "precio": 15500,
+    "foto": "https://i.postimg.cc/SsvRcMZd/514881ee-bcf2-4bcc-861c-82756be11ff8.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1790947495264,
+    "nombre": "LINTERNA COB LUZ DE TRABAJO ",
+    "precio": 8750,
+    "foto": "https://i.postimg.cc/zvTL5fj7/1f8f8b25-3cbb-48d2-aa04-718dbd93c4c4.jpg",
     "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1790947660312,
+    "nombre": "VELADOR LAMPARA BROCHE PINZA ",
+    "precio": 8200,
+    "foto": "https://i.postimg.cc/wMk60RFy/c30a1540-da25-4667-af0c-b19cbce89ad9.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1790947893311,
+    "nombre": "PARADA JUEGO DE MESA BASTA",
+    "precio": 13900,
+    "foto": "https://i.postimg.cc/MTS2NKnY/ddb6b842-81bf-4ad2-af70-c5a06a141ff2.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1790947959509,
+    "nombre": "JUEGO DE MESA BASTA STOP 2.0 ",
+    "precio": 14900,
+    "foto": "https://i.postimg.cc/N0RZ6qd9/e5513800-124a-450d-aae5-495404c47919.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1790949448714,
+    "nombre": "JUEGO DE MESA BASTA STOP 3.0 ",
+    "precio": 15700,
+    "foto": "https://i.postimg.cc/xC7cDmSn/246a1b40-aa1e-4f48-a8e6-6b2279401730.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1790949538856,
+    "nombre": "JUEGO DE MESA VASOS APILABLES",
+    "precio": 12100,
+    "foto": "https://i.postimg.cc/gc8hRYFr/20892be5-755e-4dcc-984f-87abead1a15b.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1790949658518,
+    "nombre": "VASO TERMICO CON MANIJA Y SORBETE 900 ML",
+    "precio": 14900,
+    "foto": "https://i.postimg.cc/MGfHSDzf/c2404256-6133-43c7-a0e1-874f26b1d388.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1790949796239,
+    "nombre": "VASO TERMICO TAPA  ANTIDERRAME 1 LT.",
+    "precio": 13900,
+    "foto": "https://i.postimg.cc/tg6qf4zr/57f3a7bc-4652-4f4a-bbd8-d1f3b4129b0e.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1790950162957,
+    "nombre": "CORTA PELO 5 W 800 MAH VINTAGE ",
+    "precio": 10100,
+    "foto": "https://i.postimg.cc/SQHh0hJ6/0f80d955-9b08-4dbf-bd8b-9c4b4f9e4ae6.jpg",
+    "categoria": "TODO PARA HOMBRES",
+    "suspendido": false
+  },
+  {
+    "id": 1790950283342,
+    "nombre": "CORTA BARBA OM 3 EN 1 USB RECARGABLE ",
+    "precio": 17500,
+    "foto": "https://i.postimg.cc/YSDP16FR/97f24541-6ca7-49b2-b883-ccdb500a03f3.jpg",
+    "categoria": "TODO PARA HOMBRES",
+    "suspendido": false
+  },
+  {
+    "id": 1790950469847,
+    "nombre": "SILLA DIRECTOR PLEGABLE COLORES ",
+    "precio": 19600,
+    "foto": "https://i.postimg.cc/7LRBCxvM/c3708bc6-480e-4141-a72a-ddb7e553f1a5.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1790950650679,
+    "nombre": "AURICULAR BT INALAMBRICO JK 603 ",
+    "precio": 7100,
+    "foto": "https://i.postimg.cc/fbScrmFS/7057cb10-41e2-4455-b777-ad936982b2fd.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": true
+  },
+  {
+    "id": 1790950743390,
+    "nombre": "AURICULAR BT INALAMBRICO JK 605",
+    "precio": 8500,
+    "foto": "https://i.postimg.cc/YqSmPQL3/9ce3c1da-9e3b-42cb-afe1-52e771566b6e.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 1790951486153,
+    "nombre": "AURICULAR BT INALAMBRICO E10 MI PODS",
+    "precio": 9200,
+    "foto": "https://i.postimg.cc/5N3WXFsY/d5b455a8-d2eb-4239-bd5a-67b49d308f42.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 1790951560767,
+    "nombre": "CARGADOR CABEZAL AUTO PRO 21 3,4 USB + TIPO C",
+    "precio": 4800,
+    "foto": "https://i.postimg.cc/nhzgMSjV/5f2f0e71-917e-4441-a886-3441500354c6.jpg",
+    "categoria": "CARGADORES",
     "suspendido": false
   }
 ]
