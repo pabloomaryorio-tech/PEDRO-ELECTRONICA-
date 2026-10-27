@@ -32,14 +32,6 @@
     "suspendido": false
   },
   {
-    "id": 15,
-    "nombre": "CARGADOR PUXIDA TIPO C 3.1",
-    "precio": 3750,
-    "foto": "https://i.postimg.cc/g2s95CCs/Whats-App-Image-2025-09-10-at-20-57-10.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": false
-  },
-  {
     "id": 16,
     "nombre": "CARGADOR PUXIDA V8 3.1",
     "precio": 3450,
@@ -180,14 +172,6 @@
     "nombre": "PARLANTE RUEDA BT INALAMBRICO CON LUZ GTS 1492",
     "precio": 11600,
     "foto": "https://i.postimg.cc/PrxjLL4j/PARLANTW-RUEDA.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 49,
-    "nombre": "PARLANTE BT INALAMBRICO GTS 1468",
-    "precio": 6900,
-    "foto": "https://i.postimg.cc/3rqG6Gdx/PARLANTEL-UZ.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
   },
@@ -1688,34 +1672,10 @@
     "suspendido": false
   },
   {
-    "id": 490,
-    "nombre": "PARLANTE BT INALAMBRICO GTS 2066",
-    "precio": 24950,
-    "foto": "https://i.postimg.cc/L5FQTBpr/IMG-8208.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 492,
-    "nombre": "PARLANTE BT INALAMBRICO C/MICROFONO GTS 1222",
-    "precio": 18300,
-    "foto": "https://i.postimg.cc/LXKVK9bq/IMG-8210.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 493,
     "nombre": "PARLANTE BT INALAMBRICO GTS 1922",
     "precio": 9700,
     "foto": "https://i.postimg.cc/jSBHPqK2/IMG-8211.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 498,
-    "nombre": "PARLANTE BT INALAMBRICO BT 113",
-    "precio": 8700,
-    "foto": "https://i.postimg.cc/s2DMMtGS/IMG-8216.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
   },
@@ -1829,14 +1789,6 @@
     "precio": 10800,
     "foto": "https://i.postimg.cc/5tdc3fnt/IMG-20260316-162430.jpg",
     "categoria": "TODO PARA MUJERES ",
-    "suspendido": false
-  },
-  {
-    "id": 1773689722414,
-    "nombre": "PARLANTE BT INALAMBRICO GTS 1942",
-    "precio": 5700,
-    "foto": "https://i.postimg.cc/4yTbLFjQ/IMG-20260315-191755.jpg",
-    "categoria": "PARLANTES",
     "suspendido": false
   },
   {
@@ -1968,14 +1920,6 @@
     "suspendido": false
   },
   {
-    "id": 1776275415176,
-    "nombre": "PARLANTE BT INALAMBBRICO KTS 2119 RESISTENTE AL AGUA",
-    "precio": 6500,
-    "foto": "https://i.postimg.cc/4d0xpSXJ/IMG-8948.png",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 1776437052853,
     "nombre": "RADIO VINTAGE BT/FM/MP3 RECARGABLE GTS 1959",
     "precio": 9300,
@@ -1997,14 +1941,6 @@
     "precio": 2850,
     "foto": "https://i.postimg.cc/021c7ysw/932dc23b-83f9-4bc6-8991-e5341421ad4d.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
-  },
-  {
-    "id": 1777039033278,
-    "nombre": "PARLANTE BT INALAMBRICO + PANEL SOLAR Y LINTERNA KTS 2031",
-    "precio": 10800,
-    "foto": "https://i.postimg.cc/X7Wkp1fv/66db15e5-cc85-46ae-8fb9-c92e04cd1469.jpg",
-    "categoria": "PARLANTES",
     "suspendido": false
   },
   {
@@ -2368,14 +2304,6 @@
     "suspendido": false
   },
   {
-    "id": 1782417129413,
-    "nombre": "PARLANTE BT INALAMBRICO 4 PLG KTX-1476 ",
-    "precio": 18300,
-    "foto": "https://i.postimg.cc/1z3Df6GB/e986aee6-dd7b-49b6-983e-7a4b6f8ee7a9.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 1782417179951,
     "nombre": "CALENTADOR DE AGUA PARA EL AUTO",
     "precio": 6400,
@@ -2696,22 +2624,6 @@
     "suspendido": false
   },
   {
-    "id": 1786029724963,
-    "nombre": "RADIO AM/FM PANEL SOLAR USB RECARGABLE KTF 1490",
-    "precio": 17500,
-    "foto": "https://i.postimg.cc/PfFwJGv6/dcfe7a70-36bf-437b-bddf-764fb23f1fcd.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
-    "id": 1786030005227,
-    "nombre": "RADIO RETRO AM/FM USB RECARGABLE KTF- 2281",
-    "precio": 8900,
-    "foto": "https://i.postimg.cc/tRLFDQRr/8a3520f6-17dd-492f-ac7a-32f86ddd79bc.jpg",
-    "categoria": "PARLANTES",
-    "suspendido": false
-  },
-  {
     "id": 1786450274083,
     "nombre": "CARGADOR LEGATUS TIPO C 5 AMP. ",
     "precio": 3900,
@@ -2813,14 +2725,6 @@
     "precio": 5550,
     "foto": "https://i.postimg.cc/1R81D8sn/0de2795d-8142-4135-ba4d-0dfa41e25142.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1786805745477,
-    "nombre": "PARLANTE BT INALAMBRICO GTS - 2151",
-    "precio": 18800,
-    "foto": "https://i.postimg.cc/Wzg9XL9t/90aeff19-7c2a-4213-b64e-b9a282e84920.jpg",
-    "categoria": "PARLANTES",
     "suspendido": false
   },
   {
@@ -3077,14 +2981,6 @@
     "precio": 4750,
     "foto": "https://i.postimg.cc/2SDvVMMy/817a5c40-db39-4d9c-baa2-3455369e2081.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
-  },
-  {
-    "id": 1788794008873,
-    "nombre": "MINI PARLANTE BT INALAMBRICO JS 7391",
-    "precio": 4900,
-    "foto": "https://i.postimg.cc/wvy3WQZG/bed709d6-1b71-4966-bb35-89bf3bc8051f.jpg",
-    "categoria": "PARLANTES",
     "suspendido": false
   },
   {
@@ -3749,6 +3645,14 @@
     "precio": 16900,
     "foto": "https://i.postimg.cc/KvWWKt2R/c3654bc4-eac4-4f95-8b06-6025feafc9da.jpg",
     "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 1793120371632,
+    "nombre": "PARLANTE BT INALAMBRICO GTS 1389 4\"",
+    "precio": 10300,
+    "foto": "https://i.postimg.cc/YSQkwpmf/bbaa0c62-c152-43df-9b97-a2b168033a34.jpg",
+    "categoria": "PARLANTES",
     "suspendido": false
   }
 ]
