@@ -322,7 +322,7 @@
   {
     "id": 109,
     "nombre": "CEPILLO SECADOR GIRATORIO CON CABLE DE 1000 W",
-    "precio": 16950,
+    "precio": 15900,
     "foto": "https://i.postimg.cc/qMKW8Sn5/OA-CP202.jpg",
     "categoria": "TODO PARA MUJERES ",
     "suspendido": false
@@ -340,14 +340,6 @@
     "nombre": "PIEDRA DEPILADORA MAGICA NATURAL",
     "precio": 2300,
     "foto": "https://i.postimg.cc/j5ZV4pLP/ER025.jpg",
-    "categoria": "TODO PARA MUJERES ",
-    "suspendido": false
-  },
-  {
-    "id": 113,
-    "nombre": "PLANCHA DE CABELLO LEGATUS 35W 220°C",
-    "precio": 11600,
-    "foto": "https://i.postimg.cc/Y2YDkKp3/LPL035A.jpg",
     "categoria": "TODO PARA MUJERES ",
     "suspendido": false
   },
@@ -806,14 +798,6 @@
     "foto": "https://i.postimg.cc/SQLWJLvx/cabletipoc.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": true
-  },
-  {
-    "id": 277,
-    "nombre": "BALANZA PERSONAL CUADRADA 180 K",
-    "precio": 11500,
-    "foto": "https://i.postimg.cc/mk0Dm5d4/BALANZACUADRADA.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
   },
   {
     "id": 280,
@@ -1640,14 +1624,6 @@
     "suspendido": false
   },
   {
-    "id": 478,
-    "nombre": "MOPA AUTOMATICA CON SPRAY",
-    "precio": 15300,
-    "foto": "https://i.postimg.cc/LXb875X6/IMG-8183.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 480,
     "nombre": "BALANZA DE COCINA CON BOWL 10KG",
     "precio": 6150,
@@ -1913,7 +1889,7 @@
   },
   {
     "id": 1774985488355,
-    "nombre": "JUEGO DE CARTA UNO",
+    "nombre": "CARTA DE UNO",
     "precio": 1800,
     "foto": "https://i.postimg.cc/N0G5bMnj/66077605-1d4b-440f-b72c-78eed76e5a59.jpg",
     "categoria": "NIÑOS",
@@ -2010,7 +1986,7 @@
   {
     "id": 1776437753234,
     "nombre": "PISTOLA MASAJEADORA ",
-    "precio": 15000,
+    "precio": 15500,
     "foto": "https://i.postimg.cc/m2qM7Wss/5069a8d2-0651-4157-98d8-4b41709b2da1.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -2409,7 +2385,7 @@
   },
   {
     "id": 1782423445188,
-    "nombre": "NAIPES ESPALOLES ",
+    "nombre": "CARTAS ESPAÑOLAS ",
     "precio": 1500,
     "foto": "https://i.postimg.cc/nL3tp82x/download.jpg",
     "categoria": "NIÑOS",
@@ -2517,14 +2493,6 @@
     "precio": 4200,
     "foto": "https://i.postimg.cc/y6tXgbWH/4357e241-3ecc-4881-8266-466ae7589380.jpg",
     "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
-  },
-  {
-    "id": 1785763947557,
-    "nombre": "MANDOLINA PICADORA DE VERDURA X 10 PCS",
-    "precio": 12950,
-    "foto": "https://i.postimg.cc/7Zy3XJgK/a13f7fa4-9368-4f8c-92b5-4633c7f4ffd2.jpg",
-    "categoria": "HOGAR",
     "suspendido": false
   },
   {
@@ -3289,7 +3257,7 @@
   },
   {
     "id": 1790602446776,
-    "nombre": "CARTAS DOS ",
+    "nombre": "CARTAS DE DOS ",
     "precio": 1800,
     "foto": "https://i.postimg.cc/y8zc3JfT/e3b2194a-201c-40f2-a2bf-3faf3a00213e.jpg",
     "categoria": "NIÑOS",
@@ -3496,16 +3464,8 @@
     "suspendido": false
   },
   {
-    "id": 1790949658518,
-    "nombre": "VASO TERMICO CON MANIJA Y SORBETE 900 ML",
-    "precio": 14900,
-    "foto": "https://i.postimg.cc/MGfHSDzf/c2404256-6133-43c7-a0e1-874f26b1d388.jpg",
-    "categoria": "TERMOS Y VASOS",
-    "suspendido": false
-  },
-  {
     "id": 1790949796239,
-    "nombre": "VASO TERMICO TAPA  ANTIDERRAME 1 LT.",
+    "nombre": "VASO TERMICO TAPA  ANTIDERRAME 1 LT. CON MANIJA Y SORBETE",
     "precio": 13900,
     "foto": "https://i.postimg.cc/tg6qf4zr/57f3a7bc-4652-4f4a-bbd8-d1f3b4129b0e.jpg",
     "categoria": "TERMOS Y VASOS",
@@ -3560,14 +3520,6 @@
     "suspendido": false
   },
   {
-    "id": 1790951560767,
-    "nombre": "CARGADOR CABEZAL AUTO PRO 21 3,4 USB + TIPO C",
-    "precio": 4800,
-    "foto": "https://i.postimg.cc/nhzgMSjV/5f2f0e71-917e-4441-a886-3441500354c6.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": false
-  },
-  {
     "id": 1790954777826,
     "nombre": "CABLE IBEK TIPO C A TIPO C 6 AMP.",
     "precio": 1650,
@@ -3589,6 +3541,214 @@
     "precio": 2850,
     "foto": "https://i.postimg.cc/qMDf4HbC/de154729-9cd1-461f-9d02-d62af3263a6d.jpg",
     "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1793023232958,
+    "nombre": "AURICULAR BT INALAMBRICO JK 604",
+    "precio": 6100,
+    "foto": "https://i.postimg.cc/cLpn6P3V/ff67519c-96b9-4c3e-bafb-b9ddaef3b8d2.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 1793023411535,
+    "nombre": "AURICULAR BT INALAMBRICO JS 52 CON POWER BANK",
+    "precio": 10900,
+    "foto": "https://i.postimg.cc/KvyckFp4/6ef51c72-2906-434b-9b33-3b30fdff1b1b.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 1793023689666,
+    "nombre": "ALARMA CON SENSOR PARA VENTANAS Y PUERTAS",
+    "precio": 2600,
+    "foto": "https://i.postimg.cc/vH8jSNcC/c1a97153-9093-404c-825e-8dd6637793eb.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1793023840848,
+    "nombre": "CARGADOR I PHONE BATTERY PACK 20000 AMP.",
+    "precio": 18900,
+    "foto": "https://i.postimg.cc/kgvy3nzy/9cebe628-3bb4-40e2-b7c0-ce3a1ff293e4.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1793024141046,
+    "nombre": "AURICULAR MANOS LIBRES FICHA C 15 PRO MAX",
+    "precio": 3000,
+    "foto": "https://i.postimg.cc/Dzt0xG5V/e0bd2b12-adf6-4d6c-b86a-9c05f1e04d84.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1793024399669,
+    "nombre": "ASPIRADORA PORTATIL 3 EN 1 USB RECARGABLE CASA Y AUTO",
+    "precio": 6800,
+    "foto": "https://i.postimg.cc/G2770cBx/8ed34db7-69cf-4c74-96c7-5b5f99d4e66d.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1793024625958,
+    "nombre": "CARGADOR CABEZAL AUTO PRO 21 3,4 USB + TIPO C",
+    "precio": 4800,
+    "foto": "https://i.postimg.cc/qqr8ZSwc/c487fca2-a75d-4687-821a-73fcfd6f19c2.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1793024759637,
+    "nombre": "KIT DE REPARACION DE CUBIERTAS ",
+    "precio": 2500,
+    "foto": "https://i.postimg.cc/nrdCYPPn/09c3e943-23ec-43aa-b5c7-afe463906f81.jpg",
+    "categoria": "TODO PARA BICI Y MOTOS ",
+    "suspendido": false
+  },
+  {
+    "id": 1793025053479,
+    "nombre": "PARLANTE BT INALAMBRICO MINI GTS 2486",
+    "precio": 9500,
+    "foto": "https://i.postimg.cc/brFw22Zs/15cbd0ac-c3c8-4edd-bcb6-dc847dfb8150.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1793025244442,
+    "nombre": "CABLE ROYALCELL USB  A I PHONE ENGOMADO 5 AMP.",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/nzNHFfgQ/88ccffbb-c44c-4438-bfcf-bcfd6deacaca.jpg",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1793025474913,
+    "nombre": "PISTOLA MASAJEADORA ",
+    "precio": 15500,
+    "foto": "https://i.postimg.cc/Kj5s9nPK/d4b8b876-794e-4e60-9ed5-bc8e0656b9ed.jpg",
+    "categoria": "TODO PARA MUJERES ",
+    "suspendido": false
+  },
+  {
+    "id": 1793025934805,
+    "nombre": "JERINGA GASTRONOMICA",
+    "precio": 4200,
+    "foto": "https://i.postimg.cc/vB4V2M57/c6b42927-43a3-46a3-b8fd-ea8343893202.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1793027274788,
+    "nombre": "VASO TERMICO DE 900 ML CON SORBETE",
+    "precio": 14850,
+    "foto": "https://i.postimg.cc/FzPwry7P/47ad10d3-5b76-4b75-b4d6-bd1be4eebef6.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1793027929164,
+    "nombre": "MANDOLINA PICADORA DE VERDURAS X 16 PIEZAS ",
+    "precio": 13200,
+    "foto": "https://i.postimg.cc/kG0S0Z7Q/68310549-b838-4343-825f-24e47529673f.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1793028714843,
+    "nombre": "ORGANIZADOR DE COSMETICOS NECESER ",
+    "precio": 6700,
+    "foto": "https://i.postimg.cc/1RqLbjcm/90c1bc3d-5a34-4925-a142-dd7b6b8191c0.jpg",
+    "categoria": "TODO PARA MUJERES ",
+    "suspendido": false
+  },
+  {
+    "id": 1793029069817,
+    "nombre": "MARTILLO GALPONERO 2 EN 1 MANGO DE GOMA",
+    "precio": 6100,
+    "foto": "https://i.postimg.cc/Sxh2c3V6/88f0e910-9958-42e3-9699-89ae6e41c2b6.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1793029166750,
+    "nombre": "CARTAS DE POKER ",
+    "precio": 1500,
+    "foto": "https://i.postimg.cc/G28hWxzf/854b6bd6-b71c-4c73-a48e-6cad4eb1e57f.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1793030348935,
+    "nombre": "PLANCHA DE PELO OSR DE CERAMICA 220 V 45 W",
+    "precio": 11700,
+    "foto": "https://i.postimg.cc/yNJybw43/28b6b23b-595c-498e-81ee-976700ab2180.jpg",
+    "categoria": "TODO PARA MUJERES ",
+    "suspendido": false
+  },
+  {
+    "id": 1793031674690,
+    "nombre": "BOTELLA PLASTICA 800 ML SISTEMA PLUSH DE APERTURA",
+    "precio": 12800,
+    "foto": "https://i.postimg.cc/J0tTRtSJ/88792f49-fcca-4ab8-92bb-016f87cc629d.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1793031754425,
+    "nombre": "BOTELLA PLASTICA DE 1000 ML SISTEMA PLUSH DE APERTURA CON MANIJA",
+    "precio": 11500,
+    "foto": "https://i.postimg.cc/MGMVZVpP/2080d37a-badd-4715-94b7-ca410a23efec.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1793052676448,
+    "nombre": "BALANZA PERSONAL 180 KG ",
+    "precio": 11200,
+    "foto": "https://i.postimg.cc/HnjhB180/89523de3-61ef-4eaf-8b4e-7cadc482fbbf.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1793052819916,
+    "nombre": "ORGANIZADOR DE ZAPATOS",
+    "precio": 20500,
+    "foto": "https://i.postimg.cc/447C6p6M/b192aa5f-6e20-4a8e-9a09-93eb23293a40.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1793052887433,
+    "nombre": "COLADOR 12 CM DE DIAMETRO ",
+    "precio": 1700,
+    "foto": "https://i.postimg.cc/ZKtQ62K8/50be0d3b-812e-4acd-a875-23c34e48c845.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1793102161026,
+    "nombre": "VASO TAZA TERMICO DE 450 ML",
+    "precio": 8750,
+    "foto": "https://i.postimg.cc/J4Yq68YL/4af38178-7d48-4c3b-b541-009db047e098.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1793102259502,
+    "nombre": "ESPEJO LED A PILA USB RECARGABLE RECTANGULAR",
+    "precio": 10600,
+    "foto": "https://i.postimg.cc/3JjyNFpB/2d08f85e-3b50-47bd-96e7-cb0bc8ea071b.jpg",
+    "categoria": "TODO PARA MUJERES ",
+    "suspendido": false
+  },
+  {
+    "id": 1793102363950,
+    "nombre": "AURICULAR BT INALAMBRICO CON TRADUCTOR IA JS 69",
+    "precio": 16900,
+    "foto": "https://i.postimg.cc/KvWWKt2R/c3654bc4-eac4-4f95-8b06-6025feafc9da.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
     "suspendido": false
   }
 ]
