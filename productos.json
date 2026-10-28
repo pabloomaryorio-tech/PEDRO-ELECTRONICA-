@@ -760,14 +760,6 @@
     "suspendido": false
   },
   {
-    "id": 254,
-    "nombre": "AURICULAR SAMSUNG MANOS LIBRES",
-    "precio": 1750,
-    "foto": "https://i.postimg.cc/Pr9vkFT9/Whats-App-Image-2025-09-12-at-12-29-10.jpg",
-    "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
-  },
-  {
     "id": 260,
     "nombre": "POP IT ELECTRONICO DE MEMORIA C/LUZ/SONIDO",
     "precio": 5500,
@@ -781,7 +773,7 @@
     "precio": 1350,
     "foto": "https://i.postimg.cc/SQLWJLvx/cabletipoc.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 280,
@@ -997,7 +989,7 @@
     "precio": 1250,
     "foto": "https://i.postimg.cc/pVYqVtf7/IMG-8046.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 354,
@@ -1082,10 +1074,10 @@
   {
     "id": 376,
     "nombre": "CARGADOR TIPO C 3.1 CON CABLE DESMONTABLE",
-    "precio": 2850,
+    "precio": 2950,
     "foto": "https://i.postimg.cc/g0yHzfQX/IMG-8073.png",
     "categoria": "CARGADORES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 377,
@@ -1973,14 +1965,6 @@
     "precio": 14500,
     "foto": "https://i.postimg.cc/bvnZ0p8f/41da3265-05e3-425d-8473-f36d0019eda2.jpg",
     "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1777558751328,
-    "nombre": "TRANSMISOR BT KARSEN 3,1",
-    "precio": 6500,
-    "foto": "https://i.postimg.cc/ZRWy4fWG/8df92208-5c40-4629-80b7-aceefaad1a10.jpg",
-    "categoria": "TECNOLOGIA",
     "suspendido": false
   },
   {
@@ -3653,6 +3637,118 @@
     "precio": 10300,
     "foto": "https://i.postimg.cc/YSQkwpmf/bbaa0c62-c152-43df-9b97-a2b168033a34.jpg",
     "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1793228332222,
+    "nombre": "SQUEEZE ANTIESTRES HELADO",
+    "precio": 5100,
+    "foto": "https://i.postimg.cc/nhYW2k85/84650067-7964-4443-af11-c9342ede29bb.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1793228445378,
+    "nombre": "SPINNER PELOTA ",
+    "precio": 4400,
+    "foto": "https://i.postimg.cc/0Q6ZTG3k/1f6ed09e-4fc8-4fb3-b787-ff8e828395c0.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1793228627531,
+    "nombre": "LUZ NAVIDAD RGB 120 BOLITAS 30 MTS. ",
+    "precio": 21500,
+    "foto": "https://i.postimg.cc/L8NTh0FL/02505704-e5ce-4706-9c10-0c3ea3600ed0.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1793228701427,
+    "nombre": "SQUEEZE ANTIESTRES DONUNTS",
+    "precio": 5100,
+    "foto": "https://i.postimg.cc/htfJbC7f/ec40170b-fe05-4ea3-a94b-6d6321fce5f2.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1793228943185,
+    "nombre": "SQUEEZE ANTIESTRES BUTTER/MANTECA",
+    "precio": 8500,
+    "foto": "https://i.postimg.cc/ncsZ3NTg/d2ced4d7-4639-48b2-8349-367e8e15aabe.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1793229256881,
+    "nombre": "MANGUERA GUIRNALDA SOLAR ",
+    "precio": 10200,
+    "foto": "https://i.postimg.cc/mDvxJgmm/d1880c8a-1ade-4cd3-b74a-75dd6f1ed2ae.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1793229839475,
+    "nombre": "CARGADOR LEGATUS I PHONE 5 AMP.",
+    "precio": 4400,
+    "foto": "https://i.postimg.cc/vZJW1RS1/3c3675b4-a40f-4ebe-aa4a-60a6c24f5312.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1793229913122,
+    "nombre": "MICROFONO CORBATERO K9 EXTRA TECH",
+    "precio": 6500,
+    "foto": "https://i.postimg.cc/W4mJhdk7/95805aa3-4b18-44e4-a7df-758ecef28794.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false
+  },
+  {
+    "id": 1793229968985,
+    "nombre": "CARGADOR PUXIDA 3,1 TIPO C",
+    "precio": 3750,
+    "foto": "https://i.postimg.cc/CMrnBTRS/5e3f4484-2217-4fb8-8779-316383d87ed6.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1793230166249,
+    "nombre": "AURICULAR PUXIDA C 28 FICHA TIPO C",
+    "precio": 5600,
+    "foto": "https://i.postimg.cc/MHf6fLF4/9c8c0770-76e5-4b39-9ed3-c440de1c66e3.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1793230254561,
+    "nombre": "AURICULAR MANOS LIBRES SAMSUNG ",
+    "precio": 1850,
+    "foto": "https://i.postimg.cc/vTn1wDbV/61949ec2-796a-431c-a8ff-992b3eec3002.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1793230382968,
+    "nombre": "MOUSE GAMER CON LUZ 6 BOTONES",
+    "precio": 7600,
+    "foto": "https://i.postimg.cc/B6r6psHC/fe8ecc93-9247-4f53-940a-118f9dd9489e.jpg",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1793230489857,
+    "nombre": "TRANSMISOR BT PARA AUTOS",
+    "precio": 6300,
+    "foto": "https://i.postimg.cc/bJtYsMMB/498b4766-0ea6-4a6b-9ebf-e8840939d4fa.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false
+  },
+  {
+    "id": 1793230778704,
+    "nombre": "BOTELLA  PLASTICAS DE 1000 ML SISTEMA PLUSH DE APERTURA ",
+    "precio": 10300,
+    "foto": "https://i.postimg.cc/q7KWnTJw/5fb0279a-756b-4ea6-a73a-f432e7a42ee6.jpg",
+    "categoria": "TERMOS Y VASOS",
     "suspendido": false
   }
 ]
