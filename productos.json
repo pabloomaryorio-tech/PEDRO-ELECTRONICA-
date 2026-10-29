@@ -3653,7 +3653,7 @@
     "precio": 4400,
     "foto": "https://i.postimg.cc/0Q6ZTG3k/1f6ed09e-4fc8-4fb3-b787-ff8e828395c0.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1793228627531,
@@ -3661,7 +3661,7 @@
     "precio": 21500,
     "foto": "https://i.postimg.cc/L8NTh0FL/02505704-e5ce-4706-9c10-0c3ea3600ed0.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1793228701427,
@@ -3685,7 +3685,7 @@
     "precio": 10200,
     "foto": "https://i.postimg.cc/mDvxJgmm/d1880c8a-1ade-4cd3-b74a-75dd6f1ed2ae.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1793229839475,
