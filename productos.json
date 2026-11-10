@@ -88,7 +88,7 @@
     "precio": 1600,
     "foto": "https://i.postimg.cc/MpBny6Kj/CAB-41002.jpg",
     "categoria": "CABLES CELULAR ",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1793713069854
   },
   {
@@ -1013,14 +1013,6 @@
     "suspendido": false
   },
   {
-    "id": 354,
-    "nombre": "CABLE USB MOTOROLA BLISTER V8 ",
-    "precio": 1500,
-    "foto": "https://i.postimg.cc/TYsmfk49/IMG-8048.jpg",
-    "categoria": "CABLES CELULAR ",
-    "suspendido": false
-  },
-  {
     "id": 359,
     "nombre": "CABLE AUXILIAR A I PHONE",
     "precio": 2700,
@@ -1112,14 +1104,6 @@
     "categoria": "CARGADORES",
     "suspendido": false,
     "fechaIngreso": 1793713939901
-  },
-  {
-    "id": 378,
-    "nombre": "CARGADOR CABEZAL KOSMO 2 AMP",
-    "precio": 2950,
-    "foto": "https://i.postimg.cc/0QFYcPwb/IMG-8077.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": false
   },
   {
     "id": 379,
@@ -1267,11 +1251,12 @@
   },
   {
     "id": 403,
-    "nombre": "CABLE PARA AUTO BOOSTER 500 MP",
+    "nombre": "CABLE PARA AUTO BOOSTER 600 MP",
     "precio": 10500,
     "foto": "https://i.postimg.cc/fLtxJCWQ/IMG-8113.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": false,
+    "fechaIngreso": 1794316888899
   },
   {
     "id": 404,
@@ -2829,7 +2814,7 @@
     "precio": 16500,
     "foto": "https://i.postimg.cc/m2vsqF9x/ec34bcbc-ae42-44ae-95a0-1d0f99ab159e.jpg",
     "categoria": "RELOJES",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1793722777416
   },
   {
@@ -3804,5 +3789,86 @@
     "categoria": "COMPUTACION",
     "suspendido": false,
     "fechaIngreso": 1793731743904
+  },
+  {
+    "id": 1794315987076,
+    "nombre": "GUANTES DE TRABAJO FINOS ",
+    "precio": 1450,
+    "foto": "https://i.postimg.cc/7ZRqWQQX/4e20f39c-3d56-40bb-8741-0bf272db95cd.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false,
+    "fechaIngreso": 1794315987076
+  },
+  {
+    "id": 1794316357596,
+    "nombre": "SOLDADOR 60W ",
+    "precio": 4900,
+    "foto": "https://i.postimg.cc/0yzsD02P/5b703510-9506-4217-811e-8436bbd8c9e9.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false,
+    "fechaIngreso": 1794316357596
+  },
+  {
+    "id": 1794316402401,
+    "nombre": "CARTAS POKER CAJA PLASTICA ",
+    "precio": 1900,
+    "foto": "https://i.postimg.cc/nzGbpdTv/c88078aa-7555-4548-bcf4-460b18ac230f.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1794316402401
+  },
+  {
+    "id": 1794316531866,
+    "nombre": "AURICULAR BT INALAMBRICO M25 ",
+    "precio": 7500,
+    "foto": "https://i.postimg.cc/sxfFXpNC/5d9e3d6e-85eb-4403-a937-b6e498bbdd1f.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false,
+    "fechaIngreso": 1794316531866
+  },
+  {
+    "id": 1794316604202,
+    "nombre": "AURICULAR BT INALAMBRICO M10 PRO ",
+    "precio": 5850,
+    "foto": "https://i.postimg.cc/L5xcZnch/ef521c4d-d449-4b84-a8a7-5acb85f066d3.jpg",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false,
+    "fechaIngreso": 1794316604203
+  },
+  {
+    "id": 1794316720102,
+    "nombre": "CORTADORA DE PELO USB RECARGABLE  CRT-110023",
+    "precio": 5050,
+    "foto": "https://i.postimg.cc/1X7d3bFz/09c3c100-6521-4b2c-bf36-6336fd03a6b6.jpg",
+    "categoria": "TODO PARA HOMBRES",
+    "suspendido": false,
+    "fechaIngreso": 1794316720102
+  },
+  {
+    "id": 1794316827394,
+    "nombre": "SET DE DESTORNILLADOR X 4 PCS + BUSCA POLO ",
+    "precio": 5750,
+    "foto": "https://i.postimg.cc/PrNcRrGp/c2a364de-855d-47be-8adf-c973990d458d.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false,
+    "fechaIngreso": 1794316827397
+  },
+  {
+    "id": 1794317567054,
+    "nombre": "SQUEEZE ANTIESTRES FRUTAS",
+    "precio": 4900,
+    "foto": "https://i.postimg.cc/SsnX2M2H/17ccd4d6-44ed-4adf-a91a-5d0770fd0680.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false,
+    "fechaIngreso": 1794317567054
+  },
+  {
+    "id": 1794317744049,
+    "nombre": "MINI LINTERNA DE EMERGENCIA USB RECARGABLE ",
+    "precio": 3850,
+    "foto": "https://i.postimg.cc/jjgwSX5M/37dedf42-30c1-4af2-a905-5ceb2cc94b05.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false,
+    "fechaIngreso": 1794317744050
   }
 ]
