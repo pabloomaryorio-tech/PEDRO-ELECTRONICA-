@@ -1701,7 +1701,7 @@
     "precio": 7900,
     "foto": "https://i.postimg.cc/c6yK6CfB/IMG-8227.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 512,
@@ -1898,7 +1898,7 @@
     "precio": 8400,
     "foto": "https://i.postimg.cc/L5qMqLfh/19032dbb-3638-4dfd-9d30-4d17f9ad5c89.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1793722452969
   },
   {
@@ -2757,7 +2757,7 @@
     "precio": 23600,
     "foto": "https://i.postimg.cc/y8QwJK24/26b66027-083e-4989-8cb1-db9bccdec0ae.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1793722096121
   },
   {
@@ -2950,7 +2950,7 @@
     "precio": 10400,
     "foto": "https://i.postimg.cc/9fsn9Why/fbf0bf8b-8a9d-47ec-9270-75f0d66b94b7.jpg",
     "categoria": "PARLANTES",
-    "suspendido": false,
+    "suspendido": true,
     "fechaIngreso": 1793722316568
   },
   {
