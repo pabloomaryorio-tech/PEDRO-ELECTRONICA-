@@ -89,9 +89,9 @@
         #resumen-carrito { margin-top: 20px; text-align: right; }
         #resumen-carrito p { font-size: 1.5em; font-weight: bold; color: var(--color-acento); }
        #btn-comprar-whatsapp {
-    background-color: white;
-    color: #191970;
-    border: 2px solid #191970;
+    background-color: #25D366;
+    color: white;
+    border: 2px solid #25D366;
     padding: 8px 30px;
     border-radius: 8px;
     font-size: 1.2em;
@@ -100,9 +100,9 @@
 }
         
     #btn-vaciar-carrito {
-    background-color: white;
-    color: #191970 !important;
-    border: 2px solid #191970;
+    background-color: #dc3545 !important;
+    color: white !important;
+    border: 2px solid #dc3545;
     padding: 6px 20px;
     border-radius: 8px;
     cursor: pointer;
@@ -531,25 +531,6 @@ box-sizing: border-box;
                      placeholder="INGRESE SU NOMBRE PARA EL PEDIDO"
                      style="width: 100%; padding: 9px; margin-top: 5px; border: 1px solid var(--color-borde); border-radius: 4px;">
 
-                <div style="margin-bottom: 20px; margin-top: 12px; text-align: left;">
-    <label for="aclaracion-pedido">
-        localidad y direccion (opcional) :
-    </label>
-
-    <textarea
-        id="aclaracion-pedido"
-        placeholder="EJ: COLOR DESEADO, HORARIO DE ENTREGA, CONSULTAS O DETALLES IMPORTANTES..."
-        style="
-        width: 100%;
-        padding: 12px;
-        margin-top: 5px;
-        border: 1px solid var(--color-borde);
-        border-radius: 4px;
-        min-height: 90px;
-        resize: vertical;
-        ">
-    </textarea>
-</div>
                     <p style="text-align: center; 
           color: var(--color-acento); 
           font-style: italic; 
@@ -632,9 +613,6 @@ box-sizing: border-box;
         </div>
     </main>
 
-    <a href="https://wa.me/5492478413653" class="whatsapp-float" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" />
-    </a>
 
     <script>
 
@@ -649,7 +627,7 @@ let esDuenioAutenticado = urlParams.has('appsfogel') && urlParams.get('appsfogel
         let categorias = [];
         let carrito = JSON.parse(localStorage.getItem('carritoPY')) || [];
         const CLAVE_ADMIN = "MM2025";
-        const TELEFONO_WHATSAPP = "5492478413653"; 
+        const TELEFONO_WHATSAPP = "5492478422323"; 
 
         // =================================================================
         // 2. CARGA DE DATOS (FETCH + LOCALSTORAGE LOCAL)
@@ -1013,7 +991,6 @@ let esDuenioAutenticado = urlParams.has('appsfogel') && urlParams.get('appsfogel
                 return;
             }
             const nombreCliente = document.getElementById('nombre-cliente-whatsapp').value.trim();
-            const aclaracionPedido = document.getElementById('aclaracion-pedido').value.trim();
             
             if (carrito.length === 0) {
                 Swal.fire({ title: "CARRITO VACÍO", text: "POR FAVOR, AGREGA PRODUCTOS PRIMERO.", icon: "info", confirmButtonColor: "#191970" });
@@ -1039,9 +1016,6 @@ let esDuenioAutenticado = urlParams.has('appsfogel') && urlParams.get('appsfogel
             mensaje += `--------------------------\n`;
             mensaje += `*TOTAL DEL PEDIDO: ${formatoMoneda.format(totalPedido)}*\n\n`;
 
-            if (aclaracionPedido !== "") {
-                mensaje += `*LOCALIDAD Y DIRECCION:*\n${aclaracionPedido}\n\n`;
-            }
             mensaje += `_QUEDO A LA ESPERA DE TU CONFIRMACION PARA COORDINAR ENTREGA_`;
 
             const url = `https://wa.me/${TELEFONO_WHATSAPP}?text=${encodeURIComponent(mensaje)}`;
